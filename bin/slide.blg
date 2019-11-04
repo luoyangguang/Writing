@@ -1,28 +1,31 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is '/home/aghiles/Aghiles/Research/Writing/bin/slide.blg'
-[23] biber:315> INFO - === Mon Nov  4, 2019, 08:51:16
-[42] Biber.pm:371> INFO - Reading '/home/aghiles/Aghiles/Research/Writing/bin/slide.bcf'
-[94] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[94] Biber.pm:889> INFO - Found 1 citekeys in bib section 1
-[94] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[109] Biber.pm:4093> INFO - Processing section 1
-[116] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 1
-[168] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1153] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/iot.bib'
-[1187] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 1
-[1188] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1192] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/iotbis.bib'
-[1193] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 1
-[1207] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1469] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/privacy.bib'
-[1479] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 1
-[1480] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1498] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/petri.bib'
-[1499] Utils.pm:193> WARN - I didn't find a database entry for 'alkhawlani_access_2008a' (section 1)
-[1504] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1504] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1504] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1504] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1505] bbl.pm:636> INFO - Writing '/home/aghiles/Aghiles/Research/Writing/bin/slide.bbl' with encoding 'UTF-8'
-[1505] bbl.pm:739> INFO - Output to /home/aghiles/Aghiles/Research/Writing/bin/slide.bbl
-[1505] Biber.pm:110> INFO - WARNINGS: 1
+[26] biber:315> INFO - === Mon Nov  4, 2019, 12:16:42
+[46] Biber.pm:371> INFO - Reading '/home/aghiles/Aghiles/Research/Writing/bin/slide.bcf'
+[105] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[106] Biber.pm:889> INFO - Found 10 citekeys in bib section 1
+[106] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[123] Biber.pm:4093> INFO - Processing section 1
+[133] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 1
+[189] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1451] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/iot.bib'
+[1518] Utils.pm:193> WARN - ISBN '978-1-5090-3242-6 978-1-5090-3243-3' in entry 'venkatesan_design_2017' is invalid - run biber with '--validate_datamodel' for details.
+[1554] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 1
+[1555] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1560] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/iotbis.bib'
+[1561] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 1
+[1578] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1888] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/privacy.bib'
+[1899] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 1
+[1901] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1923] bibtex.pm:1329> INFO - Found BibTeX data source '../ref/petri.bib'
+[1924] Utils.pm:193> WARN - I didn't find a database entry for 'dimartino_internet_2018' (section 1)
+[1924] Utils.pm:193> WARN - I didn't find a database entry for 'sama_servicebased_2016' (section 1)
+[1924] Utils.pm:193> WARN - I didn't find a database entry for 'alkhawlani_access_2008a' (section 1)
+[1936] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1936] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1936] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1936] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1944] bbl.pm:636> INFO - Writing '/home/aghiles/Aghiles/Research/Writing/bin/slide.bbl' with encoding 'UTF-8'
+[1949] bbl.pm:739> INFO - Output to /home/aghiles/Aghiles/Research/Writing/bin/slide.bbl
+[1949] Biber.pm:110> INFO - WARNINGS: 4

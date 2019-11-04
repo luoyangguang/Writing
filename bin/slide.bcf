@@ -2015,7 +2015,31 @@
     <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1">alkhawlani_access_2008a</bcf:citekey>
+    <bcf:citekey order="1">perera_mosden_2013</bcf:citekey>
+    <bcf:citekey order="2">perera_mosden_2013</bcf:citekey>
+    <bcf:citekey order="3">kouicem_internet_2018</bcf:citekey>
+    <bcf:citekey order="4">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="5">kouicem_internet_2018</bcf:citekey>
+    <bcf:citekey order="6">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="7">feltrin_lorawan_2018</bcf:citekey>
+    <bcf:citekey order="8">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="9">feltrin_lorawan_2018</bcf:citekey>
+    <bcf:citekey order="10">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="11">cattani_experimental_2017</bcf:citekey>
+    <bcf:citekey order="12">dimartino_internet_2018</bcf:citekey>
+    <bcf:citekey order="13">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="14">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="15">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="16">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="17">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="18">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="19">sama_servicebased_2016</bcf:citekey>
+    <bcf:citekey order="20">sama_servicebased_2016</bcf:citekey>
+    <bcf:citekey order="21">ksentini_toward_2017</bcf:citekey>
+    <bcf:citekey order="22">ksentini_toward_2017</bcf:citekey>
+    <bcf:citekey order="23">ksentini_toward_2017</bcf:citekey>
+    <bcf:citekey order="24">ksentini_toward_2017</bcf:citekey>
+    <bcf:citekey order="25">alkhawlani_access_2008a</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
