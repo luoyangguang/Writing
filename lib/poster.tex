@@ -1,0 +1,22 @@
+\documentclass[a0paper,portrait]{../lib/styles/baposter}
+
+\input{../lib/setup}
+
+\newcommand{\chapter}[2][]{
+	\xinput{#1*/2*}
+}
+
+%\usepackage[top=2.5cm, bottom=2cm, left=3cm, right=2.5cm, headheight=15pt]{geometry}
+\usepackage{xparse}
+	\ExplSyntaxOn
+		\NewDocumentCommand{\xinput}{m}{%
+			\azimut_xinput:n { #1 }
+		}
+		\ior_new:N \g_azimut_xinput_stream
+		\cs_new_protected:Nn \azimut_xinput:n{
+			\ior_open:Nn \g_azimut_xinput_stream { "|ls ~ #1" }
+			\ior_map_inline:Nn \g_azimut_xinput_stream { \file_input:n { \tl_trim_spaces:n {##1} } }
+		}
+	\ExplSyntaxOff
+
+\def\biblio{}

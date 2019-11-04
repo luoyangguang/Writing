@@ -1,0 +1,82 @@
+\section{Background} \label{sec:Background}
+
+To select the wireless communication that best fit smart building application requirements,
+	four main parameters are generally used:
+	(i) cost;
+	(ii) data rate;
+	(iii) autonomy and (iv) communication range \cite{lopes_design_2019}.
+As data rate and communication range are inversely proportional to autonomy,
+	devices need to consume more energy to communicate at higher bit rates and greater distances.
+\ac{IoT} devices in emerging evaluation system are particularly vulnerable to power consumption.
+This vulnerability is mainly due to the awareness aspect of their task and the need to be powered all the time without carrying about battery level for a long period of time.
+
+Table 1 compiles the two more promising standards that are being used in smart building applications,
+	notably LoRa and 6LowPan.
+
+\ac{CF} \ac{DR} \ac{CR} \ac{BW}
+
+\begin{table}
+%\changefontsizes{6pt}
+\centering
+\begin{tabular}{l|l|l|l}
+	\bf{Characteristics}               & $\ac{CF}_{[Hz]}$ & \bf{6LoWPAN} & \bf{LoRaWAN}     \\\hline
+	\multirow{3}{*}{\bf{Modulation}}   & 2.4G             & O-QPSK       & -                \\
+	\                                  & 915M             & BPSK         & LoRa             \\
+	\                                  & 868M             & BPSK         & LoRa/GFSK        \\\hline
+	\multirow{3}{*}{\bf{Channels}}     & 2.4G             & 16           & -                \\
+	\                                  & 915M             & 10           & 64+8\u, 8\d      \\
+	\                                  & 868M             & 1            & 10               \\\hline
+	\multirow{2}{*}{$\ac{CF}_{[MHz]}$} & 2.4G             & \ko          & -                \\
+	\                                  & 915M             & 902-929      & 902-928          \\
+	\                                  & 868M             & 868-868.6    & 863-870 and 780  \\\hline
+	\multirow{3}{*}{$\ac{BW}_{[Hz]}$}  & 2.4G             & 5M           & -                \\
+	\                                  & 915M             & 2M           & 125K-500K        \\
+	\                                  & 868M             & 600M         & 125K-250K        \\\hline
+	\multirow{3}{*}{$\ac{DR}_{[bps]}$} & 2.4G             & 250M         & -                \\
+	\                                  & 915M             & 40M          & 980-21.9K        \\
+	\                                  & 868M             & 20M          & LoRa: 0.3K-37.5K \\
+	\                                  &                  &              & FSK:	50K         \\\hline
+	\multirow{3}{*}{$\ac{CR}_{[dBm]}$} & 2.4G             & -85          & -                \\
+	\                                  & 915M             & -92          & \ko              \\
+	\                                  & 868M             & -92          & -137             \\\hline
+	% \multirow{3}{*}{$Chip R_{[chip/s]}$} & 2.4G           &              &                  \\
+	% \                                  & 915M             &              &        	        \\
+	% \                                  & 868M             &              &                  \\\hline
+	% \bf{Range}                         & 2.4G             &              &                  \\
+	% \                                  & 915M             &              &                  \\
+	% \                                  & 868M             & 10-100 m     & 5-15 Km          \\\hline
+	% \bf{Handover}                      & 2.4G             & \ko          & -                \\
+	% \                                  & 915M             & \ko          & \ko              \\
+	% \                                  & 868M             & \ko          & Multi \ac{BS}    \\\hline
+	% \bf{msg/day}                       & 2.4G             & \ko          & -                \\
+	% \                                  & 915M             & \ko          & \ko              \\
+	% \                                  & 868M             & \ko          & Unlimited        \\\hline
+	% \bf{\ac{PL}	B}                     & 2.4G             & \ko          & -                \\
+	% \                                  & 915M             & \ko          & \ko              \\
+	% \                                  & 868M             & \ko          & 243B             \\\hline
+	% \bf{Coding}                        &                  & \ac{DSSS}    & \ac{CSS}         \\\hline
+	% \bf{Proprietary}                   &                  & \ko          & \ko              \\\hline
+	% \bf{Topology}                      & \                & \ko          & Star, Stars      \\\hline
+	% \ac{ADR}                           & \                & \ko          & \ok              \\\hline
+	% \bf{Security}                      & \                & \ko          & AES 128b         \\\hline
+	% \ac{LS}                            & \                & \ko          & \ok              \\\hline
+	% \ac{FEC}                           & \                & \ko          & AES 128b         \\\hline
+	% \bf{Battery}                       & \                & 1-2	years    & <10 years        \\\hline
+	% %	\bf{Uplink}                      & \                &              &                  \\hline
+	% %	\bf{Downlink}                    & \                &              &                  \\hline
+	% \bf{Cost}                          & \                & Free         & 35e              \\\hline
+	% \bf{Standar}                       &                  & IETF         & LoRa	Alliance    \\\hline
+\end{tabular}
+\caption{LoRa and 6LowPAN characteristics \cite{al-kashoash_comparison_2016}.}
+\end{table}
+
+
+\cite{raza_low_22}
+\cite{lopes_design_2019}
+
+
+% \subsection*{Selection of technology}
+% \subsection{Hardware}
+% \subsection{Operating system}
+% \subsection{Communication protocol}
+% \subsection{Workspace and tools}

@@ -1,0 +1,14 @@
+\section{Architecture} \label{sec:Approach}
+
+Research in \ac{IoT} field usually pay attention to energy consumption by optimizing the data transmission rate or by aggregating the data.
+However,
+	in an urgent situation like a disaster monitoring service,
+	data accuracy becomes very important.
+Furthermore,
+	these data are required to achieve the network server quickly over \ac{CoAP} or \ac{MQTT} as shown in \reffig{iot} to make the appropriate decisions to evacuate people.
+For this reason,
+	we use an edge computing server that receives data from \ac{IoT} devices by means of IEEE.802.15.4 and LoRa technologies.
+This requires to make the LoRa gateway able to forward received packets to the IEEE802.15.4 border router and vice versa.
+
+\Figure{h}{1.1}{iot}{IoT architecture}
+

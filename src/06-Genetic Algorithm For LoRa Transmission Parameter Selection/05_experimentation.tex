@@ -1,0 +1,19 @@
+\section{Experiments} \label{sec:Experiments}
+
+% General description ------------------------------------------------
+For our experiments we use both real environment (\reffig{loRa_experimentaion}) and ns-3 simulator with SX1276 LoRa module.
+However,
+	to test the scalability of genetic algorithm with numerous IoT devices in a real environment,
+	we use FIT IoT-LAB platform among other platforms presented in \cite{tonneau_how_2015}.
+This choice is motivated by the number of devices supported by this platform (up to 2000 nodes).
+
+% Description 1 ------------------------------------------------
+Figure \ref{fig:gateway} presents the LoRa gateway that we build using a low cost LoRa gateway \cite{lowcostloragateway} on a Raspberry-pi.
+% Description 2 ------------------------------------------------
+Figure \ref{fig:node} presents one of the two Arduino boards equipped with an antenna that cover both 868 and \red{433} MHz band with a SX1276 LoRa Transceiver.
+
+\FigureH{h!}{.48}{gateway}{Gateway (Raspberry-pi)}{node}{Sensor node (Arduino)}{loRa_experimentaion}{Gateway \& Sensor node}
+
+% LoRa transceivers in both the Gateway and nodes have to be configured dynamically and in a real time to match both environment conditions and the three applications requirements,
+\red{Due to the energy constraints of LoRa nodes of class A that we use,
+	our framework will send commands through the FCtrl fields to ask nodes to adapt their transmission behavior to the new application or the new environment conditions.}

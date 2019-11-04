@@ -1,0 +1,314 @@
+A-App \cite{chen_viable_2018} A {{Viable LoRa Framework}} for {{Smart Cities}} \newline 
+ \cite{thantharate_coap_2019} {{CoAP}} and {{MQTT Based Models}} to {{Deliver Software}} and {{Security Updates}} to {{IoT Devices}} over the {{Air}} \newline 
+ \cite{perera_context_2014} Context {{Aware Computing}} for {{The Internet}} of {{Things}}: {{A Survey}} \newline 
+ \cite{yacchirema_design_2016} Design and Implementation of a {{Gateway}} for {{Pervasive Smart Environments}} \newline 
+ \cite{ozyilmaz_designing_2019} Designing a {{Blockchain}}-{{Based IoT With Ethereum}}, {{Swarm}}, and {{LoRa}}: {{The Software Solution}} to {{Create High Availability With Minimal Security Risks}} \newline 
+ \cite{venkatesan_design_2017} Design of a Smart  Solution Based on the Exploration of Specific Challenges in {{IoT}} \newline 
+ \cite{novo_enabling_2019} Enabling {{CoAP}}-{{Based Communication}} across {{Network Boundaries}}: {{Challenges}} and {{Solutions}} \newline 
+ \cite{aloi_enabling_2017} Enabling {{IoT}} Interoperability through Opportunistic Smartphone-Based Mobile s \newline 
+ \cite{asghari_internet_2019} Internet of {{Things}} Applications: {{A}} Systematic Review \newline 
+ \cite{phon-amnuaisuk_internet_2017} Internet of {{Things}} ({{IoT}}) with {{CoAP}} and {{HTTP Protocol}}: {{A Study}} on {{Which Protocol Suits IoT}} in {{Terms}} of {{Performance}} \newline 
+ \cite{kouicem_internet_2018} Internet of Things Security: {{A}} Top-down Survey \newline 
+ \cite{noura_interoperability_2018} Interoperability in {{Internet}} of {{Things}}: {{Taxonomies}} and {{Open Challenges}} \newline 
+ \cite{silva_latency_2018} Latency Evaluation for {{MQTT}} and {{WebSocket Protocols}}: An {{Industry}} 4.0 Perspective \newline 
+ \cite{yacchirema_vargas_smart_2016} Smart {{IoT  For Heterogeneous s Interoperability}} \newline 
+A-Blockchain \cite{desai_hybrid_2019} A {{Hybrid Blockchain Architecture}} for {{Privacy}}-{{Enabled}} and {{Accountable Auctions}} \newline 
+ \cite{fitwi_lightweight_2019} A {{Lightweight Blockchain}}-{{Based Privacy Protection}} for {{Smart Surveillance}} at the {{Edge}} \newline 
+ \cite{islam_permissioned_2019} A {{Permissioned Blockchain Based Access Control System}} for {{IOT}} \newline 
+ \cite{li_contract-based_2019} Contract-{{Based Approach}} for {{Security Deposit}} in {{Blockchain Networks}} with {{Shards}} \newline 
+ \cite{harris_decentralized_2019} Decentralized \& {{Collaborative AI}} on {{Blockchain}} \newline 
+ \cite{lu_educoin_2019} {{EduCoin}}: A {{Secure}} and {{Efficient Payment Solution}} for {{MOOC Environment}} \newline 
+ \cite{wang_fastchain_2019} {{FastChain}}: {{Scaling Blockchain System}} with {{Informed Neighbor Selection}} \newline 
+ \cite{zhu_hybrid_2019} Hybrid {{Blockchain Design}} for {{Privacy Preserving Crowdsourcing Platform}} \newline 
+ \cite{amiri_sharding_2019} On {{Sharding Permissioned Blockchains}} \newline 
+ \cite{jiang_privacy-preserving_2019} Privacy-{{Preserving}} and {{Efficient Multi}}-{{Keyword Search}} over {{Encrypted Data}} on {{Blockchain}} \newline 
+ \cite{jalalzai_proteus_2019} Proteus: {{A Scalable BFT Consensus Protocol}} for {{Blockchains}} \newline 
+ \cite{islam_remote_2019} Remote {{Configuration}} of {{Integrated Circuit Features}} and {{Firmware Management}} via {{Smart Contract}} \newline 
+ \cite{linoy_scalable_2019} Scalable {{Privacy}}-{{Preserving Query Processing}} over {{Ethereum Blockchain}} \newline 
+ \cite{kim_ssp_2019} {{SSP}}: {{Self}}-{{Sovereign Privacy}} for {{Internet}} of {{Things Using Blockchain}} and {{MPC}} \newline 
+ \cite{truong_towards_2019} Towards {{Secure}} and {{Decentralized Sharing}} of {{IoT Data}} \newline 
+ \cite{malik_trustchain_2019} {{TrustChain}}: {{Trust Management}} in {{Blockchain}} and {{IoT Supported Supply Chains}} \newline 
+A-IEEE \cite{parra_analysis_2017} Analysis of {{ITS}}-{{G5A V2X}} Communications Performance in Autonomous Cooperative Driving Experiments \newline 
+ \cite{pau_challenges_2012} Challenges and Opportunities in Immersive Vehicular Sensing: {{Lessons}} from Urban Deployments \newline 
+ \cite{harri_communication_2015} Communication {{Technologies}} and the {{Internet}} of {{Things}} in {{ITS}} \newline 
+ \cite{huang_effectively_2017} Effectively {{Measure}} and {{Reduce Kernel Latencies}} for {{Real}}-Time {{Constraints}} \newline 
+ \cite{soyturk_vehicular_2016} From Vehicular Networks to Vehicular Clouds in Smart Cities \newline 
+ \cite{gerla_internet_2014} Internet of Vehicles: {{From}} Intelligent Grid to Autonomous Cars and Vehicular s \newline 
+ \cite{mur_linux_2019} Linux {{Wi}}-{{Fi}} Open Source Drivers -Mac80211, Ath9k/Ath5k- \newline 
+ \cite{grassi_navigo_2015} Navigo: {{Interest}} Forwarding by Geolocations in Vehicular {{Named Data Networking}} \newline 
+ \cite{kim_navopt_2011} {{NAVOPT}}: {{Navigator Assisted Vehicular Route OPTimizer}} \newline 
+ \cite{bloessl_performance_2018} Performance {{Assessment}} of {{IEEE}} 802.11p with an {{Open Source SDR}}-{{Based Prototype}} \newline 
+ \cite{gerla_picsonwheels_2013} Pics-on-Wheels: {{Photo}} Surveillance in the Vehicular  \newline 
+ \cite{zaldivar_providing_2011} Providing Accident Detection in Vehicular Networks through {{OBD}}-{{II}} s and {{Android}}-Based Smartphones \newline 
+ \cite{marfia_safe_2013} Safe {{Driving}} in {{LA}}: {{Report}} from the {{Greatest Intervehicular Accident Detection Test Ever}} \newline 
+ \cite{briante_supporting_2014} Supporting Augmented Floating Car Data through Smartphone-Based Crowd-Sensing \newline 
+ \cite{van_der_heijden_survey_2016} Survey on {{Misbehavior Detection}} in {{Cooperative Intelligent Transportation Systems}} \newline 
+ \cite{abdelgader_physical_2014} The {{Physical Layer}} of the {{IEEE}} 802.11p {{WAVE Communication Standard}}: {{The Specifications}} and {{Challenges}} \newline 
+ \cite{alvear_validation_2015} Validation of a Vehicle Emulation Platform Supporting {{OBD}}-{{II}} Communications \newline 
+ \cite{grassi_vanet_2014} {{VANET}} via {{Named Data Networking}} \newline 
+ \cite{gerla_vehicular_2012} Vehicular {{ Computing}} \newline 
+ \cite{lee_vehicular_2014} Vehicular  Networking: Architecture and Design Principles \newline 
+ \cite{hadaller_vehicular_2007} Vehicular Opportunistic Communication under the Microscope \newline 
+ \cite{weil_vpki_2017} {{VPKI Hits}} the {{Highway}} – {{Secure Communication}} for the {{US DOT Connected Vehicle Pilot Program}} \newline 
+A-Mesh \cite{glissa_6lowpsec_2019} {{6LowPSec}}: {{An}} End-to-End Security Protocol for {{6LoWPAN}} \newline 
+ \cite{ramezan_blockchain-based_2018} A {{Blockchain}}-{{Based Contractual Routing Protocol}} for the {{Internet}} of {{Things Using Smart Contracts}} \newline 
+ \cite{wannachai_adaptive_2015} Adaptive {{Transmission Range Based}} on {{Event Detection}} for {{WSNs}} \newline 
+ \cite{gu_general_2019} A {{General Framework}} for {{Adjustable Neighbor Discovery}} in {{Wireless Sensor Networks}} \newline 
+ \cite{huang_lorabased_2018} A {{LoRa}}-{{Based Optimal Path Routing Algorithm}} for {{Smart Grid}} \newline 
+ \cite{ke_lora_2017} A {{LoRa}} Wireless Mesh Networking Module for Campus-Scale Monitoring: Demo Abstract \newline 
+ \cite{preeth_adaptive_2018} An Adaptive Fuzzy Rule Based Energy Efficient Clustering and Immune-Inspired Routing Protocol for {{WSN}}-Assisted {{IoT}} System \newline 
+ \cite{yan_adaptive_2017} An Adaptive {{WSN}} Clustering Scheme Based on Neighborhood Energy Level \newline 
+ \cite{lundell_routing_2018} A {{Routing Protocol}} for {{LoRA Mesh Networks}} \newline 
+ \cite{kabbinale_blockchain_2018} Blockchain for {{Economically Sustainable Wireless Mesh Networks}} \newline 
+ \cite{tuor_demo_2018} Demo Abstract: {{Distributed}} Machine Learning at Resource-Limited Edge Nodes \newline 
+ \cite{behera_energy-efficient_2019} Energy-{{Efficient Routing}} for {{Greenhouse Monitoring Using Heterogeneous Sensor Networks}} \newline 
+ \cite{kaur_enhanced_2018} Enhanced {{Energy Efficient LEACH Protocol Using Adaptive Filter}} in {{WSN}} \newline 
+ \cite{de_guglielmo_ieee_2016} {{IEEE}} 802.15.4e: {{A}} Survey \newline 
+ \cite{song_improved_2018} Improved {{Energy Efficient Adaptive Clustering Routing Algorithm}} for {{WSN}} \newline 
+ \cite{zhu_improving_2019} Improving the {{Capacity}} of a {{Mesh LoRa Network}} by {{Spreading}}-{{Factor}}-{{Based Network Clustering}} \newline 
+ \cite{wang_iot_2018} {{IoT Security Model}} and {{Performance Evaluation}}: {{A Blockchain Approach}} \newline 
+ \cite{xu_jamming_2006} Jamming Sensor Networks: Attack and Defense Strategies \newline 
+ \cite{kafaie_joint_2018} Joint {{Inter}}-{{Flow Network Coding}} and {{Opportunistic Routing}} in {{Multi}}-{{Hop Wireless Mesh Networks}}: {{A Comprehensive Survey}} \newline 
+ \cite{feng_joint_2019} Joint {{Service Pricing}} and {{Cooperative Relay Communication}} for {{Federated Learning}} \newline 
+ \cite{aoki_proximity_2019} Proximity {{Neighbor Selection}} in {{Blockchain Networks}} \newline 
+ \cite{jeon_rmbc_2018} {{RMBC}}: {{Randomized}} Mesh Blockchain Using {{DBFT}} Consensus Algorithm \newline 
+ \cite{panetto_semantic_2018} Semantic {{IoT }}: {{Towards Automated Generation}} of {{Privacy}}-{{Preserving Smart Contracts}} in the {{Internet}} of {{Things}} \newline 
+ \cite{jones_layered_2018} Towards a {{Layered}} and {{Secure Internet}}-of-{{Things Testbed}} via {{Hybrid Mesh}} \newline 
+ \cite{selimi_towards_2018} Towards {{Blockchain}}-Enabled {{Wireless Mesh Networks}} \newline 
+ \cite{noauthor_wireless_2017} Wireless {{Mesh Network}} - a Well Proven Alternative to {{LPWAN}} \newline 
+ \cite{krendzel_wireless_2012} Wireless {{Mesh Networks}} - {{Efficient Link Scheduling}}, {{Channel Assignment}} and {{Network Planning Strategies}} \newline 
+A-RAN \cite{augustin_study_2016} A {{Study}} of {{LoRa}}: {{Long Range}} \& {{Low Power Networks}} for the {{Internet}} of {{Things}} \newline 
+ \cite{goursaud_dedicated_2015} Dedicated Networks for {{IoT}}: {{PHY}} / {{MAC}} State of the Art and Challenges \newline 
+ \cite{bandyopadhyay_internet_2011} Internet of {{Things}}: {{Applications}} and {{Challenges}} in {{Technology}} and {{Standardization}} \newline 
+ \cite{marchand_internet_nodate} Internet of {{Things}} Security Overview \newline 
+ \cite{boulogeorgos_low_2016} Low {{Power Wide Area Networks}} ({{LPWANs}}) for {{Internet}} of {{Things}} ({{IoT}}) {{Applications}}: {{Research Challenges}} and {{Future Trends}} \newline 
+ \cite{kaddour_management_2017} Management of Joint Radio Resources in Heterogeneous Networks {{Beyond 3G}} \newline 
+,U-Disaster \cite{al-kashoash_comparison_2016} Comparison of {{6LoWPAN}} and {{LPWAN}} for the {{Internet}} of {{Things}} \newline 
+A-SDN \cite{thubert_6tisch_2015} {{6TiSCH}} Centralized Scheduling: {{When SDN}} Meet {{IoT}} \newline 
+ \cite{duan_methodology_2018} A Methodology for Reliability of {{WSN}} Based on Software Defined Network in Adaptive Industrial Environment \newline 
+ \cite{deng_applicationaware_2018} An {{Application}}-Aware {{QoS Routing Algorithm}} for {{SDN}}-Based {{IoT Networking}} \newline 
+ \cite{qin_software_2014} A {{Software Defined Networking}} Architecture for the {{Internet}}-of-{{Things}} \newline 
+ \cite{zarca_enhancing_2018} Enhancing {{IoT}} Security through Network Softwarization and Virtual Security Appliances \newline 
+ \cite{tselios_enhancing_2017} Enhancing {{SDN}} Security for {{IoT}}-Related Deployments through Blockchain \newline 
+ \cite{beyene_evaluation_2017} Evaluation of {{SDN}} in {{Small Wireless}}-Capable and {{Resource}}-Constrained {{s}} \newline 
+ \cite{karmakar_linkcon_2017} Linkcon: {{Adaptive Link Configuration}} over {{SDN Controlled Wireless Access Networks}} \newline 
+ \cite{meshinchi_qosaware_2018} {{QOS}}-{{Aware}} and {{Status}}-{{Aware Adaptive Resource Allocation Framework}} in {{SDN}}-{{Based IOT Middleware}} \newline 
+ \cite{lu_sdn_2016} {{SDN Based User}}-{{Centric Framework}} for {{Heterogeneous Wireless Networks}} \newline 
+ \cite{do_sdn/nfv-based_2019} {{SDN}}/{{NFV}}-{{Based Network Infrastructure}} for {{Enhancing IoT s}} \newline 
+ \cite{schaerer_sdnwisebed_2018} SDNWisebed: A Software-Defined Wireless Sensor Network Testbed \newline 
+ \cite{galluccio_sdnwise_2015} {{SDN}}-{{WISE}}: {{Design}}, Prototyping and Experimentation of a Stateful {{SDN}} Solution for {{WIreless SEnsor}} Networks \newline 
+ \cite{luo_sensor_2012} Sensor {{OpenFlow}}: {{Enabling Software}}-{{Defined Wireless Sensor Networks}} \newline 
+ \cite{costanzo_software_2012} Software {{Defined Wireless Networks}} ({{SDWN}}): {{Unbridling SDNs}} \newline 
+ \cite{costanzo_software_2012-1} Software {{Defined Wireless Networks}}: {{Unbridling SDNs}} \newline 
+ \cite{ezdiani_wireless_2017} Wireless {{Sensor Network Softwarization}}: {{Towards WSN Adaptive QoS}} \newline 
+A-Social \cite{aparicio-navarro_addressing_2019} Addressing {{Multi}}-{{Stage Attacks Using Expert Knowledge}} and {{Contextual Information}} \newline 
+ \cite{sahin_differentially_2018} A {{Differentially Private Index}} for {{Range Query Processing}} in {{s}} \newline 
+ \cite{zhang_relational_2018} On Relational Learning and Discovery in Social Networks: A Survey \newline 
+Contiki \cite{jose_ignacio_contiki_2016}  Applications for {{Z1}} Motes for {{6LowPAN}} \newline 
+ \cite{linan_contiki_2016} : Sensors and Actuators \newline 
+ \cite{_getting_2016} Getting Started with the {{ OS}}/{{6LoWPAN}} on {{STM32 Nucleo}} with {{SPIRIT1}} and Sensors Expansion Boards \newline 
+ \cite{aerts_integrating_2016} Integrating {{Long Range Technology}} into the {{ Operating System Framework}} \newline 
+ \cite{zikria_iot_2017} {{IoT THEORETICAL TO PRACTICAL}}: {{CONTIKI}}-{{OS AND ZOLERTIA REMOTE}} \newline 
+E-RAN \cite{mekki_comparative_2019} A Comparative Study of {{LPWAN}} Technologies for Large-Scale {{IoT}} Deployment \newline 
+ \cite{gaddam_comparative_2018} A {{Comparative Study}} on {{Various LPWAN}} and {{Cellular Communication Technologies}} for {{IoT Based Smart Applications}} \newline 
+ \cite{stellios_survey_2018} A {{Survey}} of {{IoT}}-Enabled {{Cyberattacks}}: {{Assessing Attack Paths}} to {{Critical Infrastructures}} and {{Services}} \newline 
+ \cite{lin_survey_2017} A {{Survey}} on {{Internet}} of {{Things}}: {{Architecture}}, {{Enabling Technologies}}, {{Security}} and {{Privacy}}, and {{Applications}} \newline 
+ \cite{bembe_survey_2019} A Survey on Low-Power Wide Area Networks for {{IoT}} Applications \newline 
+ \cite{sinha_survey_2017} A Survey on {{LPWA}} Technology: {{LoRa}} and {{NB}}-{{IoT}} \newline 
+ \cite{kobo_survey_2017} A {{Survey}} on {{Software}}-{{Defined Wireless Sensor Networks}}: {{Challenges}} and {{Design Requirements}} \newline 
+ \cite{tonneau_how_2015} How to Choose an Experimentation Platform for Wireless Sensor Networks? {{A}} Survey on Static and Mobile Wireless Sensor Network Experimentation Facilities \newline 
+ \cite{ayoub_internet_2019} Internet of {{Mobile Things}}: {{Overview}} of {{LoRaWAN}}, {{DASH7}}, and {{NB}}-{{IoT}} in {{LPWANs Standards}} and {{Supported Mobility}} \newline 
+ \cite{al-fuqaha_internet_2015} Internet of {{Things}}: {{A Survey}} on {{Enabling Technologies}}, {{Protocols}}, and {{Applications}} \newline 
+ \cite{marais_lora_2017} {{LoRa}} and {{LoRaWAN}} Testbeds: {{A}} Review \newline 
+ \cite{bendaoud_network_2019} Network {{Selection}} in {{Wireless Heterogeneous Networks}}: A {{Survey}} \newline 
+ \cite{haus_security_2017} Security and {{Privacy}} in {{}}-to-{{}} ({{D2D}}) {{Communication}}: {{A Review}} \newline 
+ \cite{ndiaye_software_2017} Software {{Defined Networking}} for {{Improved Wireless Sensor Network Management}}: {{A Survey}} \newline 
+ \cite{bera_softwaredefined_2017} Software-{{Defined Networking}} for {{Internet}} of {{Things}}: {{A Survey}} \newline 
+ \cite{masoudi_software_2016} Software Defined Networks: {{A}} Survey \newline 
+, \cite{raza_low_2017} Low {{Power Wide Area Networks}}: {{An Overview}} \newline 
+E-SDN \cite{farris_survey_2019} A {{Survey}} on {{Emerging SDN}} and {{NFV Security Mechanisms}} for {{IoT Systems}} \newline 
+L-CELL \cite{pujolle_mobile_} Mobile and Wireless Networks \newline 
+L-Learning \cite{wang_lra-3c_2019} {{LRA}}-{{3C}}: {{Learning Based Resource Allocation}} for {{Communication}}-{{Computing}}-{{Caching Systems}} \newline 
+ \cite{olivier_sdn_2015} {{SDN Based Architecture}} for {{Clustered WSN}} \newline 
+L-Math \cite{theodore_wireless_2002} Wireless Communications Principles and Practices \newline 
+L-Probability \cite{jean-marie_alain_nodate} Alain {{Jean}}-{{Marie INRIA}}/{{LIRMM}}, {{Université}} de {{Montpellier}}, {{CNRS}} \newline 
+ \cite{salman_reputation_2019} A {{Reputation Management Framework}} for {{Knowledge}}-{{Based}} and {{Probabilistic Blockchains}} \newline 
+ \cite{yang_smart_2018} A {{Smart Wireless Paging Sensor Network}} for {{Elderly Care Application Using LoRaWAN}} \newline 
+ \cite{jean-marie_case_nodate} Case {{Study}} 3: {{Queueing Systems}} \newline 
+ \cite{hyon_case_nodate} Case Study : {{Markov Decision Processes}} \newline 
+ \cite{bouzouita_estimating_2018} Estimating the Number of Contending {{IoT}} s in {{5G}} Networks: {{Revealing}} the Invisible \newline 
+ \cite{hyon_lesson_nodate} Lesson 5: {{Markov Decision Processes}} \newline 
+ \cite{chaddad_mobile_2019} Mobile {{Traffic Anonymization Through Probabilistic Distribution}} \newline 
+ \cite{sandoval_optimal_2018} Optimal Policy Derivation for {{Transmission Duty}}-{{Cycle}} Constrained {{LPWAN}} \newline 
+L-Wireless \cite{alba_intelligent_2016} Intelligent {{Systems}} for {{Smart Cities}} \newline 
+ \cite{iera_new_nodate} New Perspectives on Interoperability and Communication Primitives in {{5G Internet}} of {{Things}} Networks \newline 
+ \cite{pujolle_quelle_nodate} Quelle architecture de réseau pour les années 2020 ? \newline 
+ \cite{noauthor_radio_2014} Radio {{Frequency Fundamentals}} \newline 
+ \cite{berder_reseaux_2014} Réseaux \& Communications Sans fil \newline 
+ \cite{debbah_wireless_nodate} Wireless {{AI}}: {{Challenges}} and {{Opportunities}} \newline 
+M-Access-Class-Barring \cite{bouzouita_adaptive_2016} Adaptive Access Protocol for Heavily Congested {{M2M}} Networks \newline 
+ \cite{bouzouita_random_2015} A Random Access Model for {{M2M}} Communications in {{LTE}}-Advanced Mobile Networks \newline 
+ \cite{araniti_lte_2013} {{LTE}} for Vehicular Networking: A Survey \newline 
+ \cite{bouzouita_multiple_2015} Multiple {{Access Class Barring Factors Algorithm}} for {{M2M Communications}} in {{LTE}}-Advanced {{Networks}} \newline 
+ \cite{zangar_service_2016} Service Differentiation Strategy Based on {{MACB}} Factor for {{M2M Communications}} in {{LTE}}-{{A Networks}} \newline 
+M-Bee-Colony \cite{min_approach_2018} An {{Approach}} to {{Resource}} and {{QoS}}-{{Aware Services Optimal Composition}} in the {{Big Service}} and {{Internet}} of {{Things}} \newline 
+M-Choregraphie \cite{temglit_distributed_2018} A {{Distributed Agent}}-{{Based Approach}} for {{Optimal QoS Selection}} in {{Web}} of {{Object Choreography}} \newline 
+ \cite{gomes_modelbased_2016} A {{Model}}-{{Based Approach}} for the {{Pragmatic Deployment}} of {{Service Choreographies}} \newline 
+ \cite{duhart_resource_2016} A {{Resource Oriented Framework}} for {{Service Choreography}} over {{Wireless Sensor}} and {{Actor Networks}} \newline 
+ \cite{chen_choreographing_2017} Choreographing {{Services}} for {{Smart Cities}}: {{Smart Traffic Demonstration}} \newline 
+ \cite{sui_energyefficient_2019} Energy-{{Efficient Resource Allocation}} with {{Flexible Frame Structure}} for {{Heterogeneous Services}} \newline 
+ \cite{chen_every_2018} Every {{Second Counts}}: {{Integrating Edge Computing}} and {{Service Oriented Architecture}} for {{Automatic Emergency Management}} \newline 
+ \cite{duhart_organic_2017} Toward Organic Ambient Intelligences?: {{EMMA}} \newline 
+ \cite{parsa_goaldriven_2016} Towards a Goal-Driven Method for Web Service Choreography Validation \newline 
+M-Divers \cite{barro_lorawan_2019} A {{LoRaWAN}} Coverage {{testBed}} and a Multi-Optional Communication Architecture for Smart City Feasibility in Developing Countries \newline 
+ \cite{reynders_lorawan_2018} A {{LoRaWAN}} Module for Ns-3: Implementation and Evaluation \newline 
+ \cite{mikhaylov_analysis_2016} Analysis of {{Capacity}} and {{Scalability}} of the {{LoRa Low Power Wide Area Network Technology}} \newline 
+ \cite{cattani_experimental_2017} An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication \newline 
+ \cite{varsier_capacity_2017} Capacity Limits of {{LoRaWAN}} Technology for Smart Metering Applications \newline 
+ \cite{reynders_chirp_2016} Chirp Spread Spectrum as a Modulation Technique for Long Range Communication \newline 
+ \cite{cheong_comparison_2017} Comparison of {{LoRaWAN}} Classes and Their Power Consumption \newline 
+ \cite{capuzzo_confirmed_2018} Confirmed Traffic in {{LoRaWAN}}: {{Pitfalls}} and Countermeasures \newline 
+ \cite{pop_does_2017} Does {{Bidirectional Traffic Do More Harm Than Good}} in {{LoRaWAN Based LPWA Networks}}? \newline 
+ \cite{bor_lora_2016} Do {{LoRa Low}}-{{Power Wide}}-{{Area Networks Scale}}? \newline 
+ \cite{chen_efficient_2019} Efficient {{Image Transmission Using LoRa Technology In Agricultural Monitoring IoT Systems}} \newline 
+ \cite{kouvelas_employing_2018} Employing P-{{CSMA}} on a {{LoRa Network Simulator}} \newline 
+ \cite{gros_swindhager_enabling_2018} Enabling Runtime Adaptation of Physical Layer Settings for Dependable Uwb Communications \newline 
+ \cite{bouguera_energy_2018} Energy Consumption Model for Sensor Nodes Based on {{LoRa}} and {{LoRaWAN}} \newline 
+ \cite{avilacampos_evaluacion_2017} Evaluación Del Rango de Transmisión de {{LoRa}} Para Redes de Sensores Inalámbricas Con {{LoRaWAN}} En Ambientes Forestales \newline 
+ \cite{adenhassan_evaluating_2019} Evaluating {{LoRa Physical}} as a {{Radio Link Technology}} for Use in a {{Remote}}-{{Controlled Electric Switch System}} for a {{Network Bridge Radio}}-{{Node}} \newline 
+ \cite{marais_evaluating_2019} Evaluating the {{LoRaWAN Protocol Using}} a {{Permanent Outdoor Testbed}} \newline 
+ \cite{rizzi_evaluation_2017} Evaluation of the {{IoT LoRaWAN Solution}} for {{Distributed Measurement Applications}} \newline 
+ \cite{kim_experiencing_2019} Experiencing {{LoRa Network Establishment}} on a {{Smart Energy Campus Testbed}} \newline 
+ \cite{aref_free_2014} Free Space Range Measurements with {{Semtech Lora}} Technology \newline 
+ \cite{croce_impact_2018} Impact of {{LoRa Imperfect Orthogonality}}: {{Analysis}} of {{Link}}-{{Level Performance}} \newline 
+ \cite{croce_impact_2017} Impact of {{Spreading Factor Imperfect Orthogonality}} in {{LoRa Communications}} \newline 
+ \cite{chinchin_initial_2018} Initial {{Data Rate}} and {{Power Setting Scheme}} by {{Network Server}} in {{LoRaWAN}} \newline 
+ \cite{orfanidis_investigating_2017} Investigating Interference between {{LoRa}} and {{IEEE}} 802.15. 4g Networks \newline 
+ \cite{skog_andersen_investigating_2017} Investigating the Practical Performance of the {{LoRaWAN}} Technology \newline 
+ \cite{jetmir_haxhibeqiri_lora_2017} {{LoRa Scalability}}: {{A Simulation Model Based}} on {{Interference Measurements}} \newline 
+ \cite{feltrin_lorawan_2018} {{LoRaWAN}}: {{Evaluation}} of {{Link}}- and {{System}}-{{Level Performance}} \newline 
+ \cite{blenn_lorawan_2017} {{LoRaWAN}} in the {{Wild}}: {{Measurements}} from {{The Things Network}} \newline 
+ \cite{georgiou_low_2017} Low {{Power Wide Area Network Analysis}}: {{Can LoRa Scale}}? \newline 
+ \cite{petric_measurements_2016} Measurements, Performance and Analysis of {{LoRa FABIAN}}, a Real-World Implementation of {{LPWAN}} \newline 
+ \cite{casals_modeling_2017} Modeling the Energy Performance of {{LoRaWAN}} \newline 
+ \cite{lee_monitoring_2018} Monitoring of {{Large}}-{{Area IoT Sensors Using}} a {{LoRa Wireless Mesh Network System}}: {{Design}} and {{Evaluation}} \newline 
+ \cite{piyare_-demand_2018} On-{{Demand TDMA}} for {{Energy Efficient Data Collection}} with {{LoRa}} and {{Wake}}-up {{Receiver}} \newline 
+ \cite{bankov_limits_2016} On the {{Limits}} of {{LoRaWAN Channel Access}} \newline 
+ \cite{magrin_performance_2017} Performance Evaluation of {{LoRa}} Networks in a Smart City Scenario \newline 
+ \cite{lavric_performance_2018} Performance Evaluation of {{LoRaWAN}} Communication Scalability in Large-Scale Wireless Sensor Networks \newline 
+ \cite{petajajarvi_performance_2017} Performance of a Low-Power Wide-Area Network Based on {{LoRa}} Technology: {{Doppler}} Robustness, Scalability, and Coverage \newline 
+ \cite{reynders_range_2016} Range and Coexistence Analysis of Long Range Unlicensed Communication \newline 
+ \cite{van_den_abeele_scalability_2017} Scalability {{Analysis}} of {{Large}}-{{Scale LoRaWAN Networks}} in Ns-3 \newline 
+ \cite{farhad_scalability_2019} Scalability of {{LoRaWAN}} in an {{Urban Environment}}: {{A Simulation Study}} \newline 
+ \cite{to_simulation_2018} Simulation of {{LoRa}} in {{NS}}-3: {{Improving LoRa Performance}} with {{CSMA}} \newline 
+ \cite{zucchetto_uncoordinated_2017} Uncoordinated {{Access Schemes}} for the {{IoT}}: {{Approaches}}, {{Regulations}}, and {{Performance}} \newline 
+ \cite{adelantado_understanding_2016} Understanding the Limits of {{LoRaWAN}} \newline 
+M-Experimentation \cite{truong_cellular_2018} Cellular {{Simulation}} for {{Distributed Sensing}} over {{Complex Terrains}} \newline 
+ \cite{callebaut_cross-layer_2018} Cross-Layer Framework and Optimization for Efficient Use of the Energy Budget of {{IoT Nodes}} \newline 
+ \cite{montavont_enhanced_2018} Enhanced {{Dynamic Duty Cycle}} in {{LoRaWAN Network}} \newline 
+ \cite{ochoa_evaluating_2017} Evaluating {{LoRa}} Energy Efficiency for Adaptive Networks: {{From}} Star to Mesh Topologies \newline 
+ \cite{jurado_cortes_expanding_2018} Expanding a {{LoRaWAN}} Network for Cost Efficiency Improvement \newline 
+ \cite{boano_impact_2018} Impact of {{Temperature Variations}} on the {{Reliability}} of {{LoRa}} \newline 
+ \cite{ochoa_large_2018} Large {{Scale LoRa Networks}}: {{From Homogeneous}} to {{Heterogeneous Deployments}} \newline 
+ \cite{jebril_overcoming_2018} Overcoming {{Limitations}} of {{LoRa Physical Layer}} in {{Image Transmission}} \newline 
+M-Game \cite{gao_dynamic_2019} Dynamic {{Service Selection}} in {{Backscatter}}-{{Assisted RF}}-{{Powered Cognitive Networks}}: {{An Evolutionary Game Approach}} \newline 
+ \cite{niyato_dynamics_2009} Dynamics of {{Network Selection}} in {{Heterogeneous Wireless Networks}}: {{An Evolutionary Game Approach}} \newline 
+ \cite{haghighi_game_2016} Game Theoretic and Auction-Based Algorithms towards Opportunistic Communications in {{LPWA LoRa}} Networks \newline 
+,M-MCDM \cite{drissi_multi_2017} A {{Multi Criteria Real Time Network Selection Framework}} in {{Heterogeneous Wireless Environment}} for {{5G}} Systems: {{Application}} for {{Mobile}} and {{Vehicular Heterogeneous Networks}} \newline 
+M-Graph \cite{casteigts_gentle_nodate} A {{Gentle Introduction}} to {{Graph Theory}} (with a Networking Sensitivity) \newline 
+ \cite{erdin_heuristic-based_2019} A {{Heuristic}}-{{Based Private Bitcoin Payment Network Formation Using Off}}-{{Chain Links}} \newline 
+ \cite{casteigts_finding_nodate} Finding and {{Exploiting Structure}} in {{Highly}}-{{Dynamic Networks}} \newline 
+M-Learning \cite{tang_intelligent_2018} An {{Intelligent Traffic Load Prediction}}-{{Based Adaptive Channel Assignment Algorithm}} in {{SDN}}-{{IoT}}: {{A Deep Learning Approach}} \newline 
+ \cite{zola_cascading_2019} Cascading {{Machine Learning}} to {{Attack Bitcoin Anonymity}} \newline 
+ \cite{bialon_impact_2019} On the {{Impact}} of {{ Characteristics}} on {{Opportunistic Network Performance}} \newline 
+ \cite{vlahogianni_optimized_2005} Optimized and Meta-Optimized Neural Networks for Short-Term Traffic Flow Prediction: {{A}} Genetic Approach \newline 
+ \cite{robyns_physical-layer_2017} Physical-Layer Fingerprinting of {{LoRa}} s Using Supervised and Zero-Shot Learning \newline 
+ \cite{cuomo_towards_2018} Towards Traffic-Oriented Spreading Factor Allocations in {{LoRaWAN}} Systems \newline 
+-Bandit \cite{even-dar_action_2006} Action {{Elimination}} and {{Stopping Conditions}} for the {{Multi}}-{{Armed Bandit}} and {{Reinforcement Learning Problems}} \newline 
+-Bandit \cite{toldov_adaptive_2017} Adaptive {{MAC}} Layer for Interference Limited {{WSN}} \newline 
+-Bandit \cite{allesiardo_exp3_2015} {{EXP3}} with Drift Detection for the Switching Bandit Problem \newline 
+-Bandit \cite{noauthor_lightweight_nodate} Lightweight {{Learning}} for Smart Resource Allocation in {{LPWAN}} - {{Journée SEOC}} \newline 
+-Bandit \cite{bonnefoi_multiarmed_2017} Multi-{{Armed Bandit Learning}} in {{IoT Networks}}: {{Learning}} Helps Even in Non-Stationary Settings \newline 
+-Bandit \cite{kerkouche_nodebased_2018} Node-Based Optimization of {{LoRa}} Transmissions with {{Multi}}-{{Armed Bandit}} Algorithms \newline 
+-Bandit \cite{chincoli_self-learning_2018} Self-{{Learning Power Control}} in {{Wireless Sensor Networks}} \newline 
+-Bandit \cite{gur_stochastic_2014} Stochastic {{Multi}}-{{Armed}}-{{Bandit Problem}} with {{Non}}-Stationary {{Rewards}} \newline 
+-Bandit \cite{allesiardo_nonstationary_2017} The Non-Stationary Stochastic Multi-Armed Bandit Problems \newline 
+M-Marcov \cite{montoya_load-based_2018} A Load-Based and Fair Radio Access Network Selection Strategy with Traffic Offloading in Heterogeneous Networks \newline 
+ \cite{bouzouita_dynamic_2016} Dynamic {{Adaptive Access Barring Scheme For Heavily Congested M2M Networks}} \newline 
+ \cite{kochovski_formal_2019} Formal {{Quality}} of {{Service}} Assurances, Ranking and Verification of  Deployment Options with a Probabilistic Model Checking Method \newline 
+ \cite{toussaint_performance_2016} Performance Analysis of the On-the-Air Activation in {{LoRaWAN}} \newline 
+ \cite{zhang_q-learning_2019} Q-{{Learning Based Energy Harvesting}} for {{Heterogeneous Statistical QoS Provisioning}} over {{Multihop Big}}-{{Data Relay Networks}} \newline 
+ \cite{georgakopoulos_qos-aware_2018} {{QoS}}-{{Aware Resource Allocation}} for {{Mobile IoT Pub}}/{{Sub Systems}} \newline 
+ \cite{yuze_huang_time-aware_2017} Time-{{Aware Service Ranking Prediction}} in the {{Internet}} of {{Things Environment}} \newline 
+ \cite{takahashi_urban_2012} Urban Road User Classification Framework Using Local Feature Descriptors and {{HMM}} \newline 
+ \cite{qingyang_song_network_2005} A Network Selection Mechanism for next Generation Networks \newline 
+ \cite{bari_automated_2007} Automated Network Selection in a Heterogeneous Wireless Network Environment \newline 
+ \cite{zhou_compensatory_2016} Compensatory {{Analysis}} and {{Optimization}} for {{MADM}} for {{Heterogeneous Wireless Network Selection}} \newline 
+ \cite{wenhui_zhang_handover_2004} Handover Decision Using Fuzzy {{MADM}} in Heterogeneous Networks \newline 
+ \cite{dhar_network_2007} Network {{Selection}} in {{Heterogeneous Wireless Environment}}: {{A Ranking Algorithm}} \newline 
+-Fuzzy \cite{alkhawlani_access_2008} Access {{Network Selection Based}} on {{Fuzzy Logic}} and {{Genetic Algorithms}} \newline 
+-Fuzzy \cite{costa_fuzzy-based_2017} A {{Fuzzy}}-{{Based Approach}} for {{Sensing}}, {{Coding}} and {{Transmission Configuration}} of {{Visual Sensors}} in {{Smart City Applications}} \newline 
+-Fuzzy \cite{vijayakumar_adaptive_2019} An Adaptive Neuro-Fuzzy Logic Based Jamming Detection System in {{WSN}} \newline 
+-Fuzzy \cite{collotta_novel_2012} A {{Novel Road Monitoring Approach Using Wireless Sensor Networks}} \newline 
+-Fuzzy \cite{jayasri_link_2017} Link {{Quality Estimation}} for {{Adaptive Data Streaming}} in {{WSN}} \newline 
+M-Proba \cite{li_2d_2016} {{2D}} Time-Frequency Interference Modelling Using Stochastic Geometry for Performance Evaluation in {{Low}}-{{Power Wide}}-{{Area Networks}} \newline 
+ \cite{razafimandimby_bayesian_2017} A {{Bayesian}} and Smart  Based Communication for Noisy {{IoT}} Scenario \newline 
+ \cite{dawaliby_adaptive_2019} Adaptive Dynamic Network Slicing in {{LoRa}} Networks \newline 
+ \cite{hoeller_analysis_2018} Analysis and Performance Optimization of {{LoRa}} Networks with Time and Antenna Diversity \newline 
+ \cite{sorensen_analysis_2017} Analysis of {{Latency}} and {{MAC}}-{{Layer Performance}} for {{Class A LoRaWAN}} \newline 
+ \cite{blaszczyszyn_analyzing_2019} Analyzing {{LoRa}} Long-Range, Low-Power, Wide-Area Networks Using Stochastic Geometry \newline 
+ \cite{magrin_thorough_2019} A {{Thorough Study}} of {{LoRaWAN Performance Under Different Parameter Settings}} \newline 
+ \cite{ferre_collision_2017} Collision and Packet Loss Analysis in a {{LoRaWAN}} Network \newline 
+ \cite{teerapittayanon_daimon_2019} {{DaiMoN}}: {{A Decentralized Artificial Intelligence Model Network}} \newline 
+ \cite{hoeller_exploiting_2018} Exploiting {{Time Diversity}} of {{LoRa Networks Through Optimum Message Replication}} \newline 
+ \cite{zorbas_improving_2018} Improving {{LoRa Network Capacity Using Multiple Spreading Factor Configurations}} \newline 
+ \cite{polese_m2m_2016} {{M2M}} Massive Access in {{LTE}}: {{RACH}} Performance Evaluation in a {{Smart City}} Scenario \newline 
+ \cite{capuzzo_mathematical_2018} Mathematical {{Modeling}} of {{LoRa WAN Performance}} with {{Bi}}-Directional {{Traffic}} \newline 
+ \cite{irio_modeling_2019} Modeling the {{Interference}} Caused to a {{LoRaWAN }} Due to {{Uplink Transmissions}} \newline 
+ \cite{lim_spreading_2018} Spreading {{Factor Allocation}} for {{Massive Connectivity}} in {{LoRa Systems}} \newline 
+ \cite{sciancalepore_storns_2019} {{STORNS}}: {{Stochastic Radio Access Network Slicing}} \newline 
+ \cite{ksentini_toward_2017} Toward {{Enforcing Network Slicing}} on {{RAN}}: {{Flexibility}} and {{Resources Abstraction}} \newline 
+M-Utility \cite{slabicki_adaptive_2018} Adaptive Configuration of Lora Networks for Dense {{IoT}} Deployments \newline 
+ \cite{jiang_joint_2018} A {{Joint Multi}}-{{Criteria Utility}}-{{Based Network Selection Approach}} for {{Vehicle}}-to-{{Infrastructure Networking}} \newline 
+ \cite{xun_hu_joint_2015} A Joint Utility Optimization Based Virtual {{AP}} and Network Slice Selection Scheme for {{SDWNs}} \newline 
+ \cite{zhou_novel_2019} A {{Novel Rate}} and {{Channel Control Scheme Based}} on {{Data Extraction Rate}} for {{LoRa Networks}} \newline 
+ \cite{simiscuka_relay_2018} A {{Relay}} and {{Mobility Scheme}} for {{QoS Improvement}} in {{IoT Communications}} \newline 
+ \cite{farooq_search_2018} A {{Search}} into a {{Suitable Channel Access Control Protocol}} for {{LoRa}}-{{Based Networks}} \newline 
+ \cite{chowdhury_survey_2018} A Survey Study on {{Internet}} of {{Things}} Resource Management \newline 
+ \cite{gupta_battery_2019} Battery {{Optimal Configuration}} of {{Transmission Settings}} in {{LoRa Moving Nodes}} \newline 
+ \cite{samie_distributed_2018} Distributed {{Trade}}-{{Based Edge  Management}} in {{Multi}}-{{ IoT}} \newline 
+ \cite{cuomo_explora_2017} {{EXPLoRa}}: {{Extending}} the Performance of {{LoRa}} by Suitable Spreading Factor Allocations \newline 
+ \cite{abdelfadeel_fair_2018} Fair Adaptive Data Rate Allocation and Power Control in Lorawan \newline 
+ \cite{dix-matthews_lora_2018} {{LoRa Parameter Choice}} for {{Minimal Energy Usage}} \newline 
+ \cite{bor_lora_2017} {{LoRa Transmission Parameter Selection}} \newline 
+ \cite{ferrus_5g_2018} On {{5G Radio Access Network Slicing}}: {{Radio Interface Protocol Features}} and {{Configuration}} \newline 
+ \cite{cui_partially_2011} Partially Overlapping Channel Assignment Based on \& {{x201C}};Node Orthogonality\& {{x201D}}; for 802.11 Wireless Networks \newline 
+ \cite{reynders_power_2017} Power and Spreading Factor Control in Low Power Wide Area Networks \newline 
+ \cite{hauser_proposal_2017} Proposal of {{Adaptive Data Rate Algorithm}} for {{LoRaWAN}}-{{Based Infrastructure}} \newline 
+ \cite{ling_li_qos-aware_2014} {{QoS}}-{{Aware Scheduling}} of {{Services}}-{{Oriented Internet}} of {{Things}} \newline 
+ \cite{helou_radio_2013} Radio Access Selection Approaches in Heterogeneous Wireless Networks \newline 
+ \cite{pahl_ra-fsd_2018} {{RA}}-{{FSD}}: {{A Rate}}-{{Adaptive Fog Service Delivery Platform}} \newline 
+ \cite{sama_service-based_2016} Service-{{Based Slice Selection Function}} for {{5G}} \newline 
+ \cite{munjal_utility_2019} Utility Aware Network Selection in Small Cell \newline 
+RIOT \cite{baccelli_powering_2016} Powering the {{Internet}} of {{Things}} with {{}}: {{Why}}? {{How}}? {{What}} Is {{}}? \newline 
+ \cite{baccelli_riot_2018} {{}}: {{An Open Source Operating System}} for {{Low}}-{{End Embedded s}} in the {{IoT}} \newline 
+ \cite{baccelli_riot_2018-1} {{}} an {{Open Source Operating System}} for {{Low}}-End {{IoT s}} \newline 
+ \cite{amjad_tinyos-new_2016} {{TinyOS}}-{{New Trends}}, {{Comparative Views}}, and {{Supported Sensing Applications}}: {{A Review}} \newline 
+Statistics \cite{sarwar_iot_2015} {{IoT Architecture}} : {{Elements}} of {{Connectivity Technologies}} \newline 
+tool \cite{roussel_evaluation_2016} Évaluation et Amélioration Des Plates-Formes Logicielles Pour Réseaux de Capteurs sans-Fil, Pour Optimiser La Qualité de Service et l’énergie \newline 
+ \cite{bregell_hardware_2015} Hardware and Software Platform for {{Internet}} of {{Things}} \newline 
+ \cite{colina_internet_2016} Internet of {{Things}} ({{IoT}}) in 5 Days \newline 
+ \cite{di_martino_internet_2018} Internet of Things Reference Architectures, Security and Interoperability: {{A}} Survey \newline 
+ \cite{farooq_operating_2011} Operating {{Systems}} for {{Wireless Sensor Networks}}: {{A Survey}} \newline 
+ \cite{hejazi_survey_2018} Survey of Platforms for Massive {{IoT}} \newline 
+ \cite{durrani_survey_2019} A {{Survey}} on the {{Role}} of {{Wireless Sensor Networks}} and {{IoT}} in {{Disaster Management}} \newline 
+,U-Weather \cite{afonso_design_2019} Design of {{Compact LoRa s}} for {{Smart Building Applications}} \newline 
+ \cite{rosmiati_air_2019} Air Pollution Monitoring System Using {{LoRa}} Modul as Transceiver System \newline 
+ \cite{paredes-parra_alternative_2019} An {{Alternative Internet}}-of-{{Things Solution Based}} on {{LoRa}} for {{PV Power Plants}}: {{Data Monitoring}} and {{Management}} \newline 
+ \cite{alvear_architecture_2016} An {{Architecture Offering Mobile Pollution Sensing}} with {{High Spatial Resolution}} \newline 
+ \cite{malky_evaluation_2019} Evaluation of {{Precalibrated Electrochemical Gas Sensors}} for {{Air Quality Monitoring Systems}} \newline 
+ \cite{perera_mosden_2013} {{MOSDEN}}: {{An Internet}} of {{Things Middleware}} for {{Resource Constrained Mobile s}} \newline 
+ \cite{pasolini_smart_2018} Smart {{City Pilot Projects Using LoRa}} and {{IEEE802}}.15.4 {{Technologies}} \newline 
+ \cite{saravanan_smart_2017} Smart Water Grid Management Using {{LPWAN IoT}} Technology \newline 
+ \cite{sammarco_using_2017} Using Geosocial Search for Urban Air Pollution Monitoring \newline 
+ \cite{ho_vehicle_2016} Vehicle {{Enabled Big Data Platform}} \newline 

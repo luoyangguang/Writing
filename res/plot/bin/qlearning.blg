@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'plot/bin/qlearning.blg'
+[22] biber:315> INFO - === Mon Oct 28, 2019, 12:36:20
+[40] Biber.pm:371> INFO - Reading 'plot/bin/qlearning.bcf'
+[92] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[97] Utils.pm:193> WARN - The file 'plot/bin/qlearning.bcf' does not contain any citations!
+[104] bbl.pm:636> INFO - Writing 'plot/bin/qlearning.bbl' with encoding 'UTF-8'
+[104] bbl.pm:739> INFO - Output to plot/bin/qlearning.bbl
+[104] Biber.pm:110> INFO - WARNINGS: 1

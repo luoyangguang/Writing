@@ -1,0 +1,31 @@
+{
+	"folders":
+	[
+		{
+			"name": "main",
+			"path": "src",
+			"file_exclude_patterns": ["poster.tex","poster.pdf"],
+			"follow_symlinks": true
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "res"
+		},
+		{
+			"path": "ref"
+		}
+	],
+	"settings": {
+			"TEXroot": "src/main.tex",
+			"builder_settings": {
+					"program": "lualatex",
+					"options": "--shell-escape"
+			}
+	}
+}
+

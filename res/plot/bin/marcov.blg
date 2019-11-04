@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'plot/bin/marcov.blg'
+[22] biber:315> INFO - === Mon Oct 28, 2019, 13:26:30
+[40] Biber.pm:371> INFO - Reading 'plot/bin/marcov.bcf'
+[95] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[100] Utils.pm:193> WARN - The file 'plot/bin/marcov.bcf' does not contain any citations!
+[106] bbl.pm:636> INFO - Writing 'plot/bin/marcov.bbl' with encoding 'UTF-8'
+[106] bbl.pm:739> INFO - Output to plot/bin/marcov.bbl
+[106] Biber.pm:110> INFO - WARNINGS: 1

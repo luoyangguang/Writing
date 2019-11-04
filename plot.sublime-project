@@ -1,0 +1,31 @@
+{
+	"folders":
+	[
+		{
+			"name": "plot",
+			"path": "res",
+			"file_exclude_patterns": ["poster.tex","poster.pdf","slide.tex","slide.pdf","paper.tex","paper.pdf"],
+			"follow_symlinks": true
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "res"
+		},
+		{
+			"path": "ref"
+		}
+	],
+	"settings": {
+			"TEXroot": "res/plot.tex",
+			"builder_settings": {
+					"program": "lualatex",
+					"options": "--shell-escape"
+			}
+	}
+}
+
