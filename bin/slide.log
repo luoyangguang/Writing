@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  4 NOV 2019 12:17
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  5 NOV 2019 15:08
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.092 seconds
+luaotfload | main : initialization completed in 0.083 seconds
 (../lib/slide.tex (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -2519,9 +2519,6 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 LaTeX Warning: Label `fig:slice' multiply defined.
 
-
-LaTeX Warning: Label `fig:slice' multiply defined.
-
 )
 \openout1 = slide.aux
 
@@ -2751,29 +2748,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'slide.bbl' found.
 
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 1):
-(biblatex)                alkhawlani_access_2008a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 1):
-(biblatex)                dimartino_internet_2018
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 1):
-(biblatex)                sama_servicebased_2016
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.bbl)
 Package biblatex Info: Reference section=0 on input line 7.
 Package biblatex Info: Reference segment=0 on input line 7.
 
@@ -2793,72 +2768,72 @@ Package biblatex Info: Reference section=1 on input line 8.
 Package biblatex Info: Setting label 'refsection:1' on input line 8.
 
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 14.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 16.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 14.
+(Font)              size <7> substituted on input line 16.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4.50005> not available
-(Font)              size <5> substituted on input line 14.
+(Font)              size <5> substituted on input line 16.
 
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 14.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.89998pt on input line 14.
+(Font)              scaled to size 6.89998pt on input line 16.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.24394pt on input line 14.
+(Font)              scaled to size 5.24394pt on input line 16.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 4.14003pt on input line 14.
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+(Font)              scaled to size 4.14003pt on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+stmry on input line 14.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 14.
+(Font)              size <7> substituted on input line 16.
 
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <4.50005> not available
-(Font)              size <5> substituted on input line 14.
+(Font)              size <5> substituted on input line 16.
 
-LaTeX Font Info:    Try loading font information for U+wasy on input line 14.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 16.
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 14.
+(Font)              size <7> substituted on input line 16.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <4.50005> not available
-(Font)              size <5> substituted on input line 14.
+(Font)              size <5> substituted on input line 16.
 
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.89998pt on input line 14.
+(Font)              scaled to size 6.89998pt on input line 16.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.24394pt on input line 14.
+(Font)              scaled to size 5.24394pt on input line 16.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.14003pt on input line 14.
+(Font)              scaled to size 4.14003pt on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7.5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 14.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5.69995> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 14.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.50005> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 14.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [1
 
@@ -2866,554 +2841,232 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.50005> not available
 oduction.tex [2
 
 ]
-<../res/tmp/Picture/devices1.png, id=93, 1881.0275pt x 693.59125pt>
-File: ../res/tmp/Picture/devices1.png Graphic file (type png)
-<use ../res/tmp/Picture/devices1.png>
-Package luatex.def Info: ../res/tmp/Picture/devices1.png  used on input line 17.
-
-(luatex.def)             Requested size: 324.17361pt x 119.5282pt.
-<../res/tmp/Picture/devices.png, id=94, 1871.99374pt x 324.21124pt>
-File: ../res/tmp/Picture/devices.png Graphic file (type png)
-<use ../res/tmp/Picture/devices.png>
-Package luatex.def Info: ../res/tmp/Picture/devices.png  used on input line 17.
-(luatex.def)             Requested size: 360.19536pt x 62.3824pt.
-
-[3
-
-<../res/tmp/Picture/devices1.png><../res/tmp/Picture/devices.png>]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5.00003> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 41.
-LaTeX Font Info:    Calculating math sizes for size <5.00003> on input line 41.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 4.6pt on input line 41.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.49597pt on input line 41.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.76003pt on input line 41.
-
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.79999> not available
-(Font)              size <5> substituted on input line 41.
-
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.00005> not available
-(Font)              size <5> substituted on input line 41.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.79999> not available
-(Font)              size <5> substituted on input line 41.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.00005> not available
-(Font)              size <5> substituted on input line 41.
-
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.6pt on input line 41.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.49597pt on input line 41.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.76003pt on input line 41.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5.00003> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.79999> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.00005> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
-<../res/tmp/Picture/application.png, id=112, 1415.2875pt x 1434.35875pt>
-File: ../res/tmp/Picture/application.png Graphic file (type png)
-<use ../res/tmp/Picture/application.png>
-Package luatex.def Info: ../res/tmp/Picture/application.png  used on input line 
-41.
-(luatex.def)             Requested size: 144.07594pt x 146.005pt.
-[4
-
-<../res/tmp/Picture/application.png>]
-<../res/tmp/Picture/context.png, id=124, 853.1875pt x 348.30125pt>
-File: ../res/tmp/Picture/context.png Graphic file (type png)
-<use ../res/tmp/Picture/context.png>
-Package luatex.def Info: ../res/tmp/Picture/context.png  used on input line 48.
-(luatex.def)             Requested size: 288.15738pt x 117.6396pt.
-<../res/tmp/Picture/iotChallenges.png, id=125, 1733.47626pt x 336.25626pt>
-File: ../res/tmp/Picture/iotChallenges.png Graphic file (type png)
-<use ../res/tmp/Picture/iotChallenges.png>
-Package luatex.def Info: ../res/tmp/Picture/iotChallenges.png  used on input lin
-e 48.
-(luatex.def)             Requested size: 324.17361pt x 62.87857pt.
-
-Overfull \vbox (11.05576pt too high) detected at line 48
- []
-
-[5
-
-<../res/tmp/Picture/context.png><../res/tmp/Picture/iotChallenges.png>]
-[6
-
-]
-<../res/tmp/Picture/speaking.png, id=149, 786.94pt x 936.49875pt>
-File: ../res/tmp/Picture/speaking.png Graphic file (type png)
-<use ../res/tmp/Picture/speaking.png>
-Package luatex.def Info: ../res/tmp/Picture/speaking.png  used on input line 94.
-
-(luatex.def)             Requested size: 144.07594pt x 171.44904pt.
-<../res/tmp/C-RAN/snr.png, id=150, 1706.375pt x 529.98pt>
-File: ../res/tmp/C-RAN/snr.png Graphic file (type png)
-<use ../res/tmp/C-RAN/snr.png>
-Package luatex.def Info: ../res/tmp/C-RAN/snr.png  used on input line 94.
-(luatex.def)             Requested size: 216.1194pt x 67.12071pt.
-<../res/tmp/C-RAN/ToA.png, id=151, 1643.13875pt x 434.62375pt>
-File: ../res/tmp/C-RAN/ToA.png Graphic file (type png)
-<use ../res/tmp/C-RAN/ToA.png>
-Package luatex.def Info: ../res/tmp/C-RAN/ToA.png  used on input line 94.
-(luatex.def)             Requested size: 216.1194pt x 57.1596pt.
- [7
-
-<../res/tmp/Picture/speaking.png><../res/tmp/C-RAN/snr.png><../res/tmp/C-RAN/ToA
-.png>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7.5> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 133.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 258.
 
-Overfull \hbox (7.32465pt too wide) in paragraph at lines 133--133
+Overfull \hbox (7.32465pt too wide) in paragraph at lines 258--258
 []|$\T1/phv/m/n/7.5 7\FML/futmi/m/it/7.5 :\T1/phv/m/n/7.5 8$| 
  []
 
 
-Overfull \hbox (4.99382pt too wide) in paragraph at lines 133--133
+Overfull \hbox (4.99382pt too wide) in paragraph at lines 258--258
 []|$\T1/phv/m/n/7.5 2[]$| 
  []
 
 
-Overfull \hbox (9.21344pt too wide) in paragraph at lines 133--133
+Overfull \hbox (9.21344pt too wide) in paragraph at lines 258--258
 []|$\T1/phv/m/n/7.5 4\OT1/cmss/m/n/7 /\T1/phv/m/n/7.5 5$| 
  []
 
 
-Overfull \hbox (6.28969pt too wide) in paragraph at lines 133--133
+Overfull \hbox (6.28969pt too wide) in paragraph at lines 258--258
 []|$\FMS/futm/m/n/7.5  \T1/phv/m/n/7.5 4$| 
  []
 
-LaTeX Font Info:    Calculating math sizes for size <6.25008> on input line 133.
-
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.75005pt on input line 133.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 4.37pt on input line 133.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.45006pt on input line 133.
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.75008> not available
-(Font)              size <5> substituted on input line 133.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.75008> not available
-(Font)              size <5> substituted on input line 133.
-
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.75005pt on input line 133.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.37pt on input line 133.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.45006pt on input line 133.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6.25008> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.75002> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75008> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
-LaTeX Font Info:    Calculating math sizes for size <3.75> on input line 133.
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <2.25002> not available
-(Font)              size <3> substituted on input line 133.
-
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.44998pt on input line 133.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.62196pt on input line 133.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.07pt on input line 133.
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.75> not available
-(Font)              size <5> substituted on input line 133.
-
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.84998> not available
-(Font)              size <5> substituted on input line 133.
-
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.25002> not available
-(Font)              size <5> substituted on input line 133.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.75> not available
-(Font)              size <5> substituted on input line 133.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.84998> not available
-(Font)              size <5> substituted on input line 133.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.25002> not available
-(Font)              size <5> substituted on input line 133.
-
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.44998pt on input line 133.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.62196pt on input line 133.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.07pt on input line 133.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.84998> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.25002> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 133.
-[8
+[3
 
 ]
-<../res/plot/pdf/LPWAN.pdf, id=178, 499.8424pt x 513.87984pt>
-File: ../res/plot/pdf/LPWAN.pdf Graphic file (type pdf)
-<use ../res/plot/pdf/LPWAN.pdf>
-Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 142.
-(luatex.def)             Requested size: 216.1194pt x 222.18724pt.
-<../res/tmp/C-RAN/lora_stack.png, id=179, 845.1575pt x 597.23125pt>
-File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
-<use ../res/tmp/C-RAN/lora_stack.png>
-Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 142
-.
-(luatex.def)             Requested size: 144.07594pt x 101.81047pt.
+<../res/plot/pdf/slice2.pdf, id=98, 380.38011pt x 73.50963pt>
+File: ../res/plot/pdf/slice2.pdf Graphic file (type pdf)
+<use ../res/plot/pdf/slice2.pdf>
+Package luatex.def Info: ../res/plot/pdf/slice2.pdf  used on input line 263.
+(luatex.def)             Requested size: 360.19536pt x 69.6094pt.
+ [4
 
-Overfull \vbox (23.8227pt too high) detected at line 142
- []
+<../res/plot/pdf/slice2.pdf>]
+<../res/plot/pdf/slice1.pdf, id=121, 380.38011pt x 73.50963pt>
+File: ../res/plot/pdf/slice1.pdf Graphic file (type pdf)
+<use ../res/plot/pdf/slice1.pdf>
+Package luatex.def Info: ../res/plot/pdf/slice1.pdf  used on input line 267.
+(luatex.def)             Requested size: 360.19536pt x 69.6094pt.
+ [5
 
-[9
-
-<../res/plot/pdf/LPWAN.pdf><../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/slicing.png, id=261, 771.88374pt x 764.8575pt>
-File: ../res/tmp/C-RAN/slicing.png Graphic file (type png)
-<use ../res/tmp/C-RAN/slicing.png>
-Package luatex.def Info: ../res/tmp/C-RAN/slicing.png  used on input line 153.
-(luatex.def)             Requested size: 216.1194pt x 214.14696pt.
-
-Overfull \vbox (23.5833pt too high) detected at line 153
- []
-
-[10
-
-<../res/tmp/C-RAN/slicing.png>]
-File: ../res/tmp/C-RAN/slicing.png Graphic file (type png)
-<use ../res/tmp/C-RAN/slicing.png>
-Package luatex.def Info: ../res/tmp/C-RAN/slicing.png  used on input line 153.
-(luatex.def)             Requested size: 216.1194pt x 214.14696pt.
-
-Overfull \vbox (23.5833pt too high) detected at line 153
- []
-
-[11
-
-] [12
-
-]
-<../res/tmp/C-RAN/slicing4.png, id=291, 1027.84pt x 517.935pt>
-File: ../res/tmp/C-RAN/slicing4.png Graphic file (type png)
-<use ../res/tmp/C-RAN/slicing4.png>
-Package luatex.def Info: ../res/tmp/C-RAN/slicing4.png  used on input line 181.
-(luatex.def)             Requested size: 180.09767pt x 90.75061pt.
-<../res/tmp/C-RAN/4G_slicing.png, id=294, 1890.06125pt x 394.47375pt>
-File: ../res/tmp/C-RAN/4G_slicing.png Graphic file (type png)
-<use ../res/tmp/C-RAN/4G_slicing.png>
-Package luatex.def Info: ../res/tmp/C-RAN/4G_slicing.png  used on input line 181
-.
-(luatex.def)             Requested size: 180.09767pt x 37.58374pt.
-<../res/tmp/C-RAN/5G_slicing.png, id=295, 1887.05pt x 680.5425pt>
-File: ../res/tmp/C-RAN/5G_slicing.png Graphic file (type png)
-<use ../res/tmp/C-RAN/5G_slicing.png>
-Package luatex.def Info: ../res/tmp/C-RAN/5G_slicing.png  used on input line 181
-.
-(luatex.def)             Requested size: 180.09767pt x 64.94296pt.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6.25008> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 181.
- [13
-
-<../res/tmp/C-RAN/slicing4.png><../res/tmp/C-RAN/4G_slicing.png><../res/tmp/C-RA
-N/5G_slicing.png>]
-<../res/tmp/C-RAN/slicing2.png, id=312, 1126.2075pt x 904.37875pt>
-File: ../res/tmp/C-RAN/slicing2.png Graphic file (type png)
-<use ../res/tmp/C-RAN/slicing2.png>
-Package luatex.def Info: ../res/tmp/C-RAN/slicing2.png  used on input line 188.
-(luatex.def)             Requested size: 252.13565pt x 202.46906pt.
-
-Overfull \vbox (11.9054pt too high) detected at line 188
- []
-
-[14
-
-<../res/tmp/C-RAN/slicing2.png>]
-File: ../res/tmp/C-RAN/slicing2.png Graphic file (type png)
-<use ../res/tmp/C-RAN/slicing2.png>
-Package luatex.def Info: ../res/tmp/C-RAN/slicing2.png  used on input line 188.
-(luatex.def)             Requested size: 252.13565pt x 202.46906pt.
-
-Overfull \vbox (11.9054pt too high) detected at line 188
- []
-
-[15
-
-] [16
-
-]
-<../res/tmp/infocom.png, id=342, 963.6pt x 843.15pt>
-File: ../res/tmp/infocom.png Graphic file (type png)
-<use ../res/tmp/infocom.png>
-Package luatex.def Info: ../res/tmp/infocom.png  used on input line 242.
-(luatex.def)             Requested size: 270.14651pt x 236.37628pt.
-
-Overfull \vbox (36.81265pt too high) detected at line 242
- []
-
-[17
-
-<../res/tmp/infocom.png>])
+<../res/plot/pdf/slice1.pdf>])
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [18
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [6
 
 ]
 ("./02-State of the art/12_related.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [19
-
-] [20
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [7
 
 ]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [21
-
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [22
-
-] [23
-
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [24
-
-] [25
-
-]
-Overfull \hbox (2.21503pt too wide) in paragraph at lines 82--82
-[][]  
- []
-
-[26
-
-] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [27
-
-]
-<../res/plot/bin/qlearning.pdf, id=514, 286.33072pt x 144.06725pt>
-File: ../res/plot/bin/qlearning.pdf Graphic file (type pdf)
-<use ../res/plot/bin/qlearning.pdf>
-Package luatex.def Info: ../res/plot/bin/qlearning.pdf  used on input line 88.
-(luatex.def)             Requested size: 180.09767pt x 90.61554pt.
- [28
-
-<../res/plot/bin/qlearning.pdf>] (/home/aghiles/Aghiles/Research/Writing/bin/sl
-ide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [29
-
-]
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 123.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
-File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) [30
-
-]
-<../res/plot/bin/marcov.pdf, id=571, 118.94739pt x 60.34846pt>
-File: ../res/plot/bin/marcov.pdf Graphic file (type pdf)
-<use ../res/plot/bin/marcov.pdf>
-Package luatex.def Info: ../res/plot/bin/marcov.pdf  used on input line 155.
-(luatex.def)             Requested size: 144.07594pt x 73.10287pt.
- [31
-
-<../res/plot/bin/marcov.pdf>] (/home/aghiles/Aghiles/Research/Writing/bin/slide
-.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [32
-
-] [33
-
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [34
-
-]
-<../res/plot/bin/slice2.pdf, id=655, 380.38011pt x 73.50963pt>
-File: ../res/plot/bin/slice2.pdf Graphic file (type pdf)
-<use ../res/plot/bin/slice2.pdf>
-Package luatex.def Info: ../res/plot/bin/slice2.pdf  used on input line 208.
-(luatex.def)             Requested size: 360.19536pt x 69.6094pt.
- [35
-
-<../res/plot/bin/slice2.pdf>]
-<../res/plot/bin/slice1.pdf, id=680, 380.38011pt x 73.50963pt>
-File: ../res/plot/bin/slice1.pdf Graphic file (type pdf)
-<use ../res/plot/bin/slice1.pdf>
-Package luatex.def Info: ../res/plot/bin/slice1.pdf  used on input line 213.
-(luatex.def)             Requested size: 360.19536pt x 69.6094pt.
- [36
-
-<../res/plot/bin/slice1.pdf>]
-<../res/plot/bin/slice.pdf, id=704, 148.45865pt x 186.67741pt>
-File: ../res/plot/bin/slice.pdf Graphic file (type pdf)
-<use ../res/plot/bin/slice.pdf>
-Package luatex.def Info: ../res/plot/bin/slice.pdf  used on input line 246.
-(luatex.def)             Requested size: 122.46542pt x 153.99652pt.
-
-Overfull \vbox (0.6787pt too high) detected at line 246
- []
-
-[37
-
-<../res/plot/bin/slice.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5.69995> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 270.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 295.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <4.50005> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 270.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 295.
+LaTeX Font Info:    Calculating math sizes for size <3.75> on input line 295.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <2.25002> not available
+(Font)              size <3> substituted on input line 295.
+
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 3.44998pt on input line 295.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 2.62196pt on input line 295.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 2.07pt on input line 295.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <2.84998> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 270.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 295.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <2.25002> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 270.
- [38
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 295.
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 295.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.84998> not available
+(Font)              size <5> substituted on input line 295.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.25002> not available
+(Font)              size <5> substituted on input line 295.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 295.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.84998> not available
+(Font)              size <5> substituted on input line 295.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.25002> not available
+(Font)              size <5> substituted on input line 295.
+
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 3.44998pt on input line 295.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 2.62196pt on input line 295.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 2.07pt on input line 295.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 295.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.84998> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 295.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.25002> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 295.
+[8
 
 ]
-File: ../res/plot/bin/slice.pdf Graphic file (type pdf)
-<use ../res/plot/bin/slice.pdf>
-Package luatex.def Info: ../res/plot/bin/slice.pdf  used on input line 290.
+<../res/plot/pdf/slice.pdf, id=177, 148.45865pt x 186.67741pt>
+File: ../res/plot/pdf/slice.pdf Graphic file (type pdf)
+<use ../res/plot/pdf/slice.pdf>
+Package luatex.def Info: ../res/plot/pdf/slice.pdf  used on input line 313.
+(luatex.def)             Requested size: 122.46542pt x 153.99652pt.
+ [9
+
+<../res/plot/pdf/slice.pdf>]
+File: ../res/plot/pdf/slice.pdf Graphic file (type pdf)
+<use ../res/plot/pdf/slice.pdf>
+Package luatex.def Info: ../res/plot/pdf/slice.pdf  used on input line 334.
 (luatex.def)             Requested size: 122.46542pt x 153.99652pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:slice'
 
-[39
+LaTeX Font Info:    Calculating math sizes for size <6.25008> on input line 334.
 
-] [40
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.75005pt on input line 334.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 4.37pt on input line 334.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 3.45006pt on input line 334.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6.25008> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 334.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <4.75002> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 334.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <3.75008> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 334.
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.75008> not available
+(Font)              size <5> substituted on input line 334.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.75008> not available
+(Font)              size <5> substituted on input line 334.
+
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.75005pt on input line 334.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 4.37pt on input line 334.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 3.45006pt on input line 334.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6.25008> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 334.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.75002> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 334.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75008> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 334.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 334.
+[10
+
+] [11
+
+] [12
 
 ]
-File: ../res/plot/bin/slice.pdf Graphic file (type pdf)
-<use ../res/plot/bin/slice.pdf>
-Package luatex.def Info: ../res/plot/bin/slice.pdf  used on input line 343.
-(luatex.def)             Requested size: 122.46542pt x 153.99652pt.
+<../res/tmp/u1.png, id=241, 1044.90375pt x 728.7225pt>
+File: ../res/tmp/u1.png Graphic file (type png)
+<use ../res/tmp/u1.png>
+Package luatex.def Info: ../res/tmp/u1.png  used on input line 386.
+(luatex.def)             Requested size: 180.09767pt x 125.59357pt.
+<../res/tmp/u2.png, id=242, 1135.24126pt x 786.94pt>
+File: ../res/tmp/u2.png Graphic file (type png)
+<use ../res/tmp/u2.png>
+Package luatex.def Info: ../res/tmp/u2.png  used on input line 386.
+(luatex.def)             Requested size: 180.09767pt x 124.83228pt.
+ [13
 
-warning  (pdf backend): ignoring duplicate destination with the name 'fig:slice'
+<../res/tmp/u1.png><../res/tmp/u2.png>]
+<../res/tmp/u3.png, id=255, 716.6775pt x 496.85625pt>
+File: ../res/tmp/u3.png Graphic file (type png)
+<use ../res/tmp/u3.png>
+Package luatex.def Info: ../res/tmp/u3.png  used on input line 396.
+(luatex.def)             Requested size: 180.09767pt x 124.85817pt.
+ [14
 
-[41
+<../res/tmp/u3.png>]
+<../res/tmp/u4.png, id=266, 1839.87375pt x 574.145pt>
+File: ../res/tmp/u4.png Graphic file (type png)
+<use ../res/tmp/u4.png>
+Package luatex.def Info: ../res/tmp/u4.png  used on input line 402.
+(luatex.def)             Requested size: 360.19536pt x 112.40024pt.
+ [15
 
-] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [42
+Missing character: There is no ’ (U+2019) in font phvr8t!
+<../res/tmp/u4.png>]
+<../res/tmp/u6.png, id=277, 1796.7125pt x 626.34pt>
+File: ../res/tmp/u6.png Graphic file (type png)
+<use ../res/tmp/u6.png>
+Package luatex.def Info: ../res/tmp/u6.png  used on input line 408.
+(luatex.def)             Requested size: 360.19536pt x 125.56204pt.
+ [16
 
-] [43
-
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [44
-
-] [45
-
-])
+<../res/tmp/u6.png>])
 ("./02-State of the art/16_discussion.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [46
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [17
 
-]
-<../res/icon/mail.png, id=838, 845.0772pt x 597.9138pt>
-File: ../res/icon/mail.png Graphic file (type png)
-<use ../res/icon/mail.png>
-Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
-(luatex.def)             Requested size: 126.07057pt x 89.19054pt.
- [47
+] [18
 
-<../res/icon/mail.png>])
+])
 \c@framenumberappendix=\count573
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 34.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-LaTeX Font Info:    Calculating math sizes for size <3.65002> on input line 34.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <2.19003> not available
-(Font)              size <3> substituted on input line 34.
-
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.358pt on input line 34.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.55205pt on input line 34.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.01482pt on input line 34.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <3.65002> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <2.77399> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <2.19003> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.65002> not available
-(Font)              size <5> substituted on input line 34.
-
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.77399> not available
-(Font)              size <5> substituted on input line 34.
-
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.19003> not available
-(Font)              size <5> substituted on input line 34.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3.65002> not available
-(Font)              size <5> substituted on input line 34.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.77399> not available
-(Font)              size <5> substituted on input line 34.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.19003> not available
-(Font)              size <5> substituted on input line 34.
-
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.358pt on input line 34.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.55205pt on input line 34.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.01482pt on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 35.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.65002> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 34.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.77399> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 34.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.19003> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 34.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
-[48
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 35.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 35.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 35.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 35.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 35.
+ [19
 
 ]
-Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference section=0 on input line 36.
 \tf@nav=\write9
 
 \openout9 = slide.nav
@@ -3423,17 +3076,18 @@ Package biblatex Info: Reference section=0 on input line 35.
 \tf@snm=\write11
 
 \openout11 = slide.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
- (/home/aghiles/Aghiles/Research/Writing/bin/slide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `slide.out' has not changed.
-(rerunfilecheck)             Checksum: C3E2C07C636BFAD9117A8F817618A203;856.
+(rerunfilecheck)             Checksum: ADA85480557F3BC5763C479E4183AAF3;268.
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 2.80997pt have occurred.
+(Font)              up to 2.74998pt have occurred.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3444,34 +3098,88 @@ Package logreq Info: Writing requests to 'slide.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 77376 strings out of 494383
+ 75386 strings out of 494383
  100000,2848258 words of node,token memory allocated
- 18532 words of node memory still in use:
-   45 hlist, 10 vlist, 7 rule, 120 disc, 9 local_par, 4 math, 377 glue, 157 kern
-, 95 penalty, 1397 glyph, 445 attribute, 116 glue_spec, 445 attribute_list, 8 wr
-ite, 9 pdf_start_link, 9 pdf_end_link, 8 pdf_dest, 9 pdf_action, 106 pdf_colorst
-ack nodes
-   avail lists: 1:15,2:791,3:575,4:360,5:164,6:227,7:2001,8:660,9:995,10:36,11:1
-44,12:1
- 76448 multiletter control sequences out of 65536+600000
- 357 fonts using 28342655 bytes
- 90i,17n,142p,1605b,2894s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 12686 words of node memory still in use:
+   36 hlist, 9 vlist, 6 rule, 91 disc, 7 local_par, 257 glue, 87 kern, 60 penalt
+y, 931 glyph, 286 attribute, 116 glue_spec, 286 attribute_list, 8 write, 5 pdf_s
+tart_link, 5 pdf_end_link, 6 pdf_dest, 5 pdf_action, 78 pdf_colorstack nodes
+   avail lists: 1:15,2:995,3:252,4:266,5:161,6:72,7:2252,8:262,9:376,10:34,11:15
+9,12:1
+ 76088 multiletter control sequences out of 65536+600000
+ 230 fonts using 19582327 bytes
+ 90i,17n,142p,6018b,2652s stack positions out of 5000i,500n,10000p,200000b,100000s
+
+warning  (pdf backend): unreferenced destination with name 'SIR'
+
+warning  (pdf backend): unreferenced destination with name 'PL'
+
+warning  (pdf backend): unreferenced destination with name 'SINR'
+
+warning  (pdf backend): unreferenced destination with name 'ToA'
+
+warning  (pdf backend): unreferenced destination with name 'RSSI'
+
+warning  (pdf backend): unreferenced destination with name 'DC'
+
+warning  (pdf backend): unreferenced destination with name 'Sen'
+
+warning  (pdf backend): unreferenced destination with name 'CCI'
+
+warning  (pdf backend): unreferenced destination with name 'BR'
+
+warning  (pdf backend): unreferenced destination with name 'SR'
+
+warning  (pdf backend): unreferenced destination with name 'BER'
+
+warning  (pdf backend): unreferenced destination with name 'Mob'
+
+warning  (pdf backend): unreferenced destination with name 'O_{space}'
+
+warning  (pdf backend): unreferenced destination with name 'O_{time}'
+
+warning  (pdf backend): unreferenced destination with name 'PER'
+
+warning  (pdf backend): unreferenced destination with name 'RTD'
+
+warning  (pdf backend): unreferenced destination with name 'PS'
+
+warning  (pdf backend): unreferenced destination with name 'TC'
+
+warning  (pdf backend): unreferenced destination with name 'PDR'
+
+warning  (pdf backend): unreferenced destination with name 'Jit'
+
+warning  (pdf backend): unreferenced destination with name 'SC'
+
+warning  (pdf backend): unreferenced destination with name 'PktL'
+
+warning  (pdf backend): unreferenced destination with name 'AT'
+
+warning  (pdf backend): unreferenced destination with name 'DR'
+
+warning  (pdf backend): unreferenced destination with name 'SNR'
+
+warning  (pdf backend): unreferenced destination with name 'Tx'
+
+warning  (pdf backend): unreferenced destination with name 'CR'
+
+warning  (pdf backend): unreferenced destination with name 'SF'
+
+warning  (pdf backend): unreferenced destination with name 'BW'
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/fourier/fourier-bb.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/fourier/fourier-mex.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/fourier/fourier-mlit.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopi
-a/putr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfd
-ing/uzdr.pfb>
-Output written on slide.pdf (48 pages, 6081421 bytes).
+t/fonts/type1/public/fourier/fourier-mex.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/fourier/fourier-mlit.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist/fonts/type1/adob
+e/utopia/putr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on slide.pdf (19 pages, 1383074 bytes).
 
-PDF statistics: 916 PDF objects out of 1000 (max. 8388607)
- 746 compressed objects within 8 object streams
- 148 named destinations out of 1000 (max. 131072)
- 133 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 413 PDF objects out of 1000 (max. 8388607)
+ 346 compressed objects within 4 object streams
+ 89 named destinations out of 1000 (max. 131072)
+ 61 words of extra memory for PDF output out of 10000 (max. 100000000)
 

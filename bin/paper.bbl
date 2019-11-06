@@ -17,320 +17,1584 @@
 \endgroup
 
 
-\refsection{2}
+\refsection{3}
   \datalist[entry]{none/global//global/global}
-    \entry{lowcostloragateway}{online}{}
+    \entry{bregell_hardware_2015}{article}{}
       \name{author}{1}{}{%
-        {{hash=8b0567598d1ced71a0dd90aee5b13704}{%
-           family={Pham},
-           familyi={P\bibinitperiod}}}%
+        {{hash=1acdd94669cdd39cf013c1f224702665}{%
+           family={Bregell},
+           familyi={B\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{8b0567598d1ced71a0dd90aee5b13704}
-      \strng{fullhash}{8b0567598d1ced71a0dd90aee5b13704}
-      \strng{bibnamehash}{8b0567598d1ced71a0dd90aee5b13704}
-      \strng{authorbibnamehash}{8b0567598d1ced71a0dd90aee5b13704}
-      \strng{authornamehash}{8b0567598d1ced71a0dd90aee5b13704}
-      \strng{authorfullhash}{8b0567598d1ced71a0dd90aee5b13704}
+      \strng{namehash}{1acdd94669cdd39cf013c1f224702665}
+      \strng{fullhash}{1acdd94669cdd39cf013c1f224702665}
+      \strng{bibnamehash}{1acdd94669cdd39cf013c1f224702665}
+      \strng{authorbibnamehash}{1acdd94669cdd39cf013c1f224702665}
+      \strng{authornamehash}{1acdd94669cdd39cf013c1f224702665}
+      \strng{authorfullhash}{1acdd94669cdd39cf013c1f224702665}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{GitHub}
-      \field{title}{Low Cost LoRa Gateway}
-      \field{urlday}{30}
-      \field{urlmonth}{8}
-      \field{urlyear}{2019}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://github.com/CongducPham/LowCostLoRaGw
-      \endverb
-      \verb{url}
-      \verb https://github.com/CongducPham/LowCostLoRaGw
-      \endverb
-      \keyw{}
-    \endentry
-    \entry{LorawanSpecification}{online}{}
-      \name{author}{1}{}{%
-        {{hash=af254ca520a947c60912e20131bcfcda}{%
-           family={Alliance},
-           familyi={A\bibinitperiod},
-           given={LoRa},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{af254ca520a947c60912e20131bcfcda}
-      \strng{fullhash}{af254ca520a947c60912e20131bcfcda}
-      \strng{bibnamehash}{af254ca520a947c60912e20131bcfcda}
-      \strng{authorbibnamehash}{af254ca520a947c60912e20131bcfcda}
-      \strng{authornamehash}{af254ca520a947c60912e20131bcfcda}
-      \strng{authorfullhash}{af254ca520a947c60912e20131bcfcda}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{LoraWAN Specification}
-      \field{urlday}{30}
-      \field{urlmonth}{8}
-      \field{urlyear}{2019}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://lora-alliance.org/resource-hub/lorawanr-specification-v103
-      \endverb
-      \verb{url}
-      \verb https://lora-alliance.org/resource-hub/lorawanr-specification-v103
-      \endverb
-      \keyw{}
-    \endentry
-    \entry{bor_lora_2016}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=2098dc33952e787c36f6b3c4d7f216ce}{%
-           family={Bor},
-           familyi={B\bibinitperiod},
-           given={Martin\bibnamedelima C.},
-           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=53323eadc521b4a22e3a15de664e36db}{%
-           family={Roedig},
-           familyi={R\bibinitperiod},
-           given={Utz},
-           giveni={U\bibinitperiod}}}%
-        {{hash=63e219368d47bd58a7cf120cf7b8085c}{%
-           family={Voigt},
-           familyi={V\bibinitperiod},
-           given={Thiemo},
-           giveni={T\bibinitperiod}}}%
-        {{hash=c1203fb444cd1b3dca9ea722c4c84c48}{%
-           family={Alonso},
-           familyi={A\bibinitperiod},
-           given={Juan\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Malta, Malta}%
-      }
-      \list{publisher}{1}{%
-        {ACM Press}%
-      }
-      \strng{namehash}{37ff50514507929e043af7c4b7e460cf}
-      \strng{fullhash}{bdec6736f2f477de076b1a5727539f77}
-      \strng{bibnamehash}{bdec6736f2f477de076b1a5727539f77}
-      \strng{authorbibnamehash}{bdec6736f2f477de076b1a5727539f77}
-      \strng{authornamehash}{37ff50514507929e043af7c4b7e460cf}
-      \strng{authorfullhash}{bdec6736f2f477de076b1a5727539f77}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 19th {{ACM International Conference}} on {{Modeling}}, {{Analysis}} and {{Simulation}} of {{Wireless}} and {{Mobile Systems}} - {{MSWiM}} '16}
-      \field{eventtitle}{The 19th {{ACM International Conference}}}
-      \field{isbn}{978-1-4503-4502-6}
-      \field{langid}{english}
-      \field{note}{00223}
-      \field{title}{Do {{LoRa Low}}-{{Power Wide}}-{{Area Networks Scale}}?}
-      \field{urlday}{13}
-      \field{urlmonth}{5}
-      \field{urlyear}{2019}
-      \field{year}{2016}
+      \field{journaltitle}{Master of Science Thesis in Embedded Electronic System Design}
+      \field{note}{00002}
+      \field{title}{Hardware and Software Platform for {{Internet}} of {{Things}}}
+      \field{year}{2015}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{59\bibrangedash 67}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1145/2988287.2989163
-      \endverb
       \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/HYV9NQTL/Bor et al_2016_Do LoRa Low-Power Wide-Area Networks Scale.pdf
+      \verb Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/WP8TRJWI/Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb http://dl.acm.org/citation.cfm?doid=2988287.2989163
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?doid=2988287.2989163
-      \endverb
-      \keyw{PDR,Tx,M-xDivers}
+      \keyw{,Boards}
     \endentry
-    \entry{slabicki_adaptive_2018}{article}{}
+    \entry{kouicem_internet_2018}{article}{}
       \name{author}{3}{}{%
-        {{hash=2fff96be849946f3bfe2cc392f443d57}{%
-           family={Slabicki},
-           familyi={S\bibinitperiod},
-           given={Mariusz},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7566a1e670129c86abdbeabe9de5469f}{%
-           family={Premsankar},
-           familyi={P\bibinitperiod},
-           given={Gopika},
-           giveni={G\bibinitperiod}}}%
-        {{hash=048f254ff40cc644a84fca7186770dc5}{%
-           family={Francesco},
-           familyi={F\bibinitperiod},
-           given={Mario\bibnamedelima Di},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=80c6d7b1b4a4d844a6128b3538ce851d}{%
+           family={Kouicem},
+           familyi={K\bibinitperiod},
+           given={Djamel\bibnamedelima Eddine},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=68dd81e717901b7ea12174ce55056fff}{%
+           family={Bouabdallah},
+           familyi={B\bibinitperiod},
+           given={Abdelmadjid},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef7f8f2dfc79bde176339846f13a4b0a}{%
+           family={Lakhlef},
+           familyi={L\bibinitperiod},
+           given={Hicham},
+           giveni={H\bibinitperiod}}}%
       }
-      \strng{namehash}{3c107cd4b019f23cca7ee60898ffa672}
-      \strng{fullhash}{3c107cd4b019f23cca7ee60898ffa672}
-      \strng{bibnamehash}{3c107cd4b019f23cca7ee60898ffa672}
-      \strng{authorbibnamehash}{3c107cd4b019f23cca7ee60898ffa672}
-      \strng{authornamehash}{3c107cd4b019f23cca7ee60898ffa672}
-      \strng{authorfullhash}{3c107cd4b019f23cca7ee60898ffa672}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \strng{namehash}{676a407ba2b82558b5f07116684c3d5f}
+      \strng{fullhash}{676a407ba2b82558b5f07116684c3d5f}
+      \strng{bibnamehash}{676a407ba2b82558b5f07116684c3d5f}
+      \strng{authorbibnamehash}{676a407ba2b82558b5f07116684c3d5f}
+      \strng{authornamehash}{676a407ba2b82558b5f07116684c3d5f}
+      \strng{authorfullhash}{676a407ba2b82558b5f07116684c3d5f}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Large-scale Internet of Things (IoT) deployments demand long-range wireless communications, especially in urban and metropolitan areas. LoRa is one of the most promising technologies in this context due to its simplicity and flexibility. Indeed, deploying LoRa networks in dense IoT scenarios must achieve two main goals: efficient communications among a large number of devices and resilience against dynamic channel conditions due to demanding environmental settings (e.g., the presence of many buildings). This work investigates adaptive mechanisms to configure the communication parameters of LoRa networks in dense IoT scenarios. To this end, we develop FLoRa, an open-source framework for end-to-end LoRa simulations in OMNeT++. We then implement and evaluate the Adaptive Data Rate (ADR) mechanism built into LoRa to dynamically manage link parameters for scalable and efficient network operations. Extensive simulations show that ADR is effective in increasing the network delivery ratio under stable channel conditions, while keeping the energy consumption low. Our results also show that the performance of ADR is severely affected by a highly-varying wireless channel. We thereby propose an improved version of the original ADR mechanism to cope with variable channel conditions. Our proposed solution significantly increases both the reliability and the energy efficiency of communications over a noisy channel, almost irrespective of the network size. Finally, we show that the delivery ratio of very dense networks can be further improved by using a network-aware approach, wherein the link parameters are configured based on the global knowledge of the network.}
-      \field{journaltitle}{NOMS 2018 - 2018 IEEE/IFIP Network Operations and Management Symposium}
-      \field{note}{00025}
-      \field{title}{Adaptive Configuration of Lora Networks for Dense {{IoT}} Deployments}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Internet of Things (IoT) is one of the promising technologies that has attracted a lot of attention in both industrial and academic fields these years. It aims to integrate seamlessly both physical and digital worlds in one single ecosystem that makes up a new intelligent era of Internet. This technology offers a huge business value for organizations and provides opportunities for many existing applications such as energy, healthcare and other sectors. However, as new emergent technology, IoT suffers from several security issues which are most challenging than those from other fields regarding its complex environment and resources-constrained IoT devices. A lot of researches have been initiated in order to provide efficient security solutions in IoT, particularly to address resources constraints and scalability issues. Furthermore, some technologies related to networking and cryptocurrency fields such as Software Defined Networking (SDN) and Blockchain are revolutionizing the world of the Internet of Things thanks to their efficiency and scalability. In this paper, we provide a comprehensive top down survey of the most recent proposed security and privacy solutions in IoT. We discuss particularly the benefits that new approaches such as blockchain and Software Defined Networking can bring to the security and the privacy in IoT in terms of flexibility and scalability. Finally, we give a general classification of existing solutions and comparison based on important parameters.}
+      \field{day}{4}
+      \field{issn}{1389-1286}
+      \field{journaltitle}{Computer Networks}
+      \field{month}{8}
+      \field{note}{00029}
+      \field{shortjournal}{Computer Networks}
+      \field{shorttitle}{Internet of Things Security}
+      \field{title}{Internet of Things Security: {{A}} Top-down Survey}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{141}
       \field{year}{2018}
       \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 9}
-      \range{pages}{9}
+      \field{urldateera}{ce}
+      \field{pages}{199\bibrangedash 221}
+      \range{pages}{23}
       \verb{doi}
-      \verb 10.1109/NOMS.2018.8406255
+      \verb 10.1016/j.comnet.2018.03.012
       \endverb
       \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/5D3E5HH3/Slabicki et al_2018_Adaptive configuration of lora networks for dense IoT deployments.pdf
+      \verb Kouicem et al_2018_Internet of things security.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/6UWPMR2T/Kouicem et al_2018_Internet of things security.pdf:application/pdf
       \endverb
-      \keyw{Scalability,Simulation,End-to-end principle,Internet of things,Noisy-channel coding theorem,Open-source software,Propagation constant,M-Utility}
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
+      \endverb
+      \keyw{,X-App}
     \endentry
-    \entry{lorasemtech}{online}{}
-      \name{author}{1}{}{%
-        {{hash=653aec59865845f3a6427f2041996a3e}{%
-           family={Semtech},
-           familyi={S\bibinitperiod}}}%
+    \entry{venkatesan_design_2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=0548fd121a3db7c549a5cbca1c645ff5}{%
+           family={Venkatesan},
+           familyi={V\bibinitperiod},
+           given={V.\bibnamedelimi Prasanna},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c72445bd061fd9d1f42e545bcc341fd9}{%
+           family={Devi},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi Punitha},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9396c8c2d9112305d5f010428e124f4b}{%
+           family={Sivaranjani},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{653aec59865845f3a6427f2041996a3e}
-      \strng{fullhash}{653aec59865845f3a6427f2041996a3e}
-      \strng{bibnamehash}{653aec59865845f3a6427f2041996a3e}
-      \strng{authorbibnamehash}{653aec59865845f3a6427f2041996a3e}
-      \strng{authornamehash}{653aec59865845f3a6427f2041996a3e}
-      \strng{authorfullhash}{653aec59865845f3a6427f2041996a3e}
+      \list{location}{1}{%
+        {Palladam, Tamilnadu, India}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{50c0f9dc84d5a5e8f46d7060440177d0}
+      \strng{fullhash}{50c0f9dc84d5a5e8f46d7060440177d0}
+      \strng{bibnamehash}{50c0f9dc84d5a5e8f46d7060440177d0}
+      \strng{authorbibnamehash}{50c0f9dc84d5a5e8f46d7060440177d0}
+      \strng{authornamehash}{50c0f9dc84d5a5e8f46d7060440177d0}
+      \strng{authorfullhash}{50c0f9dc84d5a5e8f46d7060440177d0}
       \field{sortinit}{7}
       \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Semtech LoRa Technology Overview}
-      \field{urlday}{1}
-      \field{urlmonth}{9}
+      \field{booktitle}{2017 {{International Conference}} on {{I}}-{{SMAC}} ({{IoT}} in {{Social}}, {{Mobile}}, {{Analytics}} and {{Cloud}}) ({{I}}-{{SMAC}})}
+      \field{eventtitle}{2017 {{International Conference}} on {{I}}-{{SMAC}} ({{IoT}} in {{Social}}, {{Mobile}}, {{Analytics}} and {{Cloud}}) ({{I}}-{{SMAC}})}
+      \field{isbn}{978-1-5090-3242-6 978-1-5090-3243-3}
+      \field{month}{2}
+      \field{note}{00004}
+      \field{title}{Design of a Smart Gateway Solution Based on the Exploration of Specific Challenges in {{IoT}}}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
       \field{urlyear}{2019}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.semtech.com/lora
-      \endverb
-      \verb{url}
-      \verb https://www.semtech.com/lora
-      \endverb
-      \keyw{}
-    \endentry
-    \entry{alkhawlani_access_2008}{article}{}
-      \name{author}{2}{}{%
-        {{hash=2c94faa007d8002e5045bd61482fd3bd}{%
-           family={Alkhawlani},
-           familyi={A\bibinitperiod},
-           given={Mohammed},
-           giveni={M\bibinitperiod}}}%
-        {{hash=4d19ab5e778fbe6dc54ddc612a16d7cc}{%
-           family={Ayesh},
-           familyi={A\bibinitperiod},
-           given={Aladdin},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{76877cef998619e240239f8789b7f69d}
-      \strng{fullhash}{76877cef998619e240239f8789b7f69d}
-      \strng{bibnamehash}{76877cef998619e240239f8789b7f69d}
-      \strng{authorbibnamehash}{76877cef998619e240239f8789b7f69d}
-      \strng{authornamehash}{76877cef998619e240239f8789b7f69d}
-      \strng{authorfullhash}{76877cef998619e240239f8789b7f69d}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1687-7470, 1687-7489}
-      \field{journaltitle}{Advances in Artificial Intelligence}
-      \field{langid}{english}
-      \field{note}{00089}
-      \field{title}{Access {{Network Selection Based}} on {{Fuzzy Logic}} and {{Genetic Algorithms}}}
-      \field{urlday}{23}
-      \field{urlmonth}{7}
-      \field{urlyear}{2019}
-      \field{volume}{2008}
-      \field{year}{2008}
+      \field{year}{2017}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 12}
-      \range{pages}{12}
+      \field{pages}{22\bibrangedash 31}
+      \range{pages}{10}
       \verb{doi}
-      \verb 10.1155/2008/793058
+      \verb 10.1109/I-SMAC.2017.8058352
       \endverb
       \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/F6FSAEVQ/Alkhawlani_Ayesh_2008_Access Network Selection Based on Fuzzy Logic and Genetic Algorithms.pdf
+      \verb Venkatesan et al_2017_Design of a smart gateway solution based on the exploration of specific.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/A8CEDHVT/Venkatesan et al_2017_Design of a smart gateway solution based on the exploration of specific.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.hindawi.com/archive/2008/793058/
+      \verb http://ieeexplore.ieee.org/document/8058352/
       \endverb
       \verb{url}
-      \verb https://www.hindawi.com/archive/2008/793058/
+      \verb http://ieeexplore.ieee.org/document/8058352/
       \endverb
-      \keyw{*,M-MCDM-Fuzzy}
+      \keyw{,X-App}
     \endentry
-    \entry{tonneau_how_2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=4304d49cb06ebef812d646dcb71f63ba}{%
-           family={Tonneau},
-           familyi={T\bibinitperiod},
-           given={Anne-Sophie},
-           giveni={A\bibinithyphendelim S\bibinitperiod}}}%
-        {{hash=885bf6d5307b22e3e0b66b00b332e68f}{%
-           family={Mitton},
-           familyi={M\bibinitperiod},
-           given={Nathalie},
-           giveni={N\bibinitperiod}}}%
-        {{hash=8783a883e541ddebc9198ac6dd528728}{%
-           family={Vandaele},
-           familyi={V\bibinitperiod},
-           given={Julien},
-           giveni={J\bibinitperiod}}}%
+    \entry{rizzi_evaluation_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a359d1d8722ebf4f0d02c07bc3377b48}{%
+           family={Rizzi},
+           familyi={R\bibinitperiod},
+           given={Mattia},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c30e26385289a3ded5d2ae5cfd28c3b8}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=23f655c9761944fcde1d341d5482f4dd}{%
+           family={Flammini},
+           familyi={F\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f915737fd3e90b286454a7ac533567d5}{%
+           family={Sisinni},
+           familyi={S\bibinitperiod},
+           given={Emiliano},
+           giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{53200af561a4817f498b232ace8121ef}
-      \strng{fullhash}{53200af561a4817f498b232ace8121ef}
-      \strng{bibnamehash}{53200af561a4817f498b232ace8121ef}
-      \strng{authorbibnamehash}{53200af561a4817f498b232ace8121ef}
-      \strng{authornamehash}{53200af561a4817f498b232ace8121ef}
-      \strng{authorfullhash}{53200af561a4817f498b232ace8121ef}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \strng{namehash}{0e3eaec6ad07fca068e964ab0e985ff8}
+      \strng{fullhash}{c7a1279d6da63e4b6ea1018545abea32}
+      \strng{bibnamehash}{c7a1279d6da63e4b6ea1018545abea32}
+      \strng{authorbibnamehash}{c7a1279d6da63e4b6ea1018545abea32}
+      \strng{authornamehash}{0e3eaec6ad07fca068e964ab0e985ff8}
+      \strng{authorfullhash}{c7a1279d6da63e4b6ea1018545abea32}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Internet of Things (IoT) is based on data collection, where billions of sensors sample the real world; in other words, the IoT includes a giant distributed measurement system. A question still requiring an answer is: are the IoT technologies usable to enhance traditional measurement systems, since they have been developed for a very similar objective? In this paper the use of a LoRa technology, originally developed for IoT, is investigated with the aim of implementing distributed measurement systems. After the conclusion that LoRa (Long Range) and LoRaWAN (LoRa Wide Area Network) architectures show a good match with measurement systems, the paper focuses on the characterization of time related performance indicators that are important for distributed systems. The experimental results show: the capability of low cost transceiver to schedule the transmission of frames with a standard uncertainty less than 3 {$\mathrm{\mu}$}s; and an acceptable long term clock stability (Allan Deviation) of commercial available devices (nodes and packet forwarders) for application like smart metering, structural health monitoring and process industry.}
+      \field{issn}{0018-9456, 1557-9662}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{note}{00062}
+      \field{number}{12}
+      \field{title}{Evaluation of the {{IoT LoRaWAN Solution}} for {{Distributed Measurement Applications}}}
+      \field{urlday}{6}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{66}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3340\bibrangedash 3349}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TIM.2017.2746378
+      \endverb
+      \verb{file}
+      \verb Rizzi et al. - 2017 - Evaluation of the IoT LoRaWAN Solution for Distrib.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/CDIGL49M/Rizzi et al. - 2017 - Evaluation of the IoT LoRaWAN Solution for Distrib.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8036410/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8036410/
+      \endverb
+      \keyw{Delay,SF,M-xDivers}
+    \endentry
+    \entry{feltrin_lorawan_2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2916a9cce7425ffcd8b695576b194b7c}{%
+           family={Feltrin},
+           familyi={F\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=659bce3605b7d6cf6f2cbd389ad911a1}{%
+           family={Buratti},
+           familyi={B\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod}}}%
+        {{hash=416b5af99311d6f22b24a3c2c5a58d82}{%
+           family={Vinciarelli},
+           familyi={V\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7cb2a33cbe4e6402b229d1d1fc1538a2}{%
+           family={De\bibnamedelima Bonis},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e6700cd9224619779fd1c05720fb297f}{%
+           family={Verdone},
+           familyi={V\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd3986956c7fd93a0970eba94035e42c}
+      \strng{fullhash}{0d52bc6f0a24f2ce3556d8edb601aa24}
+      \strng{bibnamehash}{0d52bc6f0a24f2ce3556d8edb601aa24}
+      \strng{authorbibnamehash}{0d52bc6f0a24f2ce3556d8edb601aa24}
+      \strng{authornamehash}{bd3986956c7fd93a0970eba94035e42c}
+      \strng{authorfullhash}{0d52bc6f0a24f2ce3556d8edb601aa24}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{With the development of new technologies, these last years have witnessed the emergence 26 of a new paradigm: the Internet of Things (IoT) and of the physical world. We are now able 27 to communicate and interact with our surrounding environment through the use of multi- 28 ple tiny sensors, RFID technologies or small wireless robots. This allows a set of new appli- 29 cations and usages to be envisioned ranging from logistic and traceability purposes to 30 emergency and rescue operations going through the monitoring of volcanos or forest fires. 31 However, all this comes with several technical and scientific issues like how to ensure the 32 reliability of wireless communications in disturbed environments, how to manage effi- 33 ciently the low resources (energy, memory, etc.) or how to set a safe and sustainable (both 34 hardware and software) platform maintenance. All these issues are addressed by research- 35 ers all around the world but solutions designed for IoT need to face real experimentations 36 to be validated. To ease such experimentations for IoT, several experimental testbeds have 37 been deployed offering diverse and heterogeneous services and tools. In this article, we 38 study the different requirements and features such facilities should offer. We survey the 39 different experimental facilities currently available for the community, describe their char- 40 acteristics. In particular, we detail the different hardware used for sensor networks and 41 robot platforms and the scope of services the different facilities offer with a specific focus 42 on testbeds which enable experimentations with mobility. We expect this survey assist a 43 potential user to easily choose the one to use regarding his own needs. Finally, we identify 44 existing gaps and difficulties and investigate new directions for such facilities.}
-      \field{issn}{15708705}
-      \field{journaltitle}{Ad Hoc Networks}
+      \field{abstract}{The Internet of Things (IoT) addresses a huge set of possible application domains, requiring both short- and long-range communication technologies. When long distances are present, a number of proprietary and standard solutions for Low Power Wide Area Networks (LPWAN) are already available. Among them, LoRaWAN is a candidate technology supported by many network operators. This paper discusses the possible role of LoRaWAN for the IoT. First, the LoRaWAN technology is assessed experimentally through a set of laboratory and on-field tests, to characterize it from the link-level viewpoint; then, a system-level analysis is performed through simulation, to evaluate the capacity of a LoRaWAN gateway and a multigateway network to serve a large area. Finally, the results are discussed considering a broad set of use cases.}
+      \field{issn}{2327-4662}
+      \field{journaltitle}{IEEE Internet of Things Journal}
       \field{langid}{english}
-      \field{month}{7}
-      \field{note}{00046}
-      \field{shorttitle}{How to Choose an Experimentation Platform for Wireless Sensor Networks?}
-      \field{title}{How to Choose an Experimentation Platform for Wireless Sensor Networks? {{A}} Survey on Static and Mobile Wireless Sensor Network Experimentation Facilities}
+      \field{month}{6}
+      \field{note}{00018}
+      \field{number}{3}
+      \field{shorttitle}{{{LoRaWAN}}}
+      \field{title}{{{LoRaWAN}}: {{Evaluation}} of {{Link}}- and {{System}}-{{Level Performance}}}
       \field{urlday}{13}
-      \field{urlmonth}{8}
+      \field{urlmonth}{5}
       \field{urlyear}{2019}
-      \field{volume}{30}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2249\bibrangedash 2258}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/JIOT.2018.2828867
+      \endverb
+      \verb{file}
+      \verb Feltrin et al. - 2018 - LoRaWAN Evaluation of Link- and System-Level Perf.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/685GB2HT/Feltrin et al. - 2018 - LoRaWAN Evaluation of Link- and System-Level Perf.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8344411/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8344411/
+      \endverb
+      \keyw{PDR,SIR,BW,M-xDivers}
+    \endentry
+    \entry{alba_intelligent_2016}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=3bba57c9b13d5773e34ff8bf341727f7}{%
+           family={Alba},
+           familyi={A\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Denver, Colorado, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{3bba57c9b13d5773e34ff8bf341727f7}
+      \strng{fullhash}{3bba57c9b13d5773e34ff8bf341727f7}
+      \strng{bibnamehash}{3bba57c9b13d5773e34ff8bf341727f7}
+      \strng{authorbibnamehash}{3bba57c9b13d5773e34ff8bf341727f7}
+      \strng{authornamehash}{3bba57c9b13d5773e34ff8bf341727f7}
+      \strng{authorfullhash}{3bba57c9b13d5773e34ff8bf341727f7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2016 on {{Genetic}} and {{Evolutionary Computation Conference Companion}} - {{GECCO}} '16 {{Companion}}}
+      \field{eventtitle}{The 2016}
+      \field{isbn}{978-1-4503-4323-7}
+      \field{langid}{english}
+      \field{note}{00004}
+      \field{title}{Intelligent {{Systems}} for {{Smart Cities}}}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{823\bibrangedash 839}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1145/2908961.2927000
+      \endverb
+      \verb{file}
+      \verb Alba_2016_Intelligent Systems for Smart Cities.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/9JTDGC6B/Alba_2016_Intelligent Systems for Smart Cities.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=2908961.2927000
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=2908961.2927000
+      \endverb
+      \keyw{,L-RAN}
+    \endentry
+    \entry{qin_software_2014}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=39ea080ec081cfb758db9bce79978ea4}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Zhijing},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=bd417a13d4ff224a4ff6aff61f28f64d}{%
+           family={Denker},
+           familyi={D\bibinitperiod},
+           given={Grit},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1a6f21a57bca896c7a6296fcb40a81bd}{%
+           family={Giannelli},
+           familyi={G\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7dc39ea7034dbbcf776b9604249506e8}{%
+           family={Bellavista},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=69595002c2cc4a4bb2b3dbbec4f5ecad}{%
+           family={Venkatasubramanian},
+           familyi={V\bibinitperiod},
+           given={Nalini},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Krakow, Poland}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c3507c8fe2b479eaa01b6f853c1d8ba4}
+      \strng{fullhash}{fa32d419b6e4e79c4ef757038a9f351b}
+      \strng{bibnamehash}{fa32d419b6e4e79c4ef757038a9f351b}
+      \strng{authorbibnamehash}{fa32d419b6e4e79c4ef757038a9f351b}
+      \strng{authornamehash}{c3507c8fe2b479eaa01b6f853c1d8ba4}
+      \strng{authorfullhash}{fa32d419b6e4e79c4ef757038a9f351b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 {{IEEE Network Operations}} and {{Management Symposium}} ({{NOMS}})}
+      \field{eventtitle}{{{NOMS}} 2014 - 2014 {{IEEE}}/{{IFIP Network Operations}} and {{Management Symposium}}}
+      \field{isbn}{978-1-4799-0913-1}
+      \field{month}{5}
+      \field{note}{00258}
+      \field{title}{A {{Software Defined Networking}} Architecture for the {{Internet}}-of-{{Things}}}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/NOMS.2014.6838365
+      \endverb
+      \verb{file}
+      \verb Qin et al_2014_A Software Defined Networking architecture for the Internet-of-Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Q3E3LYAK/Qin et al_2014_A Software Defined Networking architecture for the Internet-of-Things.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6838365/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6838365/
+      \endverb
+      \keyw{Queueing,A-SDN}
+    \endentry
+    \entry{kobo_survey_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3ca2a491990377ed391379bde1f56a7b}{%
+           family={Kobo},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi I.},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=ea281e216c2b7e74727eb45351f4515f}{%
+           family={Abu-Mahfouz},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=69f13eb76bbf9f0e27e61b9cd2e573e4}{%
+           family={Hancke},
+           familyi={H\bibinitperiod},
+           given={G.\bibnamedelimi P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b951bdf953dfb38dd36f9f846eee281}
+      \strng{fullhash}{1b951bdf953dfb38dd36f9f846eee281}
+      \strng{bibnamehash}{1b951bdf953dfb38dd36f9f846eee281}
+      \strng{authorbibnamehash}{1b951bdf953dfb38dd36f9f846eee281}
+      \strng{authornamehash}{1b951bdf953dfb38dd36f9f846eee281}
+      \strng{authorfullhash}{1b951bdf953dfb38dd36f9f846eee281}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Software defined networking (SDN) brings about innovation, simplicity in network management, and configuration in network computing. Traditional networks often lack the flexibility to bring into effect instant changes because of the rigidity of the network and also the over dependence on proprietary services. SDN decouples the control plane from the data plane, thus moving the control logic from the node to a central controller. A wireless sensor network (WSN) is a great platform for low-rate wireless personal area networks with little resources and short communication ranges. However, as the scale of WSN expands, it faces several challenges, such as network management and heterogeneous-node networks. The SDN approach to WSNs seeks to alleviate most of the challenges and ultimately foster efficiency and sustainability in WSNs. The fusion of these two models gives rise to a new paradigm: Software defined wireless sensor networks (SDWSN). The SDWSN model is also envisioned to play a critical role in the looming Internet of Things paradigm. This paper presents a comprehensive review of the SDWSN literature. Moreover, it delves into some of the challenges facing this paradigm, as well as the major SDWSN design requirements that need to be considered to address these challenges.}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{IEEE Access}
+      \field{note}{00135}
+      \field{shorttitle}{A {{Survey}} on {{Software}}-{{Defined Wireless Sensor Networks}}}
+      \field{title}{A {{Survey}} on {{Software}}-{{Defined Wireless Sensor Networks}}: {{Challenges}} and {{Design Requirements}}}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1872\bibrangedash 1899}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2017.2666200
+      \endverb
+      \verb{file}
+      \verb Kobo et al_2017_A Survey on Software-Defined Wireless Sensor Networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/9RW9ERJD/Kobo et al_2017_A Survey on Software-Defined Wireless Sensor Networks.pdf:application/pdf
+      \endverb
+      \keyw{,E-RAN}
+    \endentry
+    \entry{ndiaye_software_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f098f21f8237b74422394f53724c51c}{%
+           family={Ndiaye},
+           familyi={N\bibinitperiod},
+           given={Musa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c18ba3102a20f301374d5715c54ec4ac}{%
+           family={Hancke},
+           familyi={H\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8b84ffc2a7a41fbe581933a5377df5b8}{%
+           family={Abu-Mahfouz},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Adnan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{948030976670d435865cadaf71c90533}
+      \strng{fullhash}{948030976670d435865cadaf71c90533}
+      \strng{bibnamehash}{948030976670d435865cadaf71c90533}
+      \strng{authorbibnamehash}{948030976670d435865cadaf71c90533}
+      \strng{authornamehash}{948030976670d435865cadaf71c90533}
+      \strng{authorfullhash}{948030976670d435865cadaf71c90533}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{4}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{note}{00058}
+      \field{number}{5}
+      \field{shorttitle}{Software {{Defined Networking}} for {{Improved Wireless Sensor Network Management}}}
+      \field{title}{Software {{Defined Networking}} for {{Improved Wireless Sensor Network Management}}: {{A Survey}}}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1031}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s17051031
+      \endverb
+      \verb{file}
+      \verb Ndiaye et al_2017_Software Defined Networking for Improved Wireless Sensor Network Management.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/N6WNWL4G/Ndiaye et al_2017_Software Defined Networking for Improved Wireless Sensor Network Management.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/1424-8220/17/5/1031
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/1424-8220/17/5/1031
+      \endverb
+      \keyw{,E-RAN}
+    \endentry
+    \entry{bera_softwaredefined_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e883c9539e6af61c837c7512438dbb46}{%
+           family={Bera},
+           familyi={B\bibinitperiod},
+           given={Samaresh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ab6faa07559cafc6ced64d3e023e1d64}{%
+           family={Misra},
+           familyi={M\bibinitperiod},
+           given={Sudip},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4d9fbc50e12486f11ef599cf2f3ffe11}{%
+           family={Vasilakos},
+           familyi={V\bibinitperiod},
+           given={Athanasios\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dad328618c617a3ec729eb8c769ff78a}
+      \strng{fullhash}{dad328618c617a3ec729eb8c769ff78a}
+      \strng{bibnamehash}{dad328618c617a3ec729eb8c769ff78a}
+      \strng{authorbibnamehash}{dad328618c617a3ec729eb8c769ff78a}
+      \strng{authornamehash}{dad328618c617a3ec729eb8c769ff78a}
+      \strng{authorfullhash}{dad328618c617a3ec729eb8c769ff78a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2327-4662}
+      \field{journaltitle}{IEEE Internet of Things Journal}
+      \field{month}{12}
+      \field{note}{00067}
+      \field{number}{6}
+      \field{shorttitle}{Software-{{Defined Networking}} for {{Internet}} of {{Things}}}
+      \field{title}{Software-{{Defined Networking}} for {{Internet}} of {{Things}}: {{A Survey}}}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1994\bibrangedash 2008}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/JIOT.2017.2746186
+      \endverb
+      \verb{file}
+      \verb Bera et al_2017_Software-Defined Networking for Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/FLAE22VT/Bera et al_2017_Software-Defined Networking for Internet of Things.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8017556/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8017556/
+      \endverb
+      \keyw{,E-RAN}
+    \endentry
+    \entry{luo_sensor_2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=06578976a1cfd3639e3515aba2d34d2a}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Tie},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f7d86c0e33a119590421ef43782ceb3b}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Hwee-Pink},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=e24534f43a0ac23ce82b621ef2b75fab}{%
+           family={Quek},
+           familyi={Q\bibinitperiod},
+           given={Tony\bibnamedelimb Q.\bibnamedelimi S.},
+           giveni={T\bibinitperiod\bibinitdelim Q\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d80ec330506a92fe4a76364452d9eedb}
+      \strng{fullhash}{d80ec330506a92fe4a76364452d9eedb}
+      \strng{bibnamehash}{d80ec330506a92fe4a76364452d9eedb}
+      \strng{authorbibnamehash}{d80ec330506a92fe4a76364452d9eedb}
+      \strng{authornamehash}{d80ec330506a92fe4a76364452d9eedb}
+      \strng{authorfullhash}{d80ec330506a92fe4a76364452d9eedb}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{While it has been a belief for over a decade that wireless sensor networks (WSN) are application-specific, we argue that it can lead to resource underutilization and counterproductivity. We also identify two other main problems with WSN: rigidity to policy changes and difficulty to manage. In this paper, we take a radical, yet backward and peer compatible, approach to tackle these problems inherent to WSN. We propose a Software-Defined WSN architecture and address key technical challenges for its core component, Sensor OpenFlow. This work represents the first effort that synergizes softwaredefined networking and WSN.}
+      \field{issn}{1089-7798}
+      \field{journaltitle}{IEEE Communications Letters}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{note}{00356}
+      \field{number}{11}
+      \field{shorttitle}{Sensor {{OpenFlow}}}
+      \field{title}{Sensor {{OpenFlow}}: {{Enabling Software}}-{{Defined Wireless Sensor Networks}}}
+      \field{urlday}{21}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{16}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1896\bibrangedash 1899}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/LCOMM.2012.092812.121712
+      \endverb
+      \verb{file}
+      \verb Luo et al_2012_Sensor OpenFlow.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/QI743EGY/Luo et al_2012_Sensor OpenFlow.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6324377/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6324377/
+      \endverb
+      \keyw{,A-SDN}
+    \endentry
+    \entry{costanzo_software_2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3e40b1c1d0fbcf64faac575e47fc8003}{%
+           family={Costanzo},
+           familyi={C\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=36ac77c26c4189970446f561070a6158}{%
+           family={Galluccio},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=04b46031fe439f48519cec659c1d7e36}{%
+           family={Morabito},
+           familyi={M\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=35773698347aac99ee86d1043b6e4082}{%
+           family={Palazzo},
+           familyi={P\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{17c5316009e7480dbb0ac7a78b4eae6c}
+      \strng{fullhash}{34db0204f4d95f4b06f5b8d52b8e8a9a}
+      \strng{bibnamehash}{34db0204f4d95f4b06f5b8d52b8e8a9a}
+      \strng{authorbibnamehash}{34db0204f4d95f4b06f5b8d52b8e8a9a}
+      \strng{authornamehash}{17c5316009e7480dbb0ac7a78b4eae6c}
+      \strng{authorfullhash}{34db0204f4d95f4b06f5b8d52b8e8a9a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{00183}
+      \field{title}{Software {{Defined Wireless Networks}} ({{SDWN}}): {{Unbridling SDNs}}}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{25}
+      \range{pages}{1}
+      \verb{file}
+      \verb Costanzo et al. - Software Defined Wireless Networks (SDWN) Unbri.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/WAP5IPHH/Costanzo et al. - Software Defined Wireless Networks (SDWN) Unbri.pdf:application/pdf
+      \endverb
+      \keyw{,A-SDN}
+    \endentry
+    \entry{galluccio_sdnwise_2015}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=36ac77c26c4189970446f561070a6158}{%
+           family={Galluccio},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8621f75c3bc151d2f139ff2ca683b621}{%
+           family={Milardo},
+           familyi={M\bibinitperiod},
+           given={Sebastiano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=04b46031fe439f48519cec659c1d7e36}{%
+           family={Morabito},
+           familyi={M\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=35773698347aac99ee86d1043b6e4082}{%
+           family={Palazzo},
+           familyi={P\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Kowloon, Hong Kong}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{163e3e18efbcedfb2023e14ba61b382e}
+      \strng{fullhash}{bc5e94cae7a5b48234d174f23c6ac24a}
+      \strng{bibnamehash}{bc5e94cae7a5b48234d174f23c6ac24a}
+      \strng{authorbibnamehash}{bc5e94cae7a5b48234d174f23c6ac24a}
+      \strng{authornamehash}{163e3e18efbcedfb2023e14ba61b382e}
+      \strng{authorfullhash}{bc5e94cae7a5b48234d174f23c6ac24a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{2015 {{IEEE Conference}} on {{Computer Communications}} ({{INFOCOM}})}
+      \field{eventtitle}{{{IEEE INFOCOM}} 2015 - {{IEEE Conference}} on {{Computer Communications}}}
+      \field{isbn}{978-1-4799-8381-0}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{note}{00173}
+      \field{shorttitle}{{{SDN}}-{{WISE}}}
+      \field{title}{{{SDN}}-{{WISE}}: {{Design}}, Prototyping and Experimentation of a Stateful {{SDN}} Solution for {{WIreless SEnsor}} Networks}
+      \field{urlday}{21}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{115\bibrangedash 127}
-      \range{pages}{13}
+      \field{pages}{513\bibrangedash 521}
+      \range{pages}{9}
       \verb{doi}
-      \verb 10.1016/j.adhoc.2015.03.002
+      \verb 10.1109/INFOCOM.2015.7218418
       \endverb
       \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/IRFTD9ZB/Tonneau et al. - 2015 - How to choose an experimentation platform for wire.pdf
+      \verb Galluccio et al_2015_SDN-WISE.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Q8RMRF7N/Galluccio et al_2015_SDN-WISE.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1570870515000451
+      \verb http://ieeexplore.ieee.org/document/7218418/
       \endverb
       \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1570870515000451
+      \verb http://ieeexplore.ieee.org/document/7218418/
+      \endverb
+      \keyw{,A-SDN}
+    \endentry
+    \entry{libelium_waspmote_2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d1954fb5a0452809755d28ea75ac6e85}{%
+           family={Libelium},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1954fb5a0452809755d28ea75ac6e85}
+      \strng{fullhash}{d1954fb5a0452809755d28ea75ac6e85}
+      \strng{bibnamehash}{d1954fb5a0452809755d28ea75ac6e85}
+      \strng{authorbibnamehash}{d1954fb5a0452809755d28ea75ac6e85}
+      \strng{authornamehash}{d1954fb5a0452809755d28ea75ac6e85}
+      \strng{authorfullhash}{d1954fb5a0452809755d28ea75ac6e85}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{00000}
+      \field{title}{Waspmote {{LoRa 868MHz 915MHz SX1272 Networking Guide}}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb LIBELIUM:/home/aghiles/Aghiles/Research/Reading/iot/storage/B5PIB93N/LIBELIUM:application/pdf
+      \endverb
+      \keyw{,Statistics}
+    \endentry
+    \entry{gaddam_comparative_2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=ca40edb4d5847d67752b3886a5c00706}{%
+           family={Gaddam},
+           familyi={G\bibinitperiod},
+           given={Sarath\bibnamedelima Chandu},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=607aa6845c0c67bf671b6d698610ea4c}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={Mritunjay\bibnamedelima Kumar},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ernakulam}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{eb03976fbf4679e421f4cfbdaeb25988}
+      \strng{fullhash}{eb03976fbf4679e421f4cfbdaeb25988}
+      \strng{bibnamehash}{eb03976fbf4679e421f4cfbdaeb25988}
+      \strng{authorbibnamehash}{eb03976fbf4679e421f4cfbdaeb25988}
+      \strng{authornamehash}{eb03976fbf4679e421f4cfbdaeb25988}
+      \strng{authorfullhash}{eb03976fbf4679e421f4cfbdaeb25988}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The usage of Internet of Things (IoT) technology in device designing is increasing rapidly. Low Power Wide Area Networks (LPWAN) is popular and leading technology created for IoT networks. LPWAN is wireless based WAN technology that enables Low power consumption, long range, lower bandwidth with low bit rates. LoRa, sigfo x, NB-IoT, LTE-M are the leading low power, wide area network technologies useful for developing IoT networks. This paper presents a comprehensive study on various LPWAN technologies and comparative study between these technologies in terms of battery life time, cost, network coverage, latency, range and security. This paper e xpla ins all the merits and de-merits of the LPWAN technologies usage in real time scenarios and which technology fits best for each IoT s mart applications.}
+      \field{booktitle}{2018 {{International Conference}} on {{Emerging Trends}} and {{Innovations In Engineering And Technological Research}} ({{ICETIETR}})}
+      \field{eventtitle}{2018 {{International Conference}} on {{Emerging Trends}} and {{Innovations In Engineering And Technological Research}} ({{ICETIETR}})}
+      \field{isbn}{978-1-5386-5744-7}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{00002}
+      \field{title}{A {{Comparative Study}} on {{Various LPWAN}} and {{Cellular Communication Technologies}} for {{IoT Based Smart Applications}}}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ICETIETR.2018.8529060
+      \endverb
+      \verb{file}
+      \verb Gaddam and Rai - 2018 - A Comparative Study on Various LPWAN and Cellular .pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BWJQ98I6/Gaddam and Rai - 2018 - A Comparative Study on Various LPWAN and Cellular .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8529060/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8529060/
+      \endverb
+      \keyw{,E-RAN}
+    \endentry
+    \entry{boulogeorgos_low_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=260aeba2f7804357ab1a0e00480c3369}{%
+           family={Boulogeorgos},
+           familyi={B\bibinitperiod},
+           given={Apostolos\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=35ae9b940ac59b67d820dbfb4631e7b2}{%
+           family={Diamantoulakis},
+           familyi={D\bibinitperiod},
+           given={Panagiotis\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3ded19ee1321eb87e9d813a109459bdf}{%
+           family={Karagiannidis},
+           familyi={K\bibinitperiod},
+           given={George\bibnamedelima K},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{affa9befdeab3f55fa758bb265965aea}
+      \strng{fullhash}{affa9befdeab3f55fa758bb265965aea}
+      \strng{bibnamehash}{affa9befdeab3f55fa758bb265965aea}
+      \strng{authorbibnamehash}{affa9befdeab3f55fa758bb265965aea}
+      \strng{authornamehash}{affa9befdeab3f55fa758bb265965aea}
+      \strng{authorfullhash}{affa9befdeab3f55fa758bb265965aea}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Internet of things (IoT) changes significantly the requirements for connectivity, mainly with regards to long battery life, low device cost, low deployment cost, extended coverage and support for a massive number of devices. Driven from these requirements, several different cellular and non-cellular low power wide area network (LPWAN) solutions are emerging and competing for IoT business and the overall connectivity market. Motivated by this, in this paper, we review and compare the design specifications of different LPWAN solutions, as well as, we discuss their suitability for different IoT applications. Finally, we present the challenges, future trends, and potential research directions for LPWANs.}
+      \field{langid}{english}
+      \field{note}{00023}
+      \field{title}{Low {{Power Wide Area Networks}} ({{LPWANs}}) for {{Internet}} of {{Things}} ({{IoT}}) {{Applications}}: {{Research Challenges}} and {{Future Trends}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{16}
+      \range{pages}{1}
+      \verb{file}
+      \verb Boulogeorgos et al. - Low Power Wide Area Networks (LPWANs) for Internet.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/7AGMT4VN/Boulogeorgos et al. - Low Power Wide Area Networks (LPWANs) for Internet.pdf:application/pdf
       \endverb
       \keyw{,E-RAN}
     \endentry
   \enddatalist
+  \missing{_rpl2_}
+  \missing{al-fuqaha_internet_24}
+  \missing{degante_smart_2014}
+  \missing{hancke_role_2012}
+  \missing{sarwar_iot_}
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{none/global//global/global}
+    \entry{cuomo_explora_2017}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=e8a4afedb03160723ebb047dbf996340}{%
+           family={Cuomo},
+           familyi={C\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f0fa88e6cc6d5f5b350307305ec5c7e9}{%
+           family={Campo},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d0ae2ec8c447812f8277daa4b3ea38a1}{%
+           family={Caponi},
+           familyi={C\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=637205d4bd6f73106a93abb10fca2d39}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=be86cec6a4d8a07fd7ca904d541f9086}{%
+           family={Rossini},
+           familyi={R\bibinitperiod},
+           given={Giampaolo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c5e48bc1322f885e97a7fb77a6f9e88}{%
+           family={Pisani},
+           familyi={P\bibinitperiod},
+           given={Patrizio},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9a1fc1c1da53c85be8033bb813954844}
+      \strng{fullhash}{be9889ce4d63065679b1eceac62f4f73}
+      \strng{bibnamehash}{be9889ce4d63065679b1eceac62f4f73}
+      \strng{authorbibnamehash}{be9889ce4d63065679b1eceac62f4f73}
+      \strng{authornamehash}{9a1fc1c1da53c85be8033bb813954844}
+      \strng{authorfullhash}{be9889ce4d63065679b1eceac62f4f73}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{LoRaWAN is emerging as an attractive network infrastructure for ultra low power Internet of Thing devices. Albeit the technology itself is quite mature and specified, how to effectively allocate wireless resources so as to support a large amount of devices in a same terrestrial area is an open challenge. This paper contributes by proposing two algorithms (of incremental complexity) which are shown to outperform the basic Adaptive Rate Strategy (ADR) so far considered. A first approach, named EXPLoRa-SF, shows the benefits of a simple strategy which does not limit to use (as per ADR) distance/RSSI measurements, but also selects Spreading Factors (SF) based on the total number of connected devices. The advantages attained with EXPLoRa-SF further lead us to propose a more sophisticated algorithm, named EXPLoRa-AT, which employs an innovative ``ordered waterfilling'' approach which attempts to allocate the spreading factors so as to equalize the Time on Air of the packets transmitted by the system's end devices in each spreading factor's group. Simulation results show that the proposed algorithms significantly outperform the basic ADR strategy, and particularly the EXPLoRa-AT algorithm appears very robust to different operating conditions and consistently guarantees high bit rates in the case of high traffic loads.}
+      \field{booktitle}{2017 {{IEEE}} 13th {{International Conference}} on {{Wireless}} and {{Mobile Computing}}, {{Networking}} and {{Communications}} ({{WiMob}})}
+      \field{eventtitle}{2017 {{IEEE}} 13th {{International Conference}} on {{Wireless}} and {{Mobile Computing}}, {{Networking}} and {{Communications}} ({{WiMob}})}
+      \field{isbn}{978-1-5386-3839-2}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{note}{00041}
+      \field{shorttitle}{{{EXPLoRa}}}
+      \field{title}{{{EXPLoRa}}: {{Extending}} the Performance of {{LoRa}} by Suitable Spreading Factor Allocations}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/WiMOB.2017.8115779
+      \endverb
+      \verb{file}
+      \verb Cuomo et al. - 2017 - EXPLoRa Extending the performance of LoRa by suit.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/CTKEI9B4/Cuomo et al. - 2017 - EXPLoRa Extending the performance of LoRa by suit.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8115779/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8115779/
+      \endverb
+      \keyw{,M-Utility}
+    \endentry
+    \entry{duhart_organic_2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a4634b5e9b9d8342998153d8a48df3e9}{%
+           family={Duhart},
+           familyi={D\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4634b5e9b9d8342998153d8a48df3e9}
+      \strng{fullhash}{a4634b5e9b9d8342998153d8a48df3e9}
+      \strng{bibnamehash}{a4634b5e9b9d8342998153d8a48df3e9}
+      \strng{authorbibnamehash}{a4634b5e9b9d8342998153d8a48df3e9}
+      \strng{authornamehash}{a4634b5e9b9d8342998153d8a48df3e9}
+      \strng{authorfullhash}{a4634b5e9b9d8342998153d8a48df3e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{00000}
+      \field{title}{Toward Organic Ambient Intelligences?: {{EMMA}}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{215}
+      \range{pages}{1}
+      \verb{file}
+      \verb Duhart - Toward organic ambient intelligences EMMA.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/K99MF4B4/Duhart - Toward organic ambient intelligences EMMA.pdf:application/pdf
+      \endverb
+      \keyw{,M-Choregraphie}
+    \endentry
+    \entry{zarca_enhancing_2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=195fd65906a6022aad34d0ef19bcfe71}{%
+           family={Zarca},
+           familyi={Z\bibinitperiod},
+           given={Alejandro\bibnamedelima Molina},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c72787c0cc325aecc445d52497395aeb}{%
+           family={Bernabe},
+           familyi={B\bibinitperiod},
+           given={Jorge\bibnamedelima Bernal},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4df14112c34532c3d15cf55e481e392a}{%
+           family={Farris},
+           familyi={F\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=6f1c2f9b5dcb383dd39f3215682deb4e}{%
+           family={Khettab},
+           familyi={K\bibinitperiod},
+           given={Yacine},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=271fc550be26d3c561ad977a32462a65}{%
+           family={Taleb},
+           familyi={T\bibinitperiod},
+           given={Tarik},
+           giveni={T\bibinitperiod}}}%
+        {{hash=770163542e02c56701cd798d6797e01b}{%
+           family={Skarmeta},
+           familyi={S\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddcfee528c854b1f87f45040d69e6b96}
+      \strng{fullhash}{c92a7bafed4f610f35c58fc6f89d6a21}
+      \strng{bibnamehash}{c92a7bafed4f610f35c58fc6f89d6a21}
+      \strng{authorbibnamehash}{c92a7bafed4f610f35c58fc6f89d6a21}
+      \strng{authornamehash}{ddcfee528c854b1f87f45040d69e6b96}
+      \strng{authorfullhash}{c92a7bafed4f610f35c58fc6f89d6a21}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Billions of Internet of Things (IoT) devices are expected to populate our environments and provide novel pervasive services by interconnecting the physical and digital world. However, the increased connectivity of everyday objects can open manifold security vectors for cybercriminals to perform malicious attacks. These threats are even augmented by the resource constraints and heterogeneity of low-cost IoT devices, which make current host-based and static perimeter-oriented defense mechanisms unsuitable for dynamic IoT environments. Accounting for all these considerations, we reckon that the novel softwarization capabilities of Telco network can fully leverage its privileged position to provide the desired levels of security. To this aim, the emerging software-defined networking (SDN) and network function virtualization (NFV) paradigms can introduce new security enablers able to increase the level of IoT systems protection. In this paper, we design a novel policy-based framework aiming to exploit SDN/NFV-based security features, by efficiently coupling with existing IoT security approaches. A proof of concept test bed has been developed to assess the feasibility of the proposed architecture. The presented performance evaluation illustrates the benefits of adopting SDN security mechanisms in integrated IoT environments and provides interesting insights in the policy enforcement process to drive future research.}
+      \field{issn}{1099-1190}
+      \field{journaltitle}{International Journal of Network Management}
+      \field{langid}{english}
+      \field{note}{00008}
+      \field{number}{5}
+      \field{title}{Enhancing {{IoT}} Security through Network Softwarization and Virtual Security Appliances}
+      \field{urlday}{17}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e2038}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/nem.2038
+      \endverb
+      \verb{file}
+      \verb Zarca et al_2018_Enhancing IoT security through network softwarization and virtual security.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BJJA6A5Y/Zarca et al_2018_Enhancing IoT security through network softwarization and virtual security.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2038
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2038
+      \endverb
+      \keyw{,A-SDN}
+    \endentry
+    \entry{al-kashoash_comparison_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e60cb8fa61db391c0f9697c7ee2bfad3}{%
+           family={Al-Kashoash},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={H.\bibnamedelimi A.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7ced864d4acf1fdcd851e9d9e4d34d0d}{%
+           family={Kemp},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{061842bc39c59a20626b871b09c21776}
+      \strng{fullhash}{061842bc39c59a20626b871b09c21776}
+      \strng{bibnamehash}{061842bc39c59a20626b871b09c21776}
+      \strng{authorbibnamehash}{061842bc39c59a20626b871b09c21776}
+      \strng{authornamehash}{061842bc39c59a20626b871b09c21776}
+      \strng{authorfullhash}{061842bc39c59a20626b871b09c21776}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{By 2020, 50 billion devices (things) are expected to be connected to the Internet to form the Internet of Things (IoT) world. In general, two main categories of networks are used in the IoT: short-range and long-range low-power networks. IPv6 over low-power wireless personal area networks (6LoWPAN) are considered to be a crucial network in short-range low-power networks where 6LoWPAN motes will account for the majority of short-range low-power things. Also, LoRaWAN and SigFox are two major networking landscapes and players in long-range, low-power networks or oftentimes called low-power wide area networks (LPWAN). This paper reviews and compares 6LoWPAN and LPWAN in terms of network architecture, protocol stack, applications and security. In general, LPWAN networks are more demanding in terms of node and link constraints than 6LoWPAN networks (e.g. very low payload size, very low data rate and very limited resources). Also, as yet, LPWAN networks do not have IPv6 addressing capabilities. Each network category has its unique characteristics and strengths and each category has its important role in the IoT world.}
+      \field{issn}{1448-837X, 2205-362X}
+      \field{journaltitle}{Australian Journal of Electrical and Electronics Engineering}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{note}{00010}
+      \field{number}{4}
+      \field{title}{Comparison of {{6LoWPAN}} and {{LPWAN}} for the {{Internet}} of {{Things}}}
+      \field{urlday}{30}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{268\bibrangedash 274}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1080/1448837X.2017.1409920
+      \endverb
+      \verb{file}
+      \verb Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
+      \endverb
+      \keyw{,E-RAN,U-Disaster}
+    \endentry
+    \entry{ayoub_internet_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=536da0f8669b6e202ce054d2cd531f1c}{%
+           family={Ayoub},
+           familyi={A\bibinitperiod},
+           given={Wael},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b3261c5c85b28f39a05bc03757e50d8f}{%
+           family={Samhat},
+           familyi={S\bibinitperiod},
+           given={Abed\bibnamedelima Ellatif},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f69aae018eea4ca9f72aea1d076858b0}{%
+           family={Nouvel},
+           familyi={N\bibinitperiod},
+           given={Fabienne},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8efa6a6df4be89c46a3d695e1c2962d4}{%
+           family={Mroue},
+           familyi={M\bibinitperiod},
+           given={Mohamad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=36e8317097cc5e268245b7c980e2f141}{%
+           family={Prevotet},
+           familyi={P\bibinitperiod},
+           given={Jean-Christophe},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{10721084b34267c91e35d41f181fb939}
+      \strng{fullhash}{94b18d3ae838ecdd6ee024a73f939fd3}
+      \strng{bibnamehash}{94b18d3ae838ecdd6ee024a73f939fd3}
+      \strng{authorbibnamehash}{94b18d3ae838ecdd6ee024a73f939fd3}
+      \strng{authornamehash}{10721084b34267c91e35d41f181fb939}
+      \strng{authorfullhash}{94b18d3ae838ecdd6ee024a73f939fd3}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Low-power Wide Area Networks (LPWANs) constitute a type of networks which is used to connect things to the Internet from a wide variety of sectors. These types of technologies provide the Internet of Things (IoT) devices with the ability to transmit few bytes of data for long ranges, taking into consideration minimum power consumption. In parallel, IoT applications will cover a wide range of human and life needs from smart environments (cities, home, transportation etc.) to health and quality of life. Among these popular LPWANs technologies, we have identified the unlicensed frequency band (LoRa, DASH7, SigFox, Wi-SUN, etc.), and the licensed frequency band standards (NB-IoT, LTE Cat-M, EC-GSM-IoT, etc.). In general, both types of standards only consider fixed interconnected things, and less attention has been provided to the mobility of the things or devices. In this paper, we address the mobility of the things and the connectivity in each of the three LPWAN standards: LoRaWAN, DASH7, and NB-IoT. In particular, we show how the mobility of things can be achieved when transmitting and receiving data. Then, we provide a general and technical comparison for the three standards. Finally, we illustrate several application scenarios where the mobility is required, and we show how to select the most suited standard. We also discuss the research challenges and perspectives.}
+      \field{endyear}{2019}
+      \field{issn}{1553-877X, 2373-745X}
+      \field{journaltitle}{IEEE Communications Surveys \& Tutorials}
+      \field{langid}{english}
+      \field{note}{00007}
+      \field{number}{2}
+      \field{shorttitle}{Internet of {{Mobile Things}}}
+      \field{title}{Internet of {{Mobile Things}}: {{Overview}} of {{LoRaWAN}}, {{DASH7}}, and {{NB}}-{{IoT}} in {{LPWANs Standards}} and {{Supported Mobility}}}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{21}
+      \field{year}{22}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1561\bibrangedash 1581}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1109/COMST.2018.2877382
+      \endverb
+      \verb{file}
+      \verb Ayoub et al. - 2019 - Internet of Mobile Things Overview of LoRaWAN, DA.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RQSGHPUE/Ayoub et al. - 2019 - Internet of Mobile Things Overview of LoRaWAN, DA.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8502812/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8502812/
+      \endverb
+      \keyw{,E-RAN}
+    \endentry
+    \entry{berder_reseaux_2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8cce3f087c66d2b7b59bbbfa08e3b503}{%
+           family={Berder},
+           familyi={B\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cce3f087c66d2b7b59bbbfa08e3b503}
+      \strng{fullhash}{8cce3f087c66d2b7b59bbbfa08e3b503}
+      \strng{bibnamehash}{8cce3f087c66d2b7b59bbbfa08e3b503}
+      \strng{authorbibnamehash}{8cce3f087c66d2b7b59bbbfa08e3b503}
+      \strng{authornamehash}{8cce3f087c66d2b7b59bbbfa08e3b503}
+      \strng{authorfullhash}{8cce3f087c66d2b7b59bbbfa08e3b503}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{note}{00000}
+      \field{title}{Réseaux \& Communications Sans fil}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{593}
+      \range{pages}{1}
+      \verb{file}
+      \verb Berder - 2014 - Réseaux & Communications Sans fil.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/44XA3JDP/Berder - 2014 - Réseaux & Communications Sans fil.pdf:application/pdf
+      \endverb
+      \keyw{,L-RAN}
+    \endentry
+    \entry{sarwar_iot_2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=065fc26e8b136c6f12982e44951be73d}{%
+           family={Sarwar},
+           familyi={S\bibinitperiod},
+           given={Usman},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{065fc26e8b136c6f12982e44951be73d}
+      \strng{fullhash}{065fc26e8b136c6f12982e44951be73d}
+      \strng{bibnamehash}{065fc26e8b136c6f12982e44951be73d}
+      \strng{authorbibnamehash}{065fc26e8b136c6f12982e44951be73d}
+      \strng{authornamehash}{065fc26e8b136c6f12982e44951be73d}
+      \strng{authorfullhash}{065fc26e8b136c6f12982e44951be73d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{00000}
+      \field{title}{{{IoT Architecture}} : {{Elements}} of {{Connectivity Technologies}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{23}
+      \range{pages}{1}
+      \verb{file}
+      \verb Sarwar - IoT Architecture Elements of Connectivity Techno.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/EEH8YJ2H/Sarwar - IoT Architecture Elements of Connectivity Techno.pdf:application/pdf
+      \endverb
+      \keyw{,Statistics}
+    \endentry
+    \entry{varsier_capacity_2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=33503c6a9ebc2160d402bf65a605df11}{%
+           family={Varsier},
+           familyi={V\bibinitperiod},
+           given={Nadege},
+           giveni={N\bibinitperiod}}}%
+        {{hash=43d23a23288806671e86b631544bb665}{%
+           family={Schwoerer},
+           familyi={S\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris, France}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{45d47b57ebaeb301add12e41f4ac847a}
+      \strng{fullhash}{45d47b57ebaeb301add12e41f4ac847a}
+      \strng{bibnamehash}{45d47b57ebaeb301add12e41f4ac847a}
+      \strng{authorbibnamehash}{45d47b57ebaeb301add12e41f4ac847a}
+      \strng{authornamehash}{45d47b57ebaeb301add12e41f4ac847a}
+      \strng{authorfullhash}{45d47b57ebaeb301add12e41f4ac847a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 {{IEEE International Conference}} on {{Communications}} ({{ICC}})}
+      \field{eventtitle}{{{ICC}} 2017 - 2017 {{IEEE International Conference}} on {{Communications}}}
+      \field{isbn}{978-1-4673-8999-0}
+      \field{month}{5}
+      \field{note}{00025}
+      \field{title}{Capacity Limits of {{LoRaWAN}} Technology for Smart Metering Applications}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICC.2017.7996383
+      \endverb
+      \verb{file}
+      \verb Varsier_Schwoerer_2017_Capacity limits of LoRaWAN technology for smart metering applications.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/FLWU4Q98/Varsier_Schwoerer_2017_Capacity limits of LoRaWAN technology for smart metering applications.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7996383/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7996383/
+      \endverb
+      \keyw{SF,M-xDivers}
+    \endentry
+    \entry{loraaliance}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 10. Sep. 2019]}
+      \field{title}{{LoRaWAN{\ifmmode\circledR\else®\fi} for Developers {$\vert$} LoRa Alliance{\texttrademark}}}
+      \verb{urlraw}
+      \verb https://lora-alliance.org/lorawan-for-developers
+      \endverb
+      \verb{url}
+      \verb https://lora-alliance.org/lorawan-for-developers
+      \endverb
+      \keyw{}
+    \endentry
+    \entry{lorasite}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{[Online; accessed 10. Sep. 2019]}
+      \field{title}{{All About LoRa and LoRaWAN}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.sghoslya.com
+      \endverb
+      \verb{url}
+      \verb https://www.sghoslya.com
+      \endverb
+      \keyw{}
+    \endentry
+    \entry{cattani_experimental_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5580c2793a5997f0ca044894909252ca}{%
+           family={Cattani},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d01f7b8eb765511050ca03d2cc9f8fb0}{%
+           family={Boano},
+           familyi={B\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ff4c69dc5158c7a1084771973222290}{%
+           family={Römer},
+           familyi={R\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{fullhash}{151cb1ea820c357186ead9d97404adab}
+      \strng{bibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorbibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authornamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorfullhash}{151cb1ea820c357186ead9d97404adab}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sensor and Actuator Networks}
+      \field{note}{00042}
+      \field{number}{2}
+      \field{title}{An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication}
+      \field{volume}{6}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{file}
+      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
+      \endverb
+      \keyw{,M-xDivers}
+    \endentry
+    \entry{barro_lorawan_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8cc61ce3a39d598a9a243d5ed7bb49d4}{%
+           family={Barro},
+           familyi={B\bibinitperiod},
+           given={Pape\bibnamedelima Abdoulaye},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{fullhash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{bibnamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{authorbibnamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{authornamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{authorfullhash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite the inaccessibility or intermittency of Internet in developing countries, it remains one of the key elements in the field of IoT and the smart city. Most cities experiencing these difficulties can, therefore, use stand-alone LoRaWAN base station solutions and provide good coverage of the area. Leftovers can claim to have access to acceptable connectivity, and therefore cheaper wireless communication, giving direct access to Internet from the collection node, will be required for data transmission: Wi-Fi can attain these objectives. In this article, we first examine the existing tools to ensure a good coverage study of the LoRaWAN network and, thus, perform a testBed. After, we offer a multi-optional architectural model that supports LoRaWAN and Wi-Fi protocols and that is flexible for other options. A gateway (Wi-IoT) capable of both providing Wi-Fi access and at the same time the ability to collect, process and monitor data as a mini-server will be proposed as proof of concept. From the node to the gateway, the data is compressed and sent securely and a user who connects to the gateway can, then, have access to the data.}
+      \field{langid}{english}
+      \field{note}{00000}
+      \field{title}{A {{LoRaWAN}} Coverage {{testBed}} and a Multi-Optional Communication Architecture for Smart City Feasibility in Developing Countries}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{file}
+      \verb Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:application/pdf
+      \endverb
+      \keyw{,M-xDivers}
+    \endentry
+    \entry{bendaoud_network_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a9f520f4aa66b0de8c1855215530d96f}{%
+           family={Bendaoud},
+           familyi={B\bibinitperiod},
+           given={Fayssal},
+           giveni={F\bibinitperiod}}}%
+        {{hash=07307ea13cb65973f766c45bc1d7dcf5}{%
+           family={Abdennebi},
+           familyi={A\bibinitperiod},
+           given={Marwen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ed32356c3e6bfec45051306891d8575b}{%
+           family={Didi},
+           familyi={D\bibinitperiod},
+           given={Fedoua},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{fullhash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{bibnamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{authorbibnamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{authornamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{authorfullhash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Heterogeneous wireless networks is a term referring to networks combining different radio access technologies with the aim of establishing the best connection possible. In this case, users with multi-mode terminals can connect via different wireless technologies, such as 802.16, 802.11, UMTS, HSPA and LTE, all at the same time. The problem consists in the selection of the most suitable from all radio access technologies available. The decision process is called network selection, and depends on several parameters, such as quality of service, mobility, cost, energy, battery life, etc. Several methods and approaches have been proposed in this context, with their objective being to offer the best QoS to the users, and/or to maximize re-usability of the networks. This paper represents a survey of the network selection methods used. Multiple attribute-dependent decision-making methods are presented. Furthermore, the game theory concept is illustrated, the use of the fuzzy logic is presented, and the utility functions defining the network selection process are discussed.}
+      \field{issn}{15094553, 18998852}
+      \field{journaltitle}{Journal of Telecommunications and Information Technology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{note}{00000}
+      \field{shorttitle}{Network {{Selection}} in {{Wireless Heterogeneous Networks}}}
+      \field{title}{Network {{Selection}} in {{Wireless Heterogeneous Networks}}: A {{Survey}}}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{64\bibrangedash 74}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.26636/jtit.2018.126218
+      \endverb
+      \verb{file}
+      \verb Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/739YRMYN/Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.itl.waw.pl/czasopisma/JTIT/2018/4/64.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.itl.waw.pl/czasopisma/JTIT/2018/4/64.pdf
+      \endverb
+      \keyw{*,E-RAN}
+    \endentry
+    \entry{meshinchi_qosaware_2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=632210d121fd5c704bd559e34a231b1f}{%
+           family={Meshinchi},
+           familyi={M\bibinitperiod},
+           given={Atefeh},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {École Polytechnique de Montréal}%
+      }
+      \strng{namehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{fullhash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{bibnamehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{authorbibnamehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{authornamehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{authorfullhash}{632210d121fd5c704bd559e34a231b1f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{«{}L'Internet des objets (IdO) est une infrastructure mondiale pour la société de l'information, qui permet de disposer de services évolués en interconnectant des objets (physiques ou virtuels) grâce aux technologies de l'information et de la communication interopérables existantes ou en évolution. »{}[1] La vision de l'Internet des Objets est d'étendre l'Internet dans nos vies quotidiennes afin d'améliorer la qualité de vie des personnes, de sorte que le nombre d'appareils connectés et d'applications innovantes augmente très rapidement pour amener l'intelligence dans différents secteurs comme la ville, le transport ou la santé. En 2020, les études affirment que les appareils connectés à Internet devraient compter entre 26 milliards et 50 milliards d'unités. [2, 3] La qualité de service d'application IoT dépend non seulement du réseau Internet et de l'infrastructure de communication, mais aussi du fonctionnement et des performances des appareils IoT. Par conséquent, les nouveaux paramètres de QoS tels que la précision des données et la disponibilité des appareils deviennent importants pour les applications IoT par rapport aux applications Internet. Le grand nombre de dispositifs et d'applications IoT connectés à Internet, et le flux de trafic spontané entre eux rendent la gestion de la qualité de service complexe à travers l'infrastructure Internet. D'un autre côté, les dispositifs non-IP et leurs capacités limitées en termes d'énergie et de transmission créent l'environnement dynamique et contraint. De plus, l'interconnexion de bout en bout entre les dispositifs et les applications n'est pas possible. Aussi, les applications sont intéressées par les données collectées, pas à la source spécifique qui les produit. Le Software Defined Networking (SDN) est un nouveau paradigme pour les réseaux informatiques apparu récemment pour cacher la complexité de l'architecture de réseau traditionnelle (par exemple de l'Internet) et briser la fermeture des systèmes de réseau dans les fonctions de contrôle et de données. Il permet aux propriétaires et aux administrateurs de réseau de contrôler et de gérer le comportement du réseau par programme, en découplant le plan de contrôle du plan de données. SDN a le potentiel de révolutionner les réseaux informatiques classiques existants, en offrant plusieurs avantages tels que la gestion centralisée, la programmabilité du réseau, l'efficacité des coûts d'exploitation, et les innovations. Dans cette thèse, nous étudions la gestion de ressources sur l'infrastructure IoT, y compris les réseaux de transport/Internet et de détection. Nous profitons de la technologie SDN comme le futur d'Internet pour offrir un système de support QoS flexible et adaptatif pour les services IoT. Nous présentons un intergiciel basé sur SDN pour définir un cadre de gestion de QoS pour gérer les besoins spécifiques de chaque application à travers l'infrastructure IoT. De plus, nous proposons un nouveau modèle QoS qui prend en compte les préférences de QoS des applications et l'état des éléments de réseau pour allouer efficacement les ressources sur le réseau transport/Internet basé sur SDN tout en maximisant les performances du réseau.----------ABSTRACT: The Internet of Things (IoT) is an integration of various kinds of technologies, wherein heterogeneous objects with capabilities of sensing, actuation, communication, computation, networking, and storage are rapidly developed to collect the data for the users and applications. The IoT vision is to extend the Internet into our everyday lives, so the number of connected devices and innovative applications are growing very fast to bring intelligence into as many domains as possible. The QoS for IoT application not only depends on the Internet network and communication infrastructure, it is also impacted by the operation and performance of IoT sensing infrastructure. Therefore, the new QoS parameters such as data accuracy, sampling rate, and device availability become important for the IoT applications compared to the Internet applications. The huge number of the Internet-connected IoT devices and application, and the spontaneous traffic flow among them make the management of the quality of service complex across the Internet infrastructure. On the other hand, the non-IP devices and their limited capabilities in terms of energy and transmission create the dynamic environment and hinder the direct interaction between devices and applications. The quality of service is becoming one of the critical non-functional IoT element which needs research and studies. A flexible and scalable QoS management mechanism must be implemented in IoT system to keep up with the growth rate of the Internet-connected IoT devices and applications as well as their heterogeneity and diversity. The solution should address the IoT application requirements and user satisfaction while considering the system dynamism, limitations, and characteristics. Software-Defined Networking (SDN) is an emerging paradigm in computer networking which separates the control plane and the data plane of the network elements. It makes the network elements programmable via the centralized control plane. This approach enables more agile management and control over the network behavior. In this thesis, we take advantage of SDN technology as the future of the Internet to offer a flexible and adaptive QoS support scheme for the IoT services. We present an SDN-based middleware to define a QoS management framework to manage the application specific QoS needs across the IoT infrastructure including transport and sensing network. Also, we propose a new QoS model that takes into account the application QoS preferences and the network elements status to allocate effectively the resources for the applications across SDN network while maximizing network performance.}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{note}{00000}
+      \field{title}{{{QOS}}-{{Aware}} and {{Status}}-{{Aware Adaptive Resource Allocation Framework}} in {{SDN}}-{{Based IOT Middleware}}}
+      \field{type}{masters}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BNHZ9XGG/Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.polymtl.ca/3096/
+      \endverb
+      \verb{url}
+      \verb https://publications.polymtl.ca/3096/
+      \endverb
+      \keyw{,A-SDN}
+    \endentry
+    \entry{chowdhury_survey_2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ada9d063c7c5a46760fe39b5a8e064ca}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Abishi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db2c26090b531db0692142534a8592c9}{%
+           family={Raut},
+           familyi={R\bibinitperiod},
+           given={Shital\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{fullhash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{bibnamehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{authorbibnamehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{authornamehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{authorfullhash}{490c0920e0b381a823ab907e46f81adf}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the modern era of computation, Internet of Things (IoT) has attracted more and more attention for implementing automation based high quality eco-system, innovative and reliable services, and improved productivity. That is why, IoT is presently spanning over a diverse range of applications in the fields of education, healthcare, agriculture, military, industry, etc. The resources IoT requires in those applications are heterogeneous in nature, for example, storage, processor, network, sensor nodes, energy, etc. The obvious challenge is how to manage these limited resources efficiently. Quite recently a number of attempts have been made towards an optimal resource management using various scheduling schemes. This paper broadly divides these scheduling schemes into three aspects, namely Quality of Services (QoS), IoT architecture, and IoT network infrastructure. The paper also presents an analysis based on different metrics of IoT resource scheduling and a comparison among different resource scheduling techniques. A section of this analysis is dedicated to the simulation model analyses involved in different scheduling schemes. Finally, we believe there is still a lot of scope in improving IoT resource management maintaining the overall quality needed. The paper considers with such a future direction of research in this field.}
+      \field{day}{15}
+      \field{issn}{1084-8045}
+      \field{journaltitle}{Journal of Network and Computer Applications}
+      \field{month}{10}
+      \field{note}{00002}
+      \field{shortjournal}{Journal of Network and Computer Applications}
+      \field{title}{A Survey Study on {{Internet}} of {{Things}} Resource Management}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{120}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 60}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.jnca.2018.07.007
+      \endverb
+      \verb{file}
+      \verb Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/8678UQHT/Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1084804518302315
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1084804518302315
+      \endverb
+      \keyw{,M-Utility}
+    \endentry
+  \enddatalist
+  \missing{_evaluation_}
+  \missing{_short_2007}
+  \missing{al-fuqaha_internet_24}
+  \missing{fakhfakh_deep_2017}
+  \missing{lopes_design_2019}
+  \missing{petajajarvi_coverage_2015}
+  \missing{raza_low_22}
+  \missing{yuzehuang_timeaware_2017}
 \endrefsection
 \endinput
 

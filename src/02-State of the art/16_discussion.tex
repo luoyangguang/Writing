@@ -1,14 +1,81 @@
 \subsection{Discussion}
+% \begin{frame}
+% \printacronyms[include-classes=nomencl,name=]
+% \ac{SINR}
+% \ac{SIR}
+% \ac{BR}
+% \ac{DR}
+% \ac{BW}
+% \ac{BER}
+% \ac{PER}
+% \ac{PRR}
+% \ac{PDR}
+% \ac{SNR}
+% \ac{PLR}
+% \ac{RTT}
+% \ac{Tx}
+% \ac{PS}
+% \ac{TC}
+% \ac{DC}
+% \ac{SR}
+% \ac{SL}
+% \ac{Jit}
+% \ac{CCI}
+% \ac{ToA}
+% \ac{PL}
+% \ac{Mob}
+% \ac{Th}
+% \ac{SC}
+% \ac{Sen}
+% \ac{RSSI} 
+% \ac{O_{time}}
+% \ac{O_{space}}
+% \ac{PktL}
+% \ac{RS}
+% \end{frame}
+
+
 \begin{frame}{Discussion}
 
-	\Columns{0.65}{0.35}{
-		\Itemize{
-			\item a
-			\item b
-		}
-	}{
-		\Figure{!htb}{1}{mail.png}{}
-	}
+\begin{table}[h]
+%\scriptsize
+	\begin{tabular}{l|l|l}
+	\textbf{Layer}                      & \textbf{Maximize (Reward)}           	& \textbf{Minimize (Cost)}      	\\\hline
+	Application							& \blue{Sec} security            	   	& \ac{SC} 			             	\\\hline
+	% \									& Ergonomic								&									\\
+
+    Network                             & \blue{Range}					  		& \ac{Jit}                   		\\
+    \                                   & \ac{PDR} 							  	& \ac{TC}       					\\
+    \                                   & \ac{PS} 								& \ac{RTD}							\\
+    \                                   & \ac{DR}								& \ac{PER}      \\
+    \                                   &       								& \ac{O_{time}}						\\
+	\                                   &  									    & \ac{O_{space}}					\\\hline
+
+	Radio						        & \ac{Mob} 								& \ac{BER}  		\\     		      				
+	\							        & \ac{SR} 								& \ac{Tx}   						\\
+	\							        & \ac{BR}								& \ac{CCI}							\\
+	\									& \ac{Sen} 								& \ac{DC}							\\
+	\									& \ac{RSSI} 							& \ac{ToA}				  			\\
+	\									& \ac{SINR} 							& \ac{PL}							\\
+	\									& \ac{SNR} 								& 									\\
+	\									& \ac{SIR}								& 									\\
+	\end{tabular}
+\caption{\label{tab:scheduling} Network selection inputs and classification of parameters \cite{bendaoud_network_2019} + QoS parameters \cite{meshinchi_qosaware_2018} \cite{chowdhury_survey_2018}}
+\end{table}
+	% \bey{blue}{0}{6, 4}{\Huge Thank you !}
+
+% $\ac{PRR} = (1-\ac{BER})^{L}$
+% $\ac{SNR}_{\textbf{[dB]}}= 20.log(\frac{S}{N})$
+% $\ac{RSSI} = Tx_{power}.\frac{Rayleigh_{power}}{PL}$ 	
+% $\ac{SR}_{\textbf{[sps]}}= \frac{\green{BW}}{2^{\red{SF}}}$
+% $\ac{BR}_{\textbf{[bps]}} = \red{SF} * \frac{\frac{4}{4+\yellow{CR}}}{\frac{2 \red{SF}}{\green{BW}}}$	
+% $\ac{PL}=|R S S I|+S N R+P_{T X}+G_{R X}$	\cite{petajajarvi_coverage_2015}
+% $\ac{Sen}_{\textbf{[dBm]}} = -174+10 \log _{10} \green{BW} + NF + SNR$ \cite{barro_lorawan_2019}
+
+% $\ac{PER}_{\textbf{[pps]}}   = 1-(1-BER)^{n_{bits}}$ 
+% $\ac{BER}_{\textbf{[bps]}}   = \frac{8}{15}.\frac{1}{16}.\sum{k=2}{16}{-1^{k}(\frac{16}{k})e^{20.SINR(\frac{1}{k}-1)}}$
+% $\ac{ToA}_{\textbf{s}}    = \frac{2^{\red{SF}}}{\green{BW}_{[Hz]}}$
+% $\ac{PER}_{\textbf{[pps]}}   = 1-(1-BER)^{n_{bits}}$
 
 \end{frame}
 

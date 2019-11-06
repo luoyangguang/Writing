@@ -2027,16 +2027,125 @@
     <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
-    <bcf:citekey order="1">lowcostloragateway</bcf:citekey>
-    <bcf:citekey order="2">LorawanSpecification</bcf:citekey>
-    <bcf:citekey order="3">LorawanSpecification</bcf:citekey>
-    <bcf:citekey order="4">bor_lora_2016</bcf:citekey>
-    <bcf:citekey order="5">slabicki_adaptive_2018</bcf:citekey>
-    <bcf:citekey order="6">slabicki_adaptive_2018</bcf:citekey>
-    <bcf:citekey order="7">lorasemtech</bcf:citekey>
-    <bcf:citekey order="8">alkhawlani_access_2008</bcf:citekey>
-    <bcf:citekey order="9">tonneau_how_2015</bcf:citekey>
-    <bcf:citekey order="10">lowcostloragateway</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 3 -->
+  <bcf:bibdata section="3">
+    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="3">
+    <bcf:citekey order="1">bregell_hardware_2015</bcf:citekey>
+    <bcf:citekey order="2">sarwar_iot_</bcf:citekey>
+    <bcf:citekey order="3">sarwar_iot_</bcf:citekey>
+    <bcf:citekey order="4">hancke_role_2012</bcf:citekey>
+    <bcf:citekey order="5">hancke_role_2012</bcf:citekey>
+    <bcf:citekey order="6">kouicem_internet_2018</bcf:citekey>
+    <bcf:citekey order="7">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="8">kouicem_internet_2018</bcf:citekey>
+    <bcf:citekey order="9">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="10">rizzi_evaluation_2017</bcf:citekey>
+    <bcf:citekey order="11">feltrin_lorawan_2018</bcf:citekey>
+    <bcf:citekey order="12">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="13">feltrin_lorawan_2018</bcf:citekey>
+    <bcf:citekey order="14">venkatesan_design_2017</bcf:citekey>
+    <bcf:citekey order="15">alba_intelligent_2016</bcf:citekey>
+    <bcf:citekey order="16">qin_software_2014</bcf:citekey>
+    <bcf:citekey order="17">qin_software_2014</bcf:citekey>
+    <bcf:citekey order="18">kobo_survey_2017</bcf:citekey>
+    <bcf:citekey order="19">kobo_survey_2017</bcf:citekey>
+    <bcf:citekey order="20">kobo_survey_2017</bcf:citekey>
+    <bcf:citekey order="21">ndiaye_software_2017</bcf:citekey>
+    <bcf:citekey order="22">ndiaye_software_2017</bcf:citekey>
+    <bcf:citekey order="23">ndiaye_software_2017</bcf:citekey>
+    <bcf:citekey order="24">bera_softwaredefined_2017</bcf:citekey>
+    <bcf:citekey order="25">bera_softwaredefined_2017</bcf:citekey>
+    <bcf:citekey order="26">luo_sensor_2012</bcf:citekey>
+    <bcf:citekey order="27">costanzo_software_2012</bcf:citekey>
+    <bcf:citekey order="28">galluccio_sdnwise_2015</bcf:citekey>
+    <bcf:citekey order="29">degante_smart_2014</bcf:citekey>
+    <bcf:citekey order="30">luo_sensor_2012</bcf:citekey>
+    <bcf:citekey order="31">costanzo_software_2012</bcf:citekey>
+    <bcf:citekey order="32">galluccio_sdnwise_2015</bcf:citekey>
+    <bcf:citekey order="33">degante_smart_2014</bcf:citekey>
+    <bcf:citekey order="34">ndiaye_software_2017</bcf:citekey>
+    <bcf:citekey order="35">ndiaye_software_2017</bcf:citekey>
+    <bcf:citekey order="36">al-fuqaha_internet_24</bcf:citekey>
+    <bcf:citekey order="37">al-fuqaha_internet_24</bcf:citekey>
+    <bcf:citekey order="38">al-fuqaha_internet_24</bcf:citekey>
+    <bcf:citekey order="39">al-fuqaha_internet_24</bcf:citekey>
+    <bcf:citekey order="40">libelium_waspmote_2017</bcf:citekey>
+    <bcf:citekey order="41">libelium_waspmote_2017</bcf:citekey>
+    <bcf:citekey order="42">libelium_waspmote_2017</bcf:citekey>
+    <bcf:citekey order="43">libelium_waspmote_2017</bcf:citekey>
+    <bcf:citekey order="44">_rpl2_</bcf:citekey>
+    <bcf:citekey order="45">_rpl2_</bcf:citekey>
+    <bcf:citekey order="46">_rpl2_</bcf:citekey>
+    <bcf:citekey order="47">_rpl2_</bcf:citekey>
+    <bcf:citekey order="48">gaddam_comparative_2018</bcf:citekey>
+    <bcf:citekey order="49">gaddam_comparative_2018</bcf:citekey>
+    <bcf:citekey order="50">boulogeorgos_low_2016</bcf:citekey>
+    <bcf:citekey order="51">boulogeorgos_low_2016</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 4 -->
+  <bcf:bibdata section="4">
+    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="4">
+    <bcf:citekey order="1">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="2">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="3">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="4">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="5">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="6">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="7">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="8">cuomo_explora_2017</bcf:citekey>
+    <bcf:citekey order="9">yuzehuang_timeaware_2017</bcf:citekey>
+    <bcf:citekey order="10">duhart_organic_2017</bcf:citekey>
+    <bcf:citekey order="11">zarca_enhancing_2018</bcf:citekey>
+    <bcf:citekey order="12">duhart_organic_2017</bcf:citekey>
+    <bcf:citekey order="13">al-kashoash_comparison_2016</bcf:citekey>
+    <bcf:citekey order="14">lopes_design_2019</bcf:citekey>
+    <bcf:citekey order="15">raza_low_22</bcf:citekey>
+    <bcf:citekey order="16">ayoub_internet_2019</bcf:citekey>
+    <bcf:citekey order="17">al-kashoash_comparison_2016</bcf:citekey>
+    <bcf:citekey order="18">lopes_design_2019</bcf:citekey>
+    <bcf:citekey order="19">raza_low_22</bcf:citekey>
+    <bcf:citekey order="20">ayoub_internet_2019</bcf:citekey>
+    <bcf:citekey order="21">berder_reseaux_2014</bcf:citekey>
+    <bcf:citekey order="22">berder_reseaux_2014</bcf:citekey>
+    <bcf:citekey order="23">raza_low_22</bcf:citekey>
+    <bcf:citekey order="24">raza_low_22</bcf:citekey>
+    <bcf:citekey order="25">al-fuqaha_internet_24</bcf:citekey>
+    <bcf:citekey order="26">al-fuqaha_internet_24</bcf:citekey>
+    <bcf:citekey order="27">sarwar_iot_2015</bcf:citekey>
+    <bcf:citekey order="28">sarwar_iot_2015</bcf:citekey>
+    <bcf:citekey order="29">varsier_capacity_2017</bcf:citekey>
+    <bcf:citekey order="30">loraaliance</bcf:citekey>
+    <bcf:citekey order="31">lorasite</bcf:citekey>
+    <bcf:citekey order="32">_evaluation_</bcf:citekey>
+    <bcf:citekey order="33">_short_2007</bcf:citekey>
+    <bcf:citekey order="34">_short_2007</bcf:citekey>
+    <bcf:citekey order="35">cattani_experimental_2017</bcf:citekey>
+    <bcf:citekey order="36">petajajarvi_coverage_2015</bcf:citekey>
+    <bcf:citekey order="37">barro_lorawan_2019</bcf:citekey>
+    <bcf:citekey order="38">bendaoud_network_2019</bcf:citekey>
+    <bcf:citekey order="39">meshinchi_qosaware_2018</bcf:citekey>
+    <bcf:citekey order="40">chowdhury_survey_2018</bcf:citekey>
+    <bcf:citekey order="41">bendaoud_network_2019</bcf:citekey>
+    <bcf:citekey order="42">meshinchi_qosaware_2018</bcf:citekey>
+    <bcf:citekey order="43">chowdhury_survey_2018</bcf:citekey>
+    <bcf:citekey order="44">fakhfakh_deep_2017</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2058,6 +2167,24 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="2"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="3"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="4"
                 name="none/global//global/global"
                 type="entry"
                 sortingtemplatename="none"

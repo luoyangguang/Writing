@@ -1,0 +1,14 @@
+# Fdb version 3
+["lualatex"] 1572938790 "main.tex" "/home/aghiles/Aghiles/Research/Writing/bin/paer.pdf" "paer" 1572938790
+  "../lib/paer.tex" 0 -1 0 ""
+  "/home/aghiles/Aghiles/Research/Writing/bin/paer.aux" 1572938790 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-basic-merged.lua" 1551133342 128042 842461e0b226762dd46396545d7a277d ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-basic.lua" 1551133342 2722 1bf53d4477fd3e857eb562eef52be3e2 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-compat.lua" 1367794330 603 398583cb619d20952d67edcedae41608 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended-merged.lua" 1551133342 99095 f4387a3380b6c3221b96f52c0bda5dfe ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua" 1551133342 4863 71ebb63cd7b26b0bd5592f889e94f08d ""
+  "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1571027310 1370727 ca457bc65e923a0c61d2e30cadc9f388 ""
+  "main.tex" 1572938789 859 ea0af85c46ec4e54ed1ca8e2ae67387b ""
+  (generated)
+  "/home/aghiles/Aghiles/Research/Writing/bin/paer.log"
+  "/home/aghiles/Aghiles/Research/Writing/bin/paer.pdf"

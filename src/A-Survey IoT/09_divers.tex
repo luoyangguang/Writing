@@ -109,35 +109,7 @@ R_{m}=\ac{DR}_{\textbf{[bps]}}    =& SF.RS=\red{SF}*\frac{\green{BW}_{[Hz]}}{2^{
 
 
 
-\begin{table}[h]
-%\scriptsize
-	\begin{tabular}{l|l|l}
-	\textbf{Layer}                      & \textbf{Maximize (Reward)}            				  																		& \textbf{Minimize (Cost)}          						      		\\\hline
-	Application							& \blue{Sec} security            	     				  																		& \ac{SC} Service Cost             										\\\hline
-	% \									& Ergonomic												  												&																		\\
 
-	Network 					 	 	& 																																& *\ac{PS}  															\\
-    \                                   & $\ac{PRR} = (1-\ac{BER})^{L}$							  																		& *\ac{Jit}                   										    \\
-    \                                   & *\ac{PDR} 						  																										& *\ac{TC}       														\\
-    \                                   & *\blue{Range}     	 								  																		& *\ac{RTT}																\\
-    \                                   & 										       			  																		& $\ac{PER}_{\textbf{[pps]}}   = 1-(1-BER)^{n_{bits}}$          		\\
-    \                                   & *\ac{Th} 																														& *\ac{O_{time}}														\\
-	\                                   &  									       					  																	& *\ac{O_{space}}														\\\hline
-
-	Radio 				       			& $\ac{SNR}_{\textbf{[dB]}}= 20.log(\frac{S}{N})$																				& $\ac{BER}_{\textbf{[bps]}}  = 10^{\alpha .e^{\ \beta \tiny\ac{SNR}}}$\\
-	\							        & $\ac{RSSI} = Tx_{power}.\frac{Rayleigh_{power}}{PL}$ 																			& $\ac{BER}_{\textbf{[bps]}}   = \frac{8}{15}.\frac{1}{16}.\sum{k=2}{16}{-1^{k}(\frac{16}{k})e^{20.SINR(\frac{1}{k}-1)}}$    \\     		      							\\
-	\							        & $\ac{SR}_{\textbf{[sps]}}= \frac{\green{BW}}{2^{\red{SF}}}$ 																	& *\ac{Tx}   															\\
-	\							        & $\ac{BR}_{\textbf{[bps]}} = \red{SF} * \frac{\frac{4}{4+\yellow{CR}}}{\frac{2 \red{SF}}{\green{BW}}}$							& *\ac{CCI}																\\
-	\							        & $\ac{PL}=|R S S I|+S N R+P_{T X}+G_{R X}$	\cite{petajajarvi_coverage_2015}							  						& $\ac{ToA}_{\textbf{s}}    = \frac{2^{\red{SF}}}{\green{BW}_{[Hz]}}$  	\\														\\
-	\									& $\ac{Sen}_{\textbf{[dBm]}} = -174+10 \log _{10} \green{BW} + NF + SNR$ \cite{barro_lorawan_2019}	 							& 																		\\
-	\									& *\ac{DC} Duty cycle 																											& 																		\\
-	\									& *\ac{Mob}	 																													& 																		\\
-	\									& *\ac{SINR} 																													& 																		\\
-	\									& *\ac{SL} Sleep time																											& 																		\\
-	\									& *\ac{SIR}																														& 																		\\
-	\end{tabular}
-\caption{\label{tab:scheduling} Network selection inputs and classification of parameters \cite{bendaoud_network_2019} + QoS parameters \cite{meshinchi_qosaware_2018} \cite{chowdhury_survey_2018}}
-\end{table}
 
 
 

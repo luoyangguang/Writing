@@ -19,265 +19,6 @@
 
 \refsection{1}
   \datalist[entry]{none/global//global/global}
-    \entry{perera_mosden_2013}{article}{}
-      \name{author}{5}{}{%
-        {{hash=e5b420aba58a8d93cbbcaf2b1b0f4dab}{%
-           family={Perera},
-           familyi={P\bibinitperiod},
-           given={Charith},
-           giveni={C\bibinitperiod}}}%
-        {{hash=fc70eb90eedda65d38f05ef738504765}{%
-           family={Jayaraman},
-           familyi={J\bibinitperiod},
-           given={Prem\bibnamedelima Prakash},
-           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=8da289bb46b6a95f52ced670c23af820}{%
-           family={Zaslavsky},
-           familyi={Z\bibinitperiod},
-           given={Arkady},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2df88d211fd24d931ebe3bf0dd661f93}{%
-           family={Christen},
-           familyi={C\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=25d9d97c240056793c5abcc6aee6a4d0}{%
-           family={Georgakopoulos},
-           familyi={G\bibinitperiod},
-           given={Dimitrios},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{3de209921c916ed281e1c8e4c1d97279}
-      \strng{fullhash}{8e83d93795126fdb31b8044a6e275f92}
-      \strng{bibnamehash}{8e83d93795126fdb31b8044a6e275f92}
-      \strng{authorbibnamehash}{8e83d93795126fdb31b8044a6e275f92}
-      \strng{authornamehash}{3de209921c916ed281e1c8e4c1d97279}
-      \strng{authorfullhash}{8e83d93795126fdb31b8044a6e275f92}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Internet of Things (IoT) is part of Future Internet and will comprise many billions of Internet Connected Objects (ICO) or ‘things’ where things can sense, communicate, compute and potentially actuate as well as have intelligence, multi-modal interfaces, physical/ virtual identities and attributes. Collecting data from these objects is an important task as it allows software systems to understand the environment better. Many different hardware devices may involve in the process of collecting and uploading sensor data to the cloud where complex processing can occur. Further, we cannot expect all these objects to be connected to the computers due to technical and economical reasons. Therefore, we should be able to utilize resource constrained devices to collect data from these ICOs. On the other hand, it is critical to process the collected sensor data before sending them to the cloud to make sure the sustainability of the infrastructure due to energy constraints. This requires to move the sensor data processing tasks towards the resource constrained computational devices (e.g. mobile phones). In this paper, we propose Mobile Sensor Data Processing Engine (MOSDEN), an plug-in-based IoT middleware for mobile devices, that allows to collect and process sensor data without programming efforts. Our architecture also supports sensing as a service model. We present the results of the evaluations that demonstrate its suitability towards real world deployments. Our proposed middleware is built on Android platform.}
-      \field{day}{15}
-      \field{eprintclass}{cs}
-      \field{eprinttype}{arxiv}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{note}{00107}
-      \field{shorttitle}{{{MOSDEN}}}
-      \field{title}{{{MOSDEN}}: {{An Internet}} of {{Things Middleware}} for {{Resource Constrained Mobile Devices}}}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2018}
-      \field{year}{2013}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{eprint}
-      \verb 1310.4038
-      \endverb
-      \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/L26NV8MT/Perera et al_2013_MOSDEN.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/1310.4038
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1310.4038
-      \endverb
-      \keyw{,U-Weather}
-    \endentry
-    \entry{kouicem_internet_2018}{article}{}
-      \name{author}{3}{}{%
-        {{hash=80c6d7b1b4a4d844a6128b3538ce851d}{%
-           family={Kouicem},
-           familyi={K\bibinitperiod},
-           given={Djamel\bibnamedelima Eddine},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=68dd81e717901b7ea12174ce55056fff}{%
-           family={Bouabdallah},
-           familyi={B\bibinitperiod},
-           given={Abdelmadjid},
-           giveni={A\bibinitperiod}}}%
-        {{hash=ef7f8f2dfc79bde176339846f13a4b0a}{%
-           family={Lakhlef},
-           familyi={L\bibinitperiod},
-           given={Hicham},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{676a407ba2b82558b5f07116684c3d5f}
-      \strng{fullhash}{676a407ba2b82558b5f07116684c3d5f}
-      \strng{bibnamehash}{676a407ba2b82558b5f07116684c3d5f}
-      \strng{authorbibnamehash}{676a407ba2b82558b5f07116684c3d5f}
-      \strng{authornamehash}{676a407ba2b82558b5f07116684c3d5f}
-      \strng{authorfullhash}{676a407ba2b82558b5f07116684c3d5f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Internet of Things (IoT) is one of the promising technologies that has attracted a lot of attention in both industrial and academic fields these years. It aims to integrate seamlessly both physical and digital worlds in one single ecosystem that makes up a new intelligent era of Internet. This technology offers a huge business value for organizations and provides opportunities for many existing applications such as energy, healthcare and other sectors. However, as new emergent technology, IoT suffers from several security issues which are most challenging than those from other fields regarding its complex environment and resources-constrained IoT devices. A lot of researches have been initiated in order to provide efficient security solutions in IoT, particularly to address resources constraints and scalability issues. Furthermore, some technologies related to networking and cryptocurrency fields such as Software Defined Networking (SDN) and Blockchain are revolutionizing the world of the Internet of Things thanks to their efficiency and scalability. In this paper, we provide a comprehensive top down survey of the most recent proposed security and privacy solutions in IoT. We discuss particularly the benefits that new approaches such as blockchain and Software Defined Networking can bring to the security and the privacy in IoT in terms of flexibility and scalability. Finally, we give a general classification of existing solutions and comparison based on important parameters.}
-      \field{day}{4}
-      \field{issn}{1389-1286}
-      \field{journaltitle}{Computer Networks}
-      \field{month}{8}
-      \field{note}{00029}
-      \field{shortjournal}{Computer Networks}
-      \field{shorttitle}{Internet of Things Security}
-      \field{title}{Internet of Things Security: {{A}} Top-down Survey}
-      \field{urlday}{7}
-      \field{urlmonth}{3}
-      \field{urlyear}{2019}
-      \field{volume}{141}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{199\bibrangedash 221}
-      \range{pages}{23}
-      \verb{doi}
-      \verb 10.1016/j.comnet.2018.03.012
-      \endverb
-      \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/6UWPMR2T/Kouicem et al_2018_Internet of things security.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
-      \endverb
-      \keyw{,X-App}
-    \endentry
-    \entry{venkatesan_design_2017}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=0548fd121a3db7c549a5cbca1c645ff5}{%
-           family={Venkatesan},
-           familyi={V\bibinitperiod},
-           given={V.\bibnamedelimi Prasanna},
-           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=c72445bd061fd9d1f42e545bcc341fd9}{%
-           family={Devi},
-           familyi={D\bibinitperiod},
-           given={C.\bibnamedelimi Punitha},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=9396c8c2d9112305d5f010428e124f4b}{%
-           family={Sivaranjani},
-           familyi={S\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Palladam, Tamilnadu, India}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{50c0f9dc84d5a5e8f46d7060440177d0}
-      \strng{fullhash}{50c0f9dc84d5a5e8f46d7060440177d0}
-      \strng{bibnamehash}{50c0f9dc84d5a5e8f46d7060440177d0}
-      \strng{authorbibnamehash}{50c0f9dc84d5a5e8f46d7060440177d0}
-      \strng{authornamehash}{50c0f9dc84d5a5e8f46d7060440177d0}
-      \strng{authorfullhash}{50c0f9dc84d5a5e8f46d7060440177d0}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2017 {{International Conference}} on {{I}}-{{SMAC}} ({{IoT}} in {{Social}}, {{Mobile}}, {{Analytics}} and {{Cloud}}) ({{I}}-{{SMAC}})}
-      \field{eventtitle}{2017 {{International Conference}} on {{I}}-{{SMAC}} ({{IoT}} in {{Social}}, {{Mobile}}, {{Analytics}} and {{Cloud}}) ({{I}}-{{SMAC}})}
-      \field{isbn}{978-1-5090-3242-6 978-1-5090-3243-3}
-      \field{month}{2}
-      \field{note}{00004}
-      \field{title}{Design of a Smart Gateway Solution Based on the Exploration of Specific Challenges in {{IoT}}}
-      \field{urlday}{28}
-      \field{urlmonth}{5}
-      \field{urlyear}{2019}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{22\bibrangedash 31}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1109/I-SMAC.2017.8058352
-      \endverb
-      \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/A8CEDHVT/Venkatesan et al_2017_Design of a smart gateway solution based on the exploration of specific.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://ieeexplore.ieee.org/document/8058352/
-      \endverb
-      \verb{url}
-      \verb http://ieeexplore.ieee.org/document/8058352/
-      \endverb
-      \keyw{,X-App}
-    \endentry
-    \entry{feltrin_lorawan_2018}{article}{}
-      \name{author}{5}{}{%
-        {{hash=2916a9cce7425ffcd8b695576b194b7c}{%
-           family={Feltrin},
-           familyi={F\bibinitperiod},
-           given={Luca},
-           giveni={L\bibinitperiod}}}%
-        {{hash=659bce3605b7d6cf6f2cbd389ad911a1}{%
-           family={Buratti},
-           familyi={B\bibinitperiod},
-           given={Chiara},
-           giveni={C\bibinitperiod}}}%
-        {{hash=416b5af99311d6f22b24a3c2c5a58d82}{%
-           family={Vinciarelli},
-           familyi={V\bibinitperiod},
-           given={Enrico},
-           giveni={E\bibinitperiod}}}%
-        {{hash=7cb2a33cbe4e6402b229d1d1fc1538a2}{%
-           family={De\bibnamedelima Bonis},
-           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={Roberto},
-           giveni={R\bibinitperiod}}}%
-        {{hash=e6700cd9224619779fd1c05720fb297f}{%
-           family={Verdone},
-           familyi={V\bibinitperiod},
-           given={Roberto},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{bd3986956c7fd93a0970eba94035e42c}
-      \strng{fullhash}{0d52bc6f0a24f2ce3556d8edb601aa24}
-      \strng{bibnamehash}{0d52bc6f0a24f2ce3556d8edb601aa24}
-      \strng{authorbibnamehash}{0d52bc6f0a24f2ce3556d8edb601aa24}
-      \strng{authornamehash}{bd3986956c7fd93a0970eba94035e42c}
-      \strng{authorfullhash}{0d52bc6f0a24f2ce3556d8edb601aa24}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Internet of Things (IoT) addresses a huge set of possible application domains, requiring both short- and long-range communication technologies. When long distances are present, a number of proprietary and standard solutions for Low Power Wide Area Networks (LPWAN) are already available. Among them, LoRaWAN is a candidate technology supported by many network operators. This paper discusses the possible role of LoRaWAN for the IoT. First, the LoRaWAN technology is assessed experimentally through a set of laboratory and on-field tests, to characterize it from the link-level viewpoint; then, a system-level analysis is performed through simulation, to evaluate the capacity of a LoRaWAN gateway and a multigateway network to serve a large area. Finally, the results are discussed considering a broad set of use cases.}
-      \field{issn}{2327-4662}
-      \field{journaltitle}{IEEE Internet of Things Journal}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{note}{00018}
-      \field{number}{3}
-      \field{shorttitle}{{{LoRaWAN}}}
-      \field{title}{{{LoRaWAN}}: {{Evaluation}} of {{Link}}- and {{System}}-{{Level Performance}}}
-      \field{urlday}{13}
-      \field{urlmonth}{5}
-      \field{urlyear}{2019}
-      \field{volume}{5}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{2249\bibrangedash 2258}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1109/JIOT.2018.2828867
-      \endverb
-      \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/685GB2HT/Feltrin et al. - 2018 - LoRaWAN Evaluation of Link- and System-Level Perf.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://ieeexplore.ieee.org/document/8344411/
-      \endverb
-      \verb{url}
-      \verb https://ieeexplore.ieee.org/document/8344411/
-      \endverb
-      \keyw{PDR,SIR,BW,M-xDivers}
-    \endentry
     \entry{cattani_experimental_2017}{article}{}
       \name{author}{3}{}{%
         {{hash=5580c2793a5997f0ca044894909252ca}{%
@@ -316,124 +57,226 @@
       \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf
+      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
       \endverb
       \keyw{,M-xDivers}
     \endentry
-    \entry{sciancalepore_storns_2019}{article}{}
+    \entry{dawaliby_adaptive_2019}{article}{}
       \name{author}{3}{}{%
-        {{hash=b296007b01d2e906ea4e171605bb8c03}{%
-           family={Sciancalepore},
-           familyi={S\bibinitperiod},
-           given={Vincenzo},
-           giveni={V\bibinitperiod}}}%
-        {{hash=160b997b4b11f13b4c0612593dbc8327}{%
-           family={Di\bibnamedelima Renzo},
-           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d130dea98fc934a2c9dde3363e185cf2}{%
-           family={Costa-Perez},
-           familyi={C\bibinithyphendelim P\bibinitperiod},
-           given={Xavier},
-           giveni={X\bibinitperiod}}}%
+        {{hash=ec815706190704d01733a205dfc1b96c}{%
+           family={Dawaliby},
+           familyi={D\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9451e504c00df59199b6e64a9cf313d0}{%
+           family={Bradai},
+           familyi={B\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20a06b1612e68e9c6c1abc5f8527d9f5}{%
+           family={Pousset},
+           familyi={P\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
       }
-      \strng{namehash}{2089efff16d00a0c6ca795e8f58c6a69}
-      \strng{fullhash}{2089efff16d00a0c6ca795e8f58c6a69}
-      \strng{bibnamehash}{2089efff16d00a0c6ca795e8f58c6a69}
-      \strng{authorbibnamehash}{2089efff16d00a0c6ca795e8f58c6a69}
-      \strng{authornamehash}{2089efff16d00a0c6ca795e8f58c6a69}
-      \strng{authorfullhash}{2089efff16d00a0c6ca795e8f58c6a69}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \strng{namehash}{d8a8248965d1610efcb02e5689c1fcea}
+      \strng{fullhash}{d8a8248965d1610efcb02e5689c1fcea}
+      \strng{bibnamehash}{d8a8248965d1610efcb02e5689c1fcea}
+      \strng{authorbibnamehash}{d8a8248965d1610efcb02e5689c1fcea}
+      \strng{authornamehash}{d8a8248965d1610efcb02e5689c1fcea}
+      \strng{authorfullhash}{d8a8248965d1610efcb02e5689c1fcea}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Recently released 5G networks empower the novel Network Slicing concept. \%which enables novel business models; Network slicing introduces new business models such as allowing telecom providers to lease a virtualized slice of their infrastructure to tenants such as industry verticals, e.g. automotive, e-health, factories, etc. However, this new paradigm poses a major challenge when applied to Radio Access Networks (RAN): how to achieve revenue maximization while meeting the diverse service level agreements (SLAs) requested by the infrastructure tenants? In this paper, we propose a new analytical framework, based on stochastic geometry theory, to model realistic RANs that leverage the business opportunities offered by network slicing. We mathematically prove the benefits of slicing radio access networks as compared to non-sliced infrastructures. Based on this, we design a new admission control functional block, STORNS, which takes decisions considering per slice SLA guaranteed average experienced throughput. A radio resource allocation strategy is introduced to optimally allocate transmit power and bandwidth (i.e., a slice of radio access resources) to the users of each infrastructure tenant. Numerical results are illustrated to validate our proposed solution in terms of potential spectral efficiency, and compare it against a non-slicing benchmark.}
-      \field{annotation}{Comment: Submitted for publication to IEEE conference}
-      \field{day}{16}
-      \field{eprintclass}{cs, math}
-      \field{eprinttype}{arxiv}
-      \field{month}{1}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Knowing the heterogeneity of applications and services that need to to be supported in the internet of things (IoT), network slicing came out as a potential solution that virtually isolates 5G networks with various service requirements over a common physical network infrastructure. The latter needs to simultaneously support and isolate traffic issued from mobile and machine services which may require different needs in terms of reliability, latency, and bandwidth. In this paper, network slicing is investigated in LoRa networks over fixed and dynamic slicing strategies. The performance of LoRa slices is evaluated with different spreading factor (SF) configurations. Then, a dynamic inter-slicing algorithm is proposed based on a maximum likelihood estimation that avoids resource starvation and prioritizes a slice over another depending on its QoS requirements. Moreover, a novel intra-slicing strategy is proposed that maximizes resource allocation efficiency of LoRa slices with regard to their delay requirements. An energy module for LoRa in NS3 is also implemented to evaluate the energy consumption of devices in each slice. Simulation results performed in realistic LoRa scenarios highlight the utility of our proposition in improving QoS requirements of IoT devices and providing isolation between slices.}
+      \field{issn}{0167739X}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{langid}{english}
+      \field{month}{9}
       \field{note}{00001}
-      \field{shorttitle}{{{STORNS}}}
-      \field{title}{{{STORNS}}: {{Stochastic Radio Access Network Slicing}}}
-      \field{urlday}{30}
+      \field{title}{Adaptive Dynamic Network Slicing in {{LoRa}} Networks}
+      \field{urlday}{2}
       \field{urlmonth}{7}
       \field{urlyear}{2019}
+      \field{volume}{98}
       \field{year}{2019}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \verb{eprint}
-      \verb 1901.05336
-      \endverb
-      \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/NW87WX9Z/Sciancalepore et al. - 2019 - STORNS Stochastic Radio Access Network Slicing.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/1901.05336
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1901.05336
-      \endverb
-      \keyw{Computer Science - Information Theory,**,A-RAN,M-Proba}
-    \endentry
-    \entry{ksentini_toward_2017}{article}{}
-      \name{author}{2}{}{%
-        {{hash=09a4314866bfc9e9a165ec1171cd71b6}{%
-           family={Ksentini},
-           familyi={K\bibinitperiod},
-           given={Adlen},
-           giveni={A\bibinitperiod}}}%
-        {{hash=fa9e906130925b054a4128333170caa3}{%
-           family={Nikaein},
-           familyi={N\bibinitperiod},
-           given={Navid},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \strng{fullhash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \strng{bibnamehash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \strng{authorbibnamehash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \strng{authornamehash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \strng{authorfullhash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0163-6804}
-      \field{journaltitle}{IEEE Communications Magazine}
-      \field{langid}{english}
-      \field{note}{00063}
-      \field{number}{6}
-      \field{shorttitle}{Toward {{Enforcing Network Slicing}} on {{RAN}}}
-      \field{title}{Toward {{Enforcing Network Slicing}} on {{RAN}}: {{Flexibility}} and {{Resources Abstraction}}}
-      \field{urlday}{30}
-      \field{urlmonth}{7}
-      \field{urlyear}{2019}
-      \field{volume}{55}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{102\bibrangedash 108}
-      \range{pages}{7}
+      \field{pages}{697\bibrangedash 707}
+      \range{pages}{11}
       \verb{doi}
-      \verb 10.1109/MCOM.2017.1601119
+      \verb 10.1016/j.future.2019.01.042
       \endverb
       \verb{file}
-      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/5U8DMYIU/Ksentini and Nikaein - 2017 - Toward Enforcing Network Slicing on RAN Flexibili.pdf
+      \verb Dawaliby et al. - 2019 - Adaptive dynamic network slicing in LoRa networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/SJIUBYLD/Dawaliby et al. - 2019 - Adaptive dynamic network slicing in LoRa networks.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb http://ieeexplore.ieee.org/document/7946928/
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0167739X18318429
       \endverb
       \verb{url}
-      \verb http://ieeexplore.ieee.org/document/7946928/
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0167739X18318429
       \endverb
       \keyw{,M-Proba}
     \endentry
+    \entry{bendaoud_network_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a9f520f4aa66b0de8c1855215530d96f}{%
+           family={Bendaoud},
+           familyi={B\bibinitperiod},
+           given={Fayssal},
+           giveni={F\bibinitperiod}}}%
+        {{hash=07307ea13cb65973f766c45bc1d7dcf5}{%
+           family={Abdennebi},
+           familyi={A\bibinitperiod},
+           given={Marwen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ed32356c3e6bfec45051306891d8575b}{%
+           family={Didi},
+           familyi={D\bibinitperiod},
+           given={Fedoua},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{fullhash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{bibnamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{authorbibnamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{authornamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \strng{authorfullhash}{51e480f55c4fbb02494f8eaa65eeb1bd}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Heterogeneous wireless networks is a term referring to networks combining different radio access technologies with the aim of establishing the best connection possible. In this case, users with multi-mode terminals can connect via different wireless technologies, such as 802.16, 802.11, UMTS, HSPA and LTE, all at the same time. The problem consists in the selection of the most suitable from all radio access technologies available. The decision process is called network selection, and depends on several parameters, such as quality of service, mobility, cost, energy, battery life, etc. Several methods and approaches have been proposed in this context, with their objective being to offer the best QoS to the users, and/or to maximize re-usability of the networks. This paper represents a survey of the network selection methods used. Multiple attribute-dependent decision-making methods are presented. Furthermore, the game theory concept is illustrated, the use of the fuzzy logic is presented, and the utility functions defining the network selection process are discussed.}
+      \field{issn}{15094553, 18998852}
+      \field{journaltitle}{Journal of Telecommunications and Information Technology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{note}{00000}
+      \field{shorttitle}{Network {{Selection}} in {{Wireless Heterogeneous Networks}}}
+      \field{title}{Network {{Selection}} in {{Wireless Heterogeneous Networks}}: A {{Survey}}}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{64\bibrangedash 74}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.26636/jtit.2018.126218
+      \endverb
+      \verb{file}
+      \verb Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/739YRMYN/Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.itl.waw.pl/czasopisma/JTIT/2018/4/64.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.itl.waw.pl/czasopisma/JTIT/2018/4/64.pdf
+      \endverb
+      \keyw{*,E-RAN}
+    \endentry
+    \entry{meshinchi_qosaware_2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=632210d121fd5c704bd559e34a231b1f}{%
+           family={Meshinchi},
+           familyi={M\bibinitperiod},
+           given={Atefeh},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {École Polytechnique de Montréal}%
+      }
+      \strng{namehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{fullhash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{bibnamehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{authorbibnamehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{authornamehash}{632210d121fd5c704bd559e34a231b1f}
+      \strng{authorfullhash}{632210d121fd5c704bd559e34a231b1f}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{«{}L'Internet des objets (IdO) est une infrastructure mondiale pour la société de l'information, qui permet de disposer de services évolués en interconnectant des objets (physiques ou virtuels) grâce aux technologies de l'information et de la communication interopérables existantes ou en évolution. »{}[1] La vision de l'Internet des Objets est d'étendre l'Internet dans nos vies quotidiennes afin d'améliorer la qualité de vie des personnes, de sorte que le nombre d'appareils connectés et d'applications innovantes augmente très rapidement pour amener l'intelligence dans différents secteurs comme la ville, le transport ou la santé. En 2020, les études affirment que les appareils connectés à Internet devraient compter entre 26 milliards et 50 milliards d'unités. [2, 3] La qualité de service d'application IoT dépend non seulement du réseau Internet et de l'infrastructure de communication, mais aussi du fonctionnement et des performances des appareils IoT. Par conséquent, les nouveaux paramètres de QoS tels que la précision des données et la disponibilité des appareils deviennent importants pour les applications IoT par rapport aux applications Internet. Le grand nombre de dispositifs et d'applications IoT connectés à Internet, et le flux de trafic spontané entre eux rendent la gestion de la qualité de service complexe à travers l'infrastructure Internet. D'un autre côté, les dispositifs non-IP et leurs capacités limitées en termes d'énergie et de transmission créent l'environnement dynamique et contraint. De plus, l'interconnexion de bout en bout entre les dispositifs et les applications n'est pas possible. Aussi, les applications sont intéressées par les données collectées, pas à la source spécifique qui les produit. Le Software Defined Networking (SDN) est un nouveau paradigme pour les réseaux informatiques apparu récemment pour cacher la complexité de l'architecture de réseau traditionnelle (par exemple de l'Internet) et briser la fermeture des systèmes de réseau dans les fonctions de contrôle et de données. Il permet aux propriétaires et aux administrateurs de réseau de contrôler et de gérer le comportement du réseau par programme, en découplant le plan de contrôle du plan de données. SDN a le potentiel de révolutionner les réseaux informatiques classiques existants, en offrant plusieurs avantages tels que la gestion centralisée, la programmabilité du réseau, l'efficacité des coûts d'exploitation, et les innovations. Dans cette thèse, nous étudions la gestion de ressources sur l'infrastructure IoT, y compris les réseaux de transport/Internet et de détection. Nous profitons de la technologie SDN comme le futur d'Internet pour offrir un système de support QoS flexible et adaptatif pour les services IoT. Nous présentons un intergiciel basé sur SDN pour définir un cadre de gestion de QoS pour gérer les besoins spécifiques de chaque application à travers l'infrastructure IoT. De plus, nous proposons un nouveau modèle QoS qui prend en compte les préférences de QoS des applications et l'état des éléments de réseau pour allouer efficacement les ressources sur le réseau transport/Internet basé sur SDN tout en maximisant les performances du réseau.----------ABSTRACT: The Internet of Things (IoT) is an integration of various kinds of technologies, wherein heterogeneous objects with capabilities of sensing, actuation, communication, computation, networking, and storage are rapidly developed to collect the data for the users and applications. The IoT vision is to extend the Internet into our everyday lives, so the number of connected devices and innovative applications are growing very fast to bring intelligence into as many domains as possible. The QoS for IoT application not only depends on the Internet network and communication infrastructure, it is also impacted by the operation and performance of IoT sensing infrastructure. Therefore, the new QoS parameters such as data accuracy, sampling rate, and device availability become important for the IoT applications compared to the Internet applications. The huge number of the Internet-connected IoT devices and application, and the spontaneous traffic flow among them make the management of the quality of service complex across the Internet infrastructure. On the other hand, the non-IP devices and their limited capabilities in terms of energy and transmission create the dynamic environment and hinder the direct interaction between devices and applications. The quality of service is becoming one of the critical non-functional IoT element which needs research and studies. A flexible and scalable QoS management mechanism must be implemented in IoT system to keep up with the growth rate of the Internet-connected IoT devices and applications as well as their heterogeneity and diversity. The solution should address the IoT application requirements and user satisfaction while considering the system dynamism, limitations, and characteristics. Software-Defined Networking (SDN) is an emerging paradigm in computer networking which separates the control plane and the data plane of the network elements. It makes the network elements programmable via the centralized control plane. This approach enables more agile management and control over the network behavior. In this thesis, we take advantage of SDN technology as the future of the Internet to offer a flexible and adaptive QoS support scheme for the IoT services. We present an SDN-based middleware to define a QoS management framework to manage the application specific QoS needs across the IoT infrastructure including transport and sensing network. Also, we propose a new QoS model that takes into account the application QoS preferences and the network elements status to allocate effectively the resources for the applications across SDN network while maximizing network performance.}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{note}{00000}
+      \field{title}{{{QOS}}-{{Aware}} and {{Status}}-{{Aware Adaptive Resource Allocation Framework}} in {{SDN}}-{{Based IOT Middleware}}}
+      \field{type}{masters}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BNHZ9XGG/Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.polymtl.ca/3096/
+      \endverb
+      \verb{url}
+      \verb https://publications.polymtl.ca/3096/
+      \endverb
+      \keyw{,A-SDN}
+    \endentry
+    \entry{chowdhury_survey_2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ada9d063c7c5a46760fe39b5a8e064ca}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Abishi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db2c26090b531db0692142534a8592c9}{%
+           family={Raut},
+           familyi={R\bibinitperiod},
+           given={Shital\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{fullhash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{bibnamehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{authorbibnamehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{authornamehash}{490c0920e0b381a823ab907e46f81adf}
+      \strng{authorfullhash}{490c0920e0b381a823ab907e46f81adf}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the modern era of computation, Internet of Things (IoT) has attracted more and more attention for implementing automation based high quality eco-system, innovative and reliable services, and improved productivity. That is why, IoT is presently spanning over a diverse range of applications in the fields of education, healthcare, agriculture, military, industry, etc. The resources IoT requires in those applications are heterogeneous in nature, for example, storage, processor, network, sensor nodes, energy, etc. The obvious challenge is how to manage these limited resources efficiently. Quite recently a number of attempts have been made towards an optimal resource management using various scheduling schemes. This paper broadly divides these scheduling schemes into three aspects, namely Quality of Services (QoS), IoT architecture, and IoT network infrastructure. The paper also presents an analysis based on different metrics of IoT resource scheduling and a comparison among different resource scheduling techniques. A section of this analysis is dedicated to the simulation model analyses involved in different scheduling schemes. Finally, we believe there is still a lot of scope in improving IoT resource management maintaining the overall quality needed. The paper considers with such a future direction of research in this field.}
+      \field{day}{15}
+      \field{issn}{1084-8045}
+      \field{journaltitle}{Journal of Network and Computer Applications}
+      \field{month}{10}
+      \field{note}{00002}
+      \field{shortjournal}{Journal of Network and Computer Applications}
+      \field{title}{A Survey Study on {{Internet}} of {{Things}} Resource Management}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{volume}{120}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 60}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.jnca.2018.07.007
+      \endverb
+      \verb{file}
+      \verb Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/8678UQHT/Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1084804518302315
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1084804518302315
+      \endverb
+      \keyw{,M-Utility}
+    \endentry
   \enddatalist
-  \missing{alkhawlani_access_2008a}
-  \missing{dimartino_internet_2018}
-  \missing{sama_servicebased_2016}
 \endrefsection
 \endinput
 

@@ -1,9 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.12
-[0] Config.pm:307> INFO - Logfile is 'plot/bin/slice2.blg'
-[22] biber:315> INFO - === Mon Nov  4, 2019, 07:46:31
-[40] Biber.pm:371> INFO - Reading 'plot/bin/slice2.bcf'
-[88] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[93] Utils.pm:193> WARN - The file 'plot/bin/slice2.bcf' does not contain any citations!
-[98] bbl.pm:636> INFO - Writing 'plot/bin/slice2.bbl' with encoding 'UTF-8'
-[98] bbl.pm:739> INFO - Output to plot/bin/slice2.bbl
-[98] Biber.pm:110> INFO - WARNINGS: 1
